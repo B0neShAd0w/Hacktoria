@@ -28,7 +28,7 @@ The first step is to pull out imformation from the Mission Briefing that we feel
 * from Northwest Berkeley
 * after she didn’t return from her evening jog
 
-We can be fairly confident that she was abducted around the Northwest Berkeley area, as a jogger will stay close to home. so we will begin our search locally.
+We can be fairly confident that she was abducted around the Northwest Berkeley area, as a jogger would stay fairly close to home. so we will begin our search locally.
 
 A quick search (exiftool) of the image itself for clues does not bear fruit, umm.
 
