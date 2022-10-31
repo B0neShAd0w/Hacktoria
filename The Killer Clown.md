@@ -28,16 +28,16 @@ The first step is to pull out imformation from the Mission Briefing that we feel
 * from Northwest Berkeley
 * after she didn’t return from her evening jog
 
-We can be fairly confident that she was abducted around the Northwest Berkeley area, as a jogger would stay fairly close to home. so we will begin our search locally.
+We can be fairly confident that Melany was abducted around the Northwest Berkeley area, as a jogger would stay fairly close to home. so we will begin our search locally.
 
 A quick search (exiftool) of the image itself for clues does not bear fruit, umm.
 
-Can we learn anything from a reverse image search on the photo or parts of the photo that can give us some breadcrumbs?.
-Unfortunately Google, Bing & TinEye reverse image searches didn't provide any helpful clues.
+Can we learn anything from a reverse image search on the photo or parts of the image that can give us some breadcrumbs?.
+Unfortunately Google, Bing & TinEye etc. reverse image searches didn't provide any helpful clues.
 
 Looks like we will just need to hunt around Google Earth for clues and hopefully get lucky!
 
-Lets start by exploring the **Northwest Berkeley area**, 5 parks jump out as a "starter for ten"
+Lets start by exploring the Northwest Berkeley area, 5 parks jump out as a "starter for ten"
 * Ocean View Park
 * Cedar Rose Park
 * Virginia-Mcgee Totland
@@ -46,10 +46,10 @@ Lets start by exploring the **Northwest Berkeley area**, 5 parks jump out as a "
 
 ![Northwest Berkeley](https://user-images.githubusercontent.com/117080369/199007428-eeadc783-4aa0-4b53-82d5-42cd28da1307.png)
 
-A quick street view of Ocean View Park area comes up blank, no sign of bins or benches that match the photo.
-Lets move on to the next park on the list, Cedar Rose Park
+A quick street view of Ocean View Park area comes up blank, no sign of bins or benches that match the image.
+Lets move on to the next park on the list, Cedar Rose Park.
 
-Selecting one of the points on Street view gives us a clue as the bin and bench look very similar to the picture delivered by the clown.
+Selecting one of the points on Street view gives us a clue as the bin and bench look very similar to the ones in the image sent by the clown.
 
 ![First clue](https://user-images.githubusercontent.com/117080369/199009275-1cd6bde7-0e2b-4539-ba3f-2e47ae7da20b.png)
 
@@ -57,6 +57,7 @@ Lets explore Cedar Rose Park to see if we can locate the spot. Once we are confi
 
 Zoom in and we are able to get the name of the `dirty-mud-path.`
 
+We now have all the imformation needed to create the password for the link file.
 
 
 
