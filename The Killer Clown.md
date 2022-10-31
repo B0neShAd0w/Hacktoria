@@ -49,7 +49,7 @@ Lets start by exploring the Northwest Berkeley area, 5 parks jump out as a "star
 A quick street view of Ocean View Park area comes up blank, no sign of bins or benches that match the image.
 Lets move on to the next park on the list, Cedar Rose Park.
 
-Selecting one of the points on Street view gives us a clue as the bin and bench look very similar to the ones in the image sent by the clown.
+Selecting one of the points on Street view gives us a clue, the bin and bench look very similar to the ones in the image sent by the clown.
 
 ![First clue](https://user-images.githubusercontent.com/117080369/199009275-1cd6bde7-0e2b-4539-ba3f-2e47ae7da20b.png)
 
