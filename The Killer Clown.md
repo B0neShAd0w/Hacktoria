@@ -1,3 +1,5 @@
+![hacktoria-logo-long-cyber](https://user-images.githubusercontent.com/117080369/198996267-18ea68b6-fafc-421a-ae14-0c3e65e88c10.png)
+
 # Contract: The Killer Clown
 ![the-killer-clown-600x600](https://user-images.githubusercontent.com/117080369/198994429-8093a4d4-a7bc-430f-a6d0-763298f4c500.jpg)
 
@@ -17,3 +19,6 @@ About 30 minutes ago, the San Francisco Police Department received a new picture
 Given the circumstances, we have no time to waste. Your assignment is simple, find the location of the picture below. Before the next victim dies, tied up in a box underground, slowly suffocating while tightly wrapped in ropes.
 
 Special Agent K. The contract is yours, if you choose to accept.
+
+### Process:
+The details I feel are important have been highlighted in the MIssion Briefing above.
