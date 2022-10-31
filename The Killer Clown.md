@@ -8,13 +8,13 @@
 
 ### Mission Briefing:
 
-Greetings, Special Agent K. We have a very urgent case on our hands. The San Francisco Police Department is working on a true horror case this October. There is an actual killer clown roaming the streets of the greater San Francisco area.
+Greetings, Special Agent K. We have a very urgent case on our hands. The San Francisco Police Department is working on a true horror case this October. There is an actual killer clown roaming the `streets of the greater San Francisco area.`
 
 The killer is dressed as a clown and strikes at night, mostly targeting women and younger men. The victims are drugged and bound tightly with a long rope, stretching all the way around the body. After this, the killer attaches an oxygen tank to the victim and puts them inside a coffin sized box. Making it impossible to move, but just enough to breathe slowly.
 
 The victim is then buried alive and a picture is taken of the location, which is then sent to the police. With the amount of oxygen in the tank, victims usually last about 24 hours. Though with the panic setting in, some die within 6 hours. A few others suffered a heart attack from the panic. They are left as a game, for the police to find the location in time, or not. So far there have been several sightings of a clown at night, though only for brief moments. In one of the photo’s, the image of the clown was visible in a car mirror caught on camera.
 
-About 30 minutes ago, the San Francisco Police Department received a new picture from the clown. This time we have reason to believe the victim is Melany Parker, a 23 year old woman from Northwest Berkeley. She was reported missing by her boyfriend, after she didn’t return from her evening jog.
+About 30 minutes ago, the San Francisco Police Department received a new picture from the clown. This time we have reason to believe the victim is Melany Parker, a 23 year old woman `from Northwest Berkeley.` She was reported missing by her boyfriend, `after she didn’t return from her evening jog.`
 
 Given the circumstances, we have no time to waste. Your assignment is simple, find the location of the picture below. Before the next victim dies, tied up in a box underground, slowly suffocating while tightly wrapped in ropes.
 
@@ -27,6 +27,8 @@ The first step is to pull out imformation from the Mission Briefing that we feel
 * streets of the greater San Francisco area
 * from Northwest Berkeley
 * after she didn’t return from her evening jog
+
+We can be fairly confident that she was abducted around the Northwest Berkeley area, as a jogger will stay close to home. so we will begin our search locally.
 
 A quick search (exiftool) of the image itself for clues does not bear fruit, umm.
 
@@ -51,7 +53,7 @@ Selecting one of the points on Street view gives us a clue as the bin and bench 
 
 ![First clue](https://user-images.githubusercontent.com/117080369/199009275-1cd6bde7-0e2b-4539-ba3f-2e47ae7da20b.png)
 
-Lets explore Cedar Rose Park to see if we can locate the spot. Once we are confident we have the correct location lets move over to Google Maps and search foe Cedar Rose Park, Berkeley.
+Lets explore Cedar Rose Park to see if we can locate the spot. Once we are confident we have the correct location lets move over to Google Maps and search for Cedar Rose Park, Berkeley.
 
 Zoom in and we are able to get the name of the `dirty-mud-path.`
 
