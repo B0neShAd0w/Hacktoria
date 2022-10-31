@@ -24,4 +24,29 @@ Special Agent K. The contract is yours, if you choose to accept.
 
 ### Process:
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
+* streets of the greater San Francisco area
+* from Northwest Berkeley
+* after she didn’t return from her evening jog
+
+A quick search (exiftool) of the image itself for clues does not bear fruit, umm.
+
+Can we learn anything from a reverse image search on the photo or parts of the photo that can give us some breadcrumbs?.
+Unfortunately Google, Bing & TinEye reverse image searches didn't provide any helpful clues.
+
+Looks like we will just need to hunt around Google Earth for clues and hopefully get lucky.
+
+Lets explore Northwest Berkeley area, 5 parks jump out as a "starter for ten"
+* Ocean View Park
+* Cedar Rose Park
+* Virginia-Mcgee Totland
+* Ohlone Dog Park
+* Strawberry Creek Park
+
+![Northwest Berkeley](https://user-images.githubusercontent.com/117080369/199007428-eeadc783-4aa0-4b53-82d5-42cd28da1307.png)
+
+
+
+
+
+
 
