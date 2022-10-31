@@ -20,5 +20,6 @@ Given the circumstances, we have no time to waste. Your assignment is simple, fi
 
 Special Agent K. The contract is yours, if you choose to accept.
 
+---
 ### Process:
 The details I feel are important have been highlighted in the **Mission Briefing** above.
