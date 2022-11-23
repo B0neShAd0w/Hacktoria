@@ -23,14 +23,18 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 
 ### Process:
 Reading through the mission briefing doesn't really give us anything to go on, so the next step is to look at analyzing the image.
+
+Nothing specific in the image we can really use to identify the location.
+
 * Exiftool - nothing useful
 * Aperi'Solve - nothing useful
 * Google reverse image search - nothing useful
 * Bing reverse image search - nothing useful
 * Various other reverse image searches - nothing useful
-No luck with that either...
 
-At this point I am scratching my head a bit. however I am going to make the assumption that because this is a Medium difficulty challenge the `clue` we need is right in front of us...
+Nothing of any interest yet.
+
+At this point I am scratching my head a bit. however I am going to make the assumption that because this is a Medium difficulty challenge the `clue` we need must be right in front of us...
 
 Let's head over to CyberChef and select `Open file as input` scanning through the Output, the only thing that stands out a little is the very last line, the very end looks odd. Is that a clue?
 
@@ -39,6 +43,7 @@ Let's head over to CyberChef and select `Open file as input` scanning through th
 Let's copy this into CyberChef and select `Magic` from the Operation menu - nothing of interest
 Let's try Intensive mode - boom! result...
 
+REDACTED - no spoiler
 ![Screenshot 2022-11-23 121522](https://user-images.githubusercontent.com/117080369/203544854-9eafd9cf-adf6-4f4a-b72a-de59598f60b2.png)
 
 Extract the `linkfile-rogue-agent.zip` with the password from the `Rotate_right(1,false)` result and visit the `bit.ly` link to get your contract card.
