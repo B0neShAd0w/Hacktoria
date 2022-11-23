@@ -41,7 +41,8 @@ Let's head over to CyberChef and select `Open file as input` scanning through th
 æÊäÄÒÂZäÂÖÒÜÂÆZhh\djrljhZdb\`jnphf
 
 Let's copy this into CyberChef and select `Magic` from the Operation menu - nothing of interest
-Let's try Intensive mode - boom! result...
+
+Let's re-try with Intensive mode selected - boom! result...
 
 REDACTED - no spoiler
 ![Screenshot 2022-11-23 121522](https://user-images.githubusercontent.com/117080369/203544854-9eafd9cf-adf6-4f4a-b72a-de59598f60b2.png)
