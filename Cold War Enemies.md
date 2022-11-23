@@ -39,6 +39,7 @@ We can fill in some of the information required for the linkfile password.
 Let's do a quick web search for `Russian air base, Latakia, Syria` and try to find the information required.
 
 The first hit is a Wikipedia page, this gives us everything we need.
+
 ![Screenshot 2022-11-23 134208](https://user-images.githubusercontent.com/117080369/203561725-6772b262-514e-4545-b84b-42aa843d6b6c.png)
 
 Hovering over `Hmeimim` tells us the district it is in. We now have everything required for the password.
