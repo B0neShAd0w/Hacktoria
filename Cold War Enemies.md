@@ -21,14 +21,30 @@ Finding the Air Base will lead you to the password for unlocking your flagfile.
 ---
 
 ### Process:
-Reading through the mission briefing gives us a couple clues.
+The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * Russian military
 * Air base
 
 This leads me to think a reverse image search would be a good start.
 Running a Google (other search engines are available) reverse image search gives us quite a few hits that look promising.
 
+Reading through this <a href="https://www.thedrive.com/the-war-zone/17433/russias-air-base-in-syria-seems-to-be-under-regular-attack-now">page</a> tells us the name of the air base with a picture to match.
 
-We now have all the imformation needed to create the password for the link file.
+![Screenshot 2022-11-23 132344](https://user-images.githubusercontent.com/117080369/203557894-91896e1d-bda4-4a72-87f5-34344f0d23be.png)
+
+We can fill in some of the information required for the linkfile password.
+* Country: syria
+* Governate: latakia
+
+Let's do a quick web search for `Russian air base, Latakia, Syria` and try to find the information required.
+
+The first hit is a Wikipedia page, this gives us everything we need.
+![Screenshot 2022-11-23 134208](https://user-images.githubusercontent.com/117080369/203561725-6772b262-514e-4545-b84b-42aa843d6b6c.png)
+
+Hovering over `Hmeimim` tells us the district it is in. We now have everything required for the password.
+* Country: syria
+* Governate: latakia
+* District: jableh
+* Air Base Name: khmeimim
 
 Extract the `linkfile-cold-war-enemies.zip` with the password from the information gained above and visit the `bit.ly` link to get your contract card.
