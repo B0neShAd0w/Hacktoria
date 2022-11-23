@@ -1,8 +1,7 @@
 <img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552138-61a92b48-c7b5-473e-9a58-c09ccb2dcef1.png">
 
 # Contract: The Killer Clown
-![the-killer-clown-600x600](https://user-images.githubusercontent.com/117080369/198994429-8093a4d4-a7bc-430f-a6d0-763298f4c500.jpg)
-
+![the-killer-clown-cover-600x600](https://user-images.githubusercontent.com/117080369/203552615-167c8b70-28e8-4923-8b0c-b3a382e161e4.png)
 
 ### Difficulty: Easy
 
