@@ -1,8 +1,7 @@
 <img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
 
 # Contract: Prisoner of War
-![Prisoner-of-War-600x600](https://user-images.githubusercontent.com/117080369/199034080-dbe5a26c-4a3f-43cc-ae00-40496e41ae27.jpg)
-
+![prisoner-of-war-cover-600x600](https://user-images.githubusercontent.com/117080369/203552724-a6ce6a0b-139e-483d-b076-39d2eb69e2ad.png)
 
 ### Difficulty: Easy
 
