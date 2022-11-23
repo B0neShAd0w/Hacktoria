@@ -1,4 +1,4 @@
-![hacktoria-logo-long-cyber](https://user-images.githubusercontent.com/117080369/199033586-5225a142-7b15-4806-a60f-c4486a4c04be.png)
+<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
 
 # Contract: Prisoner of War
 ![Prisoner-of-War-600x600](https://user-images.githubusercontent.com/117080369/199034080-dbe5a26c-4a3f-43cc-ae00-40496e41ae27.jpg)
