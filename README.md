@@ -1,3 +1,3 @@
-![hacktoria-logo-long-cyber](https://user-images.githubusercontent.com/117080369/199033586-5225a142-7b15-4806-a60f-c4486a4c04be.png)
+<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203551663-e7bbdb9e-a0d0-4bf8-8560-a3383ad494c2.png">
 
 # Hacktoria write-ups
