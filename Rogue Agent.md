@@ -1,4 +1,4 @@
-![hacktoria-logo-long-cyber](https://user-images.githubusercontent.com/117080369/199033586-5225a142-7b15-4806-a60f-c4486a4c04be.png)
+<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203551900-f5000c88-af2e-48e6-9acc-7d845113269b.png">
 
 # Contract: Rogue Agent
 ![cover-rogue-agent-600x600](https://user-images.githubusercontent.com/117080369/203539156-ad62a2da-5bdd-4758-8856-e71cbc6e3adb.jpg)
