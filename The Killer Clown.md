@@ -58,5 +58,4 @@ Zoom in and we are able to get the name of the `dirty-mud-path.`
 
 We now have all the imformation needed to create the password for the link file.
 
-Extract the `linkfile-the-killer-clown.zip` with the password from the information gained above and visit the `bit.ly` link to get your contract card.
-
+Extract the `flagfile-the-killer-clown.zip` with the password from the information gained above to get your contract card.
