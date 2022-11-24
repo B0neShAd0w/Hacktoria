@@ -41,7 +41,23 @@ We now need to work out what the password could be, given that generally speakin
 
 As we only have 4 possibilites, let's try them one at a time - can it be that easy? umm no!
 
-Okay let's build out a word-list by combining 2 of the words to try first, if we don't have any luck we can add `-` or up it to 3 words.
+Okay let's build out a word-list by combining 2 of the words first, if we don't have any luck we can add `-` or up it to 3 words.
+* 22:3422:34
+* 22:34Narwhal
+* 22:342018
+* 22:34H.M.I.U
+* NarwhalNarwhal
+* Narwhal22:34
+* Narwhal2018
+* NarwhalH.M.I.U
+* 20182018
+* 201822:34
+* 2018Narwhal
+* 2018H.M.I.U
+* H.M.I.UH.M.I.U
+* H.M.I.U22:34
+* H.M.I.UNarwhal
+* H.M.I.U2018
 
 Doesn't take long for us to find our answer - `Narwhal2018`
 
