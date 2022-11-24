@@ -40,4 +40,4 @@ Switching to Street View gives us a few locations to have a look at. The first o
 
 We now have all the imformation needed to create the password for the link file.
 
-Extract the `linkfile-prisoner-of-war.zip` with the password from the information gained above and visit the `bit.ly` link to get your contract card.
+Extract the `flagfile-prisoner-of-war.zip` with the password from the information gained above to get your contract card.
