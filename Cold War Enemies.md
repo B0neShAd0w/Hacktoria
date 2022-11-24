@@ -48,4 +48,4 @@ Hovering over `Hmeimim` tells us the district it is in. We now have everything r
 * District: jableh
 * Air Base Name: khmeimim
 
-Extract the `linkfile-cold-war-enemies.zip` with the password from the information gained above and visit the `bit.ly` link to get your contract card.
+Extract the `flagfile-cold-war-enemies.zip` with the password to get your contract card.
