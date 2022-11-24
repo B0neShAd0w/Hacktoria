@@ -27,6 +27,8 @@ As always, Special Agent K, the contract is yours. If your choose to accept.
 ### Process:
 Is there anything useful in the mission briefing? doesn't seem we have much to go on here.
 
-Let's watch the video clip to see if there is anything hidden we can use, no luck here
+Watching the video clip doesn't give us anything useful, apart from nightmare's...
+
+Maybe there is something in the metadata of the video file? let's head over to <a href="https://www.metadata2go.com">MetaData2Go</a>
 
 Extract the `flagfile-nightmare-fuel.zip` with the password from the information gained above to get your contract card.
