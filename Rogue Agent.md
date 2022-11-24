@@ -47,4 +47,4 @@ Let's re-try with `Intensive mode` selected - boom! result...
 REDACTED - no spoiler
 ![Screenshot 2022-11-23 121522](https://user-images.githubusercontent.com/117080369/203544854-9eafd9cf-adf6-4f4a-b72a-de59598f60b2.png)
 
-Extract the `linkfile-rogue-agent.zip` with the password from the `Rotate_right(1,false)` result and visit the `bit.ly` link to get your contract card.
+Extract the `flagfile-rogue-agent.zip` with the password from the `Rotate_right(1,false)` result to get your contract card.
