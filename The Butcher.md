@@ -23,6 +23,11 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 ---
 
 ### Process:
-The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
+Reading through the mission briefing it mentions a file named "password", let's download the file and have a look at what we are dealing with.
+
+The beginning of the code looks like it is a file signature!, we can confirm this a number of ways, just have a look at <a href="https://en.wikipedia.org/wiki/List_of_file_signatures">List of file signatures - Wikipedia</a> for `49 44 33` or copy into <a href="https://gchq.github.io/CyberChef/">CyberChef</a> and from the Operation menu select `Detect File Type` 
+
+Let's copy the the HEX code over to CyberChef
+
 
 Extract the `flagfile-the-butcher.zip` with the password from the information gained above to get your contract card.
