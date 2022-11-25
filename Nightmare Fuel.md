@@ -24,7 +24,7 @@ As always, Special Agent K, the contract is yours. If your choose to accept.
 
 ---
 
-### Process:
+### Methodology:
 Is there anything useful in the mission briefing? doesn't seem we have much to go on here.
 
 Watching the video clip doesn't give us anything useful, apart from nightmare's for a week...
