@@ -65,7 +65,7 @@ Let's analyze the output again...
 ![Screenshot 2022-11-25 113600](https://user-images.githubusercontent.com/117080369/203977535-dddd8721-e7c4-48aa-9ccf-33cb39e031d7.png)
 
 Let's work through the list to see what we get...
-Looks like we hot the jackpot with the first one on the list - Base64.
+Looks like we hit the jackpot with the first one on the list - Base64.
 
 ![Screenshot 2022-11-25 114016](https://user-images.githubusercontent.com/117080369/203978245-a34e27bc-035f-4066-88a7-2be03a5d30f5.png)
 
