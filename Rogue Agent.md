@@ -21,7 +21,7 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 
 ---
 
-### Process:
+### Methodology:
 Reading through the mission briefing doesn't really give us anything to go on, so the next step is to look at analyzing the image.
 
 Nothing specific in the image we can really use to identify the location.
