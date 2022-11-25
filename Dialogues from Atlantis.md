@@ -25,7 +25,7 @@ The link you find is the password for your flagfile (updated 23.11.2022)
 ### Methodology:
 The mission briefing mentions trusting our ability to deal with ciphers and ancient dialogues, this is a big clue.
 
-Let's see if we can decode htis text.
+Let's see if we can decode the text.
 
 First thing we notice is that it looks like HEX, let's run that through <a href="https://gchq.github.io/CyberChef/">CyberChef</a>
 * Copy the code into the `Input` pane
