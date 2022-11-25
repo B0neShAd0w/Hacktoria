@@ -90,4 +90,4 @@ Reading on a bit further we find some more odd text.
 
 Putting this together gives us the password: `https://bit.ly/3Dq6rGW`
 
-Extract the `flagfile-intergalactic-warfare.zip` with the password from the information gained above to get your contract card.
+Extract the `flagfile-dialogues-from-atlantis.zip` with the password from the information gained above to get your contract card.
