@@ -64,13 +64,25 @@ Let's add those characters to our decipher chart.
 
 Work through the text one line at a time, building up our alphabet as we go.
 
-![image](https://user-images.githubusercontent.com/117080369/204030771-1989f27e-7b0e-4580-a417-d4bd1a173d12.png)
+Starting with the first line, we can guess some of the words.
 
 HELLO S-E-I-L --E-T. IT’S -I-E TO SEE -O- ---I-. TH---S -O-
 
+![image](https://user-images.githubusercontent.com/117080369/204030771-1989f27e-7b0e-4580-a417-d4bd1a173d12.png)
+
 Klumgon alphabet:
 
-![image](https://user-images.githubusercontent.com/117080369/204028750-3a4cabf9-2201-4ae1-ba5e-2a2e159fbb8c.png)
+A-J
+
+![image](https://user-images.githubusercontent.com/117080369/204033683-ba9df138-9d50-4198-98e0-6f30a00d5a10.png)
+
+K-T
+
+![image](https://user-images.githubusercontent.com/117080369/204033751-a9e953a3-5b0e-455d-a192-32cb14ecd205.png)
+
+U-Z (includes punctuation)
+
+![image](https://user-images.githubusercontent.com/117080369/204033795-47a3e7ee-0637-4570-af84-0f775a2bda6f.png)
 
 See the fully deciphered text below.
 
