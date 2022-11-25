@@ -70,7 +70,7 @@ Looks like we hit the jackpot with the first one on the list - Base64.
 
 ![Screenshot 2022-11-25 114016](https://user-images.githubusercontent.com/117080369/203978245-a34e27bc-035f-4066-88a7-2be03a5d30f5.png)
 
-Boom! we now have our decoding sequence - `Hex - ROT-47 - Base64`
+Boom! we now have our decoding sequence - `Hex - ROT47 - Base64`
 
 We can either decode the entirety of the text using the <a href="https://www.dcode.fr/cipher-identifier">Cipher Identifier</a> site or <a href="https://gchq.github.io/CyberChef/">CyberChef</a>
 
