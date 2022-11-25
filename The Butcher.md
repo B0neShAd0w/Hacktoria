@@ -25,9 +25,24 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 ### Process:
 Reading through the mission briefing it mentions a file named "password", let's download the file and have a look at what we are dealing with.
 
-The beginning of the code looks like it is a file signature!, we can confirm this a number of ways, just have a look at <a href="https://en.wikipedia.org/wiki/List_of_file_signatures">List of file signatures - Wikipedia</a> for `49 44 33` or open <a href="https://gchq.github.io/CyberChef/">CyberChef</a> and select  `Open file as input` and from the Operations menu search for `Detect File Type` 
+The beginning of the code looks like it is a file signature!, we can confirm this a number of ways, just have a look at <a href="https://en.wikipedia.org/wiki/List_of_file_signatures">List of file signatures - Wikipedia</a> for `49 44 33`
 
-Under Output click `Save output to file`, then at the `Please enter a filename:` dialog change the extension from`.dat` to `.mp3` and click OK to download the file.
+![image](https://user-images.githubusercontent.com/117080369/203943992-47c2e2a1-e0f8-4abe-8fad-5fd3e19217bf.png)
+
+Alternatively we can head over to <a href="https://gchq.github.io/CyberChef/">CyberChef</a> 
+* Copy the code into the `Input` pane
+* From the Operations menu select `From Hex` 
+
+![Screenshot 2022-11-25 092425](https://user-images.githubusercontent.com/117080369/203946107-5ae33b10-43c2-416e-a46f-8b9be421acdd.png)
+
+*   Without clearing anything, select `Detect File Type` from the Operations menu - this confirms the file type is an MP3
+
+![Screenshot 2022-11-25 092543](https://user-images.githubusercontent.com/117080369/203946457-e5298169-8793-47df-8264-5d2c6f610892.png)
+
+Under Output click `Save output to file`, then at the `Please enter a filename:` dialog change the extension from`.dat` to `.mp3` and click **OK** to download the file.
+
+![Screenshot 2022-11-25 092806](https://user-images.githubusercontent.com/117080369/203946967-9f43fac5-8e39-4056-8bbf-36ca1d5121df.png)
+
 
 Play the file in a media player like VLC to get the password.
 
