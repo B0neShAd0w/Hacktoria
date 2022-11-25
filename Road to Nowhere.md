@@ -23,6 +23,35 @@ Use the coordinates you find as the password to open the ZIP archive. Inside, yo
 ---
 
 ### Methodology:
+The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
+* Asia and Africa
 
+This doesn't give us much to go on, however there is a mention of the number `1920` which apparently is important!
+
+Let's head over to my preferred online tool <a href="https://www.aperisolve.com/">Aperi'Solve</a> for these challenges and upload our image for analysis.
+
+![image](https://user-images.githubusercontent.com/117080369/203998436-6c04295a-b919-4038-9298-0da0a4d8908e.png)
+
+Click `Submit` and review the results.
+
+Unfortunately this didn't bear any fruit.
+
+One very useful feature of Aperi'Solve is it remembers passwords that other's have tried for that particular image but doesn't tell you if they work or not.
+
+We can see that `1920` has been used in the past, if we remember back, we were told that `1920` is important!
+
+![image](https://user-images.githubusercontent.com/117080369/203998943-72f12e3b-4db5-4e18-bcf1-f97bc01b506c.png)
+
+Let's re-run with `I've got a password !` enabled and enter `1920`
+
+![image](https://user-images.githubusercontent.com/117080369/204000291-e82364bd-953b-4ed0-96af-e4dcc0533bd3.png)
+
+Boom! we have found a `location.txt` file. 
+
+![Screenshot 2022-11-25 135909](https://user-images.githubusercontent.com/117080369/204000837-8f86bea2-a69e-4787-bcb2-5a823402697e.png)
+
+Let's download it and have a look...
+
+The file contains some co-ordinates, use these as the password for the flagfile.
 
 Extract the `flagfile-road-to-nowhere.zip` with the password from the information gained above to get your contract card.
