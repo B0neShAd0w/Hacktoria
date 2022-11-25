@@ -21,7 +21,7 @@ Special Agent K. The contract is yours, if you choose to accept.
 
 ---
 
-### Process:
+### Methodology:
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * streets of the greater San Francisco area
 * from Northwest Berkeley
