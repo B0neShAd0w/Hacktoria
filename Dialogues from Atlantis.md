@@ -81,7 +81,14 @@ With the entirety text loaded, add `From Hex`, `ROT47` and `From Base64` from th
 
 Save the Output to a file to make it easy to read through if you wish, let's see what the decoded message has to say...
 
+Reading through the text we notice something strange - this doesn't fit with the style of writing.
 
+![image](https://user-images.githubusercontent.com/117080369/203982021-675703a8-48c7-464c-aea0-de8f533ca26b.png)
 
+Reading on a bit further we find some more odd text.
+
+![image](https://user-images.githubusercontent.com/117080369/203981082-a2a317fd-bec8-4967-b1c8-4af466a35501.png)
+
+Putting this together gives us the password: `https://bit.ly/3Dq6rGW`
 
 Extract the `flagfile-intergalactic-warfare.zip` with the password from the information gained above to get your contract card.
