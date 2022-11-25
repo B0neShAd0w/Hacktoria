@@ -44,6 +44,6 @@ In the Output pane, click `Save output to file`, then at the `Please enter a fil
 ![Screenshot 2022-11-25 092806](https://user-images.githubusercontent.com/117080369/203946967-9f43fac5-8e39-4056-8bbf-36ca1d5121df.png)
 
 
-Play the file in a media player like VLC to get the password.
+Play the file in a media player like VLC to hear the password.
 
 Extract the `flagfile-the-butcher.zip` with the password from the information gained above to get your contract card.
