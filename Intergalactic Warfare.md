@@ -32,7 +32,7 @@ country-state-county-161.2570-12.7212
  
  ---
  
-### Process:
+### Methodology:
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * near McKenzie National Park in Oregon
 * headed in southern direction
