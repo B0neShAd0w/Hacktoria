@@ -23,9 +23,7 @@ The first step is to try and identify some low hanging fruit.
 * The most obvious characters are the a `dot` or `comma` or `apostrophe`
 * Three letter words with an `apostrophe` are most likely to be `It's` or `I've`
 * Sinlge letter words are most likely to be `a` or `I`
-* 2 words with 2 letter together are likely to be `it is`
-
-Once we have made a dent in the low hanging fruit, let's move on to the mid hanging fruit.
+* 2 words of 2 letters are likely to be `it is`
 
 Common greetings (assuming we are translating to English):
 * Hi
