@@ -28,7 +28,19 @@ The first step is to pull out imformation from the Mission Briefing that we feel
 * D Frozenwood
 * social media profiles
 
-Whenever there is a mention of usernames we will head over to my preferred online tool <a href="https://whatsmyname.app/">WhatsMyName Web</a> 
+Whenever there is a mention of usernames I will head over to my preferred online tool <a href="https://whatsmyname.app/">WhatsMyName Web</a>.
+
+Let's try some variations of usernames based on the information gathered.
+* Deloris Frozenwood - easyen account
+* DelorisFrozenwood - nothing
+* Deloris.Frozenwood - AllTrials, IFTTT, Wanelo & PatientsLikeMe accounts
+* D Frozenwood - easyyen & moxfiled accounts
+* DFrozenwood - Twitter archived
+* D.Frozenwood - AllTrials, CastingCallClub, Wanelo & Suzuri
+
+Twitter archived sounds like a great place to start our search.
+
+Let's click on the link and see what's what.
 
 
 
