@@ -24,8 +24,43 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 
 ---
 
+Construct the password using the coordinates of the red-cross on the map and the following format, small letters (sample):
+
+country-state-county-161.2570-12.7212
+
+(note, the amount of numbers in front of the dots might vary from the example depending on location).
+ 
+ ---
+ 
 ### Process:
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
+* near McKenzie National Park in Oregon
+* US government personnel took away the wreckage and headed in southern direction
+* we have a few usual suspects for locations the US government might take alien remains
+
+What is the first place that springs to mind when talking about aliens on US soil? - **Area 51** is the most obvious conclusion.
+
+Let's find out if Area 51 is anywhere near McKenzie National Park in Oregon.
+
+![Screenshot 2022-11-25 095643](https://user-images.githubusercontent.com/117080369/203954837-f9cf7a54-99eb-4926-9183-066ec1399802.png)
+
+I think we can safely assume this fits the criteria!
+
+Let's start having a closer look around Area 51 to try and identify the location.
+
+Looking slightly north of Area 51 we spot this.
+
+![Screenshot 2022-11-25 100509](https://user-images.githubusercontent.com/117080369/203957356-fffbcb4a-2c35-4927-815f-69a9296a064a.png)
+
+The shape seems to match the image, let's have a closer look.
+
+![Screenshot 2022-11-25 100806](https://user-images.githubusercontent.com/117080369/203957767-068ba777-92b2-4a27-a917-17d6c226ae77.png)
+
+Looks like we have our location.
+
+Let's get the coordinates for the flagfile.
+
+![Screenshot 2022-11-25 101305](https://user-images.githubusercontent.com/117080369/203959320-bb188c42-f8d3-46df-92ed-75e6d1a793cf.png)
 
 
 Extract the `flagfile-intergalactic-warfare.zip` with the password from the information gained above to get your contract card.
