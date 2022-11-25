@@ -39,7 +39,7 @@ Alternatively we can head over to <a href="https://gchq.github.io/CyberChef/">Cy
 
 ![Screenshot 2022-11-25 092543](https://user-images.githubusercontent.com/117080369/203946457-e5298169-8793-47df-8264-5d2c6f610892.png)
 
-Under Output click `Save output to file`, then at the `Please enter a filename:` dialog change the extension from`.dat` to `.mp3` and click **OK** to download the file.
+In the Output pane, click `Save output to file`, then at the `Please enter a filename:` dialog change the extension from`.dat` to `.mp3` and click **OK** to download the file.
 
 ![Screenshot 2022-11-25 092806](https://user-images.githubusercontent.com/117080369/203946967-9f43fac5-8e39-4056-8bbf-36ca1d5121df.png)
 
