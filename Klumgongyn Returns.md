@@ -64,10 +64,9 @@ Let's add those characters to our decipher chart.
 
 Work through the text one line at a time, building up our alphabet as we go.
 
+![image](https://user-images.githubusercontent.com/117080369/204030771-1989f27e-7b0e-4580-a417-d4bd1a173d12.png)
+
 HELLO S-E-I-L --E-T. IT’S -I-E TO SEE -O- ---I-. TH---S -O-
-
-
-
 
 Klumgon alphabet:
 
