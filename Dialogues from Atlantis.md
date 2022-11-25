@@ -23,9 +23,7 @@ The link you find is the password for your flagfile (updated 23.11.2022)
 ---
 
 ### Methodology:
-The mission briefing mentions our ability to deal with ciphers and ancient dialogues, this is a big clue.
-
-We are given a long piece of code, looking at the start of it, it doesn't look like a file type, so I think we can assume this is coded text.
+The mission briefing mentions trusting our ability to deal with ciphers and ancient dialogues, this is a big clue.
 
 Let's see if we can decode htis text.
 
