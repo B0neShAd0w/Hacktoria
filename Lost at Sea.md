@@ -24,7 +24,7 @@ Instructions: Crack the password to open the ship logbook file (flagfile)
 
 ---
 
-### Process:
+### Methodology:
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * 22:34
 * Narwhal
