@@ -20,7 +20,7 @@ Finding the Air Base will lead you to the password for unlocking your flagfile.
 
 ---
 
-### Process:
+### Methodology:
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * Russian military
 * Air base
