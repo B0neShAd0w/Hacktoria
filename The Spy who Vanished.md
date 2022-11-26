@@ -31,17 +31,27 @@ The first step is to pull out imformation from the Mission Briefing that we feel
 Whenever there is a mention of usernames I will head over to my preferred online tool <a href="https://whatsmyname.app/">WhatsMyName Web</a>.
 
 Let's try some variations of usernames based on the information gathered.
-* Deloris Frozenwood - easyen account
-* DelorisFrozenwood - nothing
-* Deloris.Frozenwood - AllTrials, IFTTT, Wanelo & PatientsLikeMe accounts
-* D Frozenwood - easyyen & moxfiled accounts
-* DFrozenwood - Twitter archived
-* D.Frozenwood - AllTrials, CastingCallClub, Wanelo & Suzuri
+* Deloris Frozenwood
+* DelorisFrozenwood 
+* Deloris.Frozenwood 
+* D Frozenwood 
+* DFrozenwood 
+* D.Frozenwood 
 
-Twitter archived sounds like a great place to start our search.
+`DFrozedwood` gets a hit with a Twitter archive, this seems like a great place to start our search!
 
-Let's click on the link and see what's what.
+![image](https://user-images.githubusercontent.com/117080369/204086516-3fc2143d-3c12-4add-8f48-fa6efdb0e828.png)
 
+Let's browse the links and see what's what...
 
+This takes us to the <a href="https://web.archive.org/">The Wayback Machine</a>
+
+Seems we have found 2 Snapshots, let's have a look and see if they bear any fruit...
+
+![Screenshot 2022-11-26 113717](https://user-images.githubusercontent.com/117080369/204086809-c50cb5fa-c453-4948-a58a-97ce50e88161.png)
+
+Clicking the `Auggust 31 2022` Snapshot takes us to DFrozenwood's archived Twitter page, scrolling through this we see some interesting text at the bottom of the page.
+
+![Screenshot 2022-11-26 114104](https://user-images.githubusercontent.com/117080369/204086908-8e875c77-0239-443b-a3d2-e13722630add.png)
 
 Extract the `flagfile-the-spy-who-vanished.zip` with the password from the information gained above to get your contract card.
