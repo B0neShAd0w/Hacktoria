@@ -44,13 +44,11 @@ Let's try some variations of usernames based on the information gathered.
 
 Let's browse the links and see what's what...
 
-This takes us to the <a href="https://web.archive.org/">The Wayback Machine</a>
-
-Seems we have found 2 Snapshots, let's have a look and see if they bear any fruit...
+This takes us to the <a href="https://web.archive.org/">The Wayback Machine</a>, and contains 2 Snapshots, let's have a look and see if they bear any fruit...
 
 ![Screenshot 2022-11-26 113717](https://user-images.githubusercontent.com/117080369/204086809-c50cb5fa-c453-4948-a58a-97ce50e88161.png)
 
-Clicking the `Auggust 31 2022` Snapshot takes us to DFrozenwood's archived Twitter page, scrolling through this we see some interesting text at the bottom of the page.
+Clicking the `August 31 2022` Snapshot takes us to DFrozenwood's archived Twitter page, scrolling through this we see some interesting text at the bottom of the page.
 
 ![Screenshot 2022-11-26 114104](https://user-images.githubusercontent.com/117080369/204086908-8e875c77-0239-443b-a3d2-e13722630add.png)
 
