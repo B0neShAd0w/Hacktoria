@@ -48,7 +48,7 @@ This takes us to the <a href="https://web.archive.org/">The Wayback Machine</a>,
 
 ![Screenshot 2022-11-26 113717](https://user-images.githubusercontent.com/117080369/204086809-c50cb5fa-c453-4948-a58a-97ce50e88161.png)
 
-Clicking the `August 31 2022` Snapshot takes us to DFrozenwood's archived Twitter page, scrolling through this we see some interesting text at the bottom of the page.
+Clicking the `August 31 2022` Snapshot takes us to **Deloris Frozenwood's** archived Twitter page, scrolling through this we see some interesting text at the bottom of the page, maybe this is the password?
 
 ![Screenshot 2022-11-26 114104](https://user-images.githubusercontent.com/117080369/204086908-8e875c77-0239-443b-a3d2-e13722630add.png)
 
