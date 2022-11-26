@@ -27,15 +27,13 @@ Our task as specified in the mission briefing is to analysis a packet capture fi
 
 We have a couple of options here, we could use an online tool like <a href="https://apackets.com/">A-Packets Online pcap file analyzer</a> or a tool like Wireshark.
 
-My personal preference is to use Wireshark.
-
 Let's fire up Wireshark and load the Capture file to see what is what...
 
-After the Capture file loads we can see there is a LOT of data to sift through, 37723 lines of a "needle in a haystack", we need to make this a little easier to deal with.
+After the Capture file loads we can see there is a LOT of data to sift through, 37723 lines of a "needle in a haystack", so we need to make this a little easier to deal with.
 
 ![image](https://user-images.githubusercontent.com/117080369/204091791-97339f55-9ac1-4a11-966e-507aa326af69.png)
 
-Let's start breaking this down to make it slightly more manageable. first let's set an `HTTP filter`
+Let's start breaking this down to make it slightly more manageable. first let's set an `http filter`
 
 ![image](https://user-images.githubusercontent.com/117080369/204092108-3b1b15f5-737f-43e8-bc24-6b9313b64150.png)
 
@@ -43,13 +41,13 @@ Now let's export this to a `CSV` file as this should make it eaiser to sift thro
 
 To export to CSV: Select `File > Export Packet Dissections > As CSV...` give the file a name and click `Save`
 
-Let's repeat but this time with a `DNS filter` set.
+Let's repeat but this time with a `dns filter` set.
 
 ![image](https://user-images.githubusercontent.com/117080369/204092343-0610d247-578e-4c16-9580-e1908a7245b8.png)
 
 Now we have 2 CSV files we can analyze.
 
-Looking through the `http,csv` file nothing really jumps out that would be worth investigating further.
+Looking through the `http.csv` file nothing really jumps out that would be worth investigating further.
 
 Let's move onto the `dns.csv` file...
 
@@ -59,6 +57,6 @@ Umm, interesting, there is a reference to `Pastebin` - this is often used to upl
 
 Let's see where that **Pastebin URL** takes us...
 
-![Screenshot 2022-11-26 141142](https://user-images.githubusercontent.com/117080369/204093116-e2e3e9e6-a71d-4016-aa40-4c28981d7803.png)
+![image](https://user-images.githubusercontent.com/117080369/204093359-e40c8d2d-6d33-48ea-82ac-643bde4dc183.png)
 
 Extract the `flagfile-on-the-wire.zip` with the password from the information gained above to get your contract card.
