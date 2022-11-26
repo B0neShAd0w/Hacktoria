@@ -38,7 +38,7 @@ Let's try some variations of usernames based on the information gathered.
 * DFrozenwood 
 * D.Frozenwood 
 
-`DFrozedwood` gets a hit with a Twitter archive, this seems like a great place to start our search!
+`DFrozenwood` gets a hit with a Twitter archive, this seems like a great place to start our search!
 
 ![image](https://user-images.githubusercontent.com/117080369/204086516-3fc2143d-3c12-4add-8f48-fa6efdb0e828.png)
 
@@ -48,7 +48,7 @@ This takes us to the <a href="https://web.archive.org/">The Wayback Machine</a>,
 
 ![Screenshot 2022-11-26 113717](https://user-images.githubusercontent.com/117080369/204086809-c50cb5fa-c453-4948-a58a-97ce50e88161.png)
 
-Clicking the `August 31 2022` Snapshot takes us to **Deloris Frozenwood's** archived Twitter page, scrolling through this we see some interesting text at the bottom of the page, maybe this is the password?
+Clicking on the `August 31 2022` Snapshot it takes us to **Deloris Frozenwood's** archived Twitter page, scrolling through this we see some interesting text at the bottom of the page, maybe this is the password?
 
 ![Screenshot 2022-11-26 114104](https://user-images.githubusercontent.com/117080369/204086908-8e875c77-0239-443b-a3d2-e13722630add.png)
 
