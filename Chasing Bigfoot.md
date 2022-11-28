@@ -26,7 +26,11 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 
 ---
 
+*First things first, this contract had me really frustrated for quite a while, as I didn't seem to be getting anywhere, just loads and loads of garbage web pages.*
+
 ### Methodology:
+
+
 
 
 
