@@ -29,7 +29,22 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 *First things first, this contract had me really frustrated for quite a while, as I didn't seem to be getting anywhere, just loads and loads of garbage web pages.*
 
 ### Methodology:
+The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
+* During the 1970’s
+* Sasquatch
+* member of the US Armed Forces
+* late night diner
+* soldier spotted the Sasquatch crossing the road
 
+My thought process was to use `Google Dorking`, based on the fact that there would thousand's if not millions of web pages relating to sightings of Bigfoot.
+
+Initially this was proving to be a minefield of just random garbage, so I moved onto using Bigfoot sighting maps, again I wasted so much time and not really getting anywhere, so decided it was time to step away for a while.
+
+Coming back to this with fresh vigor I thought that this being a hard contract would require some new thinking, so I started playing around with my Dorking queries a little more.
+
+Eventually, after trying what felt like 100's of different queries the results started narrowing down, until I hit on the sweet spot.
+
+`intext:"Bigfoot" intext:"sighting" intext:"late night diner" intext:"back to base" `
 
 
 
