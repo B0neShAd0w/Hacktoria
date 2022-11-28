@@ -42,12 +42,20 @@ Initially this was proving to be a minefield of just random garbage, so I moved 
 
 Coming back to this with fresh vigor I thought that this being a hard contract would require some new thinking, so I started playing around with my Dorking queries a little more.
 
-Eventually, after trying what felt like 100's of different queries the results started narrowing down, until I hit on the sweet spot.
+Eventually, after trying what felt like 100's of different queries the results started narrowing down, until I hit on the sweet Dork: `intext:"Bigfoot" intext:"sighting" intext:"late night diner"`
 
-`intext:"Bigfoot" intext:"sighting" intext:"late night diner" intext:"back to base" `
+Reading each report, this one seemed to be really interesting, containing a few of the "key words"
 
+![Screenshot 2022-11-28 115455](https://user-images.githubusercontent.com/117080369/204271852-c83d1cad-668e-462b-a1f0-df68688ffcb8.png)
 
+Then reading through the posts descriptions, this one stands out.
 
+![Screenshot 2022-11-28 115731](https://user-images.githubusercontent.com/117080369/204272248-ee6126ba-cace-48f8-820d-c5eff3d335e3.png)
 
+Reading through the entire post seems to match with the information we are looking for.
+
+![Screenshot 2022-11-28 120617](https://user-images.githubusercontent.com/117080369/204274133-1126de44-1c6e-4b5e-84cd-2ffb367e8734.png)
+
+Make a note of the URL to extract the flagfile: `https://www.thecryptocrew.com/2014/06/driver-has-close-sighting-of-bigfoot.html`
 
 Extract the `flagfile-chasing-bigfoot.zip` with the password from the information gained above to get your contract card.
