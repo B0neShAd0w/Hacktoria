@@ -31,4 +31,4 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 
 
 
-Extract the `flagfile-chasing-bigfoot.zip` with the information gained above to get your contract card.
+Extract the `flagfile-chasing-bigfoot.zip` with the password from the information gained above to get your contract card.
