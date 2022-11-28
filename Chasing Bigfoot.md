@@ -42,9 +42,9 @@ Initially this was proving to be a minefield of just random garbage, so I moved 
 
 Coming back to this with fresh vigor I thought that this being a hard contract would require some new thinking, so I started playing around with my Dorking queries a little more.
 
-Eventually, after trying what felt like 100's of different queries the results started narrowing down, until I hit on the sweet Dork: `intext:"Bigfoot" intext:"sighting" intext:"late night diner"`
+Eventually, after trying what felt like 100's of different queries the results started to narrow down, until I hit on the sweet Dork: `intext:"Bigfoot" intext:"sighting" intext:"late night diner"`
 
-Reading each report, this one seemed to be really interesting, containing a few of the "key words"
+Reading through each result, this one seemed to be really interesting, containing a few of the "key words"
 
 ![Screenshot 2022-11-28 115455](https://user-images.githubusercontent.com/117080369/204271852-c83d1cad-668e-462b-a1f0-df68688ffcb8.png)
 
