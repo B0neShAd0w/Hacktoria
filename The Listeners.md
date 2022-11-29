@@ -1,6 +1,6 @@
 <img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
 
-# Contract: Chasing Bigfoot
+# Contract: The Listeners
 ![the-listeners-cover-image-600x600](https://user-images.githubusercontent.com/117080369/204564489-03244eb9-d8b4-4931-ad2f-487bac1f344a.png)
 
 ### Difficulty: Hard
