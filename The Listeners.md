@@ -31,7 +31,7 @@ After examining the supplied image, 2 elements jump out at me:
 * Mirror
 * House design/style
 
-Uploading the image to <a href="https://lens.google.com/">Google Lens</a> and cropping on the `mirror` reveals these are Traffic Mirrors located in France.
+Uploading the image to <a href="https://lens.google.com/">Google Lens</a> and cropping on the `mirror` reveals these Traffic Mirrors are located in France.
 
 ![Screenshot 2022-11-29 145747](https://user-images.githubusercontent.com/117080369/204566153-574640e8-2b76-49e7-b461-95508cc704fc.png)
 
@@ -63,7 +63,7 @@ I think this means we are going to have to just have a look around Monaco in the
 
 Let's head over to <a href="https://earth.google.com/web/">Google Earth</a> and search for Monaco.
 
-Let the map roate in `3D` until the orientation matches the supplied image.
+Let the map roate in `3D` until the orientation roughly matches the supplied image.
 
 ![image](https://user-images.githubusercontent.com/117080369/204575268-d9c88eed-8cdf-48c3-936b-0d054df99b3f.png)
 
@@ -73,13 +73,13 @@ If we look at the supplied image we can see that the house has an angled wall an
 
 Let's zoom in and have a look at the buildings and try to match the shape.
 
-Maybe we have found a match!
+After a short time i think we have found a match!
 
 ![Screenshot 2022-11-29 155627](https://user-images.githubusercontent.com/117080369/204578948-db436069-509a-4d61-9579-d3bd234922d1.png)
 
 Let's have a closer look and see what's what.
 
-I am pretty sure we have a match, although not an exact like for like image, but definitely close enough to be confident this is the location.
+I am pretty sure we have a match, although not an exact like for like image, it's definitely close enough to be confident this is the location.
 
 ![image](https://user-images.githubusercontent.com/117080369/204579335-c0ab7646-d3c5-4abd-91cf-047acd7aca42.png)
 
@@ -87,7 +87,7 @@ Now all that is left to do is gather the information for the passowrd.
 
 We just need to find the Zipcode, let's just Google `post code Boulevard de Belgique, Monaco`
 
-The correct password for this contract caught me out, normally they follow the example, however in this case the password uses upper-case letters.
+With the information gathered above, let's compose the password.
 
 `Monaco-98000-Boulevard-de-Belgique-32`
 
