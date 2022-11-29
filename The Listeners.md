@@ -21,8 +21,36 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 ---
 
 ### Methodology:
+The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
+* French businessman
+* off the coast of Spain
+* luxurious lifestyles
+* coastlines of Western and Southern Europe
+
+After examining the supplied image, 2 elements jump out at me:
+* Mirror
+* House design/style
+
+Uploading the image to <a href="https://lens.google.com/">Google Lens</a> and cropping on the `mirror` reveals these are Traffic Mirrors located in France.
+
+![Screenshot 2022-11-29 145747](https://user-images.githubusercontent.com/117080369/204566153-574640e8-2b76-49e7-b461-95508cc704fc.png)
+
+We can do more investigation about these mirrors to confirm our findings.
+
+This type of mirror seems to be a `TM-F French Premium traffic mirror`
+
+![Screenshot 2022-11-29 151536](https://user-images.githubusercontent.com/117080369/204568124-1f8b54d5-45e2-498a-86db-1228456c190d.png)
+
+With this in mind let's have a think about luxury areas of Southern/Western France - a few places spring to mind.
+* Nice
+* Cannes
+* Monaco
+* Saint-Tropez
+
+Let's try and match the house style/design to the locations and try to mind a match.
+
+After a fair bit of Googling and reading about the architecture of each area, the only one that seems to match is `Monaco`
 
 
-<a href="https://lens.google.com/">Google Lens</a>
 
 Extract the `flagfile-the-listeners.zip` with the password from the information gained above to get your contract card.
