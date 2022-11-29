@@ -30,7 +30,7 @@ The first step is to pull out imformation from the Mission Briefing that we feel
 
 As always when images are supplied I will run some analysis on the images, metadata and reverse image searches etc., however this didn't bear any fruit unfortunately.
 
-At this point I thought with the above information some Google Dorking might point me to some useful locations to analysis more, however after spending a fair bit of time on this and getting nowhere I scrapped that idea.
+At this point I thought with the information above some Google Dorking might point me to some useful locations to analysis more, however after spending a fair bit of time on this and getting nowhere I scrapped that idea.
 
 At this point a started to research Keyna and found <a href="https://www.citypopulation.de/en/kenya/admin/">Kenyan Provinces and Counties</a>.
 
@@ -40,7 +40,9 @@ This provided me with a pretty large list to sift through, sigh!
 
 Next step was to work through the new list of towns/villages that match the criteria and adding them to a new list for further analysis.
 
-Using <a href="https://overpass-turbo.eu/">overpass turbo</a>, I entered each result into the search area and zoomed the view out so that the small towns show and then run the below query, we can exclude any peaks that are NOT near a road, this now gives a smaller list.
+Using <a href="https://overpass-turbo.eu/">overpass turbo</a>, I entered each result into the Search Area and zoomed the view out so that the really small townships show and then run the query below, we can exclude any peaks that are NOT near a road.
+
+This now gives a smaller list to work with.
 
 ```
 [out:json][timeout:25];
@@ -57,17 +59,17 @@ out body;
 out skel qt;
 ```
 
-**Note: If I didn't get lucky, I would have changed the elevation in the query.**
+*Note: If I didn't get lucky, I would have changed the elevation in the query.*
 
-Grab the co-ordinates for each of the remaining results and enter into Google Earth and view in `3D` to see if we get a hit.
+Grab the coordinates for each of the Peaks and enter into Google Earth and view in `3D` to see if we get a hit.
 
 ![image](https://user-images.githubusercontent.com/117080369/204509021-c948677b-4001-4ab7-9309-f50e0925327f.png)
 
-Eventually - this looked interesting, similar shape, similar buildings, there is a road and a peak, definately worth looking into...
+Eventually - this looked interesting, similar shape, similar buildings, there is a road near the peak, definately worth looking into...
 
 ![Screenshot 2022-11-29 095255](https://user-images.githubusercontent.com/117080369/204497246-68e4ecd0-fb57-412c-9613-1f67e0cd9953.png)
 
-Zooming in and having a better looks confirms this could be the location we are looking for.
+Zooming in and having a better look confirms this could be the location we are looking for.
 
 ![image](https://user-images.githubusercontent.com/117080369/204510079-c30dd9d8-614a-4752-9e0c-1aaa066f0c23.png)
 
