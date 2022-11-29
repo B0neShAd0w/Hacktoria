@@ -51,6 +51,38 @@ Let's try and match the house style/design to the locations and try to mind a ma
 
 After a fair bit of Googling and reading about the architecture of each area, the only one that seems to match is `Monaco`
 
+Okay, we now have an area to focus in on, however that is still quite a large task, can we narrow it down further?
+
+Let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and enter `Monaco` into the search area and enter `highway"="traffic_mirror"` into the Wizard.
+
+![image](https://user-images.githubusercontent.com/117080369/204573385-3b9b6b64-1e72-463e-a19d-12701618e09a.png)
+
+Unfortunately this does not show any `Traffic Mirrors` in Monaco, oh well it was worth a shot!
+
+I think this means we are going to have to just have a look around Monaco in the hope we spot something...
+
+Let's head over to <a href="https://earth.google.com/web/">Google Earth</a> and search for Monaco.
+
+Let the map roate in `3D` until the orientation matches the supplied image.
+
+![image](https://user-images.githubusercontent.com/117080369/204575268-d9c88eed-8cdf-48c3-936b-0d054df99b3f.png)
+
+If we look at the supplied image we can see that the house has an angled wall and isn's square, this should help narrow down our search.
+
+![Screenshot 2022-11-29 121007-1](https://user-images.githubusercontent.com/117080369/204576217-cd6ec638-e5f6-4335-8d66-97a636d0e4ca.png)
+
+Let's zoom in and have a look at the buildings and try to match the shape.
+
+Maybe we have found a match!
+
+![Screenshot 2022-11-29 155627](https://user-images.githubusercontent.com/117080369/204578948-db436069-509a-4d61-9579-d3bd234922d1.png)
+
+Let's have a closer look and see what's what.
+
+I am pretty sure we have a match, although not an exact like for like image, but definitely close enough to be confident this is the location.
+
+![image](https://user-images.githubusercontent.com/117080369/204579335-c0ab7646-d3c5-4abd-91cf-047acd7aca42.png)
+
 
 
 Extract the `flagfile-the-listeners.zip` with the password from the information gained above to get your contract card.
