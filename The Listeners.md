@@ -83,6 +83,12 @@ I am pretty sure we have a match, although not an exact like for like image, but
 
 ![image](https://user-images.githubusercontent.com/117080369/204579335-c0ab7646-d3c5-4abd-91cf-047acd7aca42.png)
 
+Now all that is left to do is gather the information for the passowrd.
 
+We just need to find the Zipcode, let's just Google `post code Boulevard de Belgique, Monaco`
+
+The correct password for this contract caught me out, normally they follow the example, however in this case the password uses upper-case letters.
+
+`Monaco-98000-Boulevard-de-Belgique-32`
 
 Extract the `flagfile-the-listeners.zip` with the password from the information gained above to get your contract card.
