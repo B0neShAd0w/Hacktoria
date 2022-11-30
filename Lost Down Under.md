@@ -73,6 +73,8 @@ Important information:
 * 458964983 needs multiplication with the geolocation answer
 * add the first three letters of all streetnames in order at the end of the numbers
 
+**NOTE: I didn't do the locations in order, I worked through based on difficulty.**
+
 Let's work through the location images now.
 
 *Location 1:*
