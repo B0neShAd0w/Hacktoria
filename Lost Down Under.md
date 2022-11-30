@@ -29,7 +29,7 @@ The first step is to pull out imformation from the Mission Briefing that we feel
 GEYTMIBRGE2CAOJXEAYTCMBAGEYTKIBRGA4SAMJQGUQDCMJVEAYTCNJAGEYDKIBRGEYSAMJRGAQDGMRAGEYTAIBRGE3SAMJQHEQDSOBAGEYDCIBRGE2CAMZSEA2TEIBVGMQDKNRAGU3SANJUEA2TEIBVG4QDKNRAGUYSAMZSEAYTCMBAGEYDCIBRGAYSAMJQGAQDCMJVEAZTEIBRGA4SAMJRG4QDCMBYEAYTCNRAGEYDKIBRGEZCAMJQHAQDCMBVEA4TSIBZG4QDCMJWEAYTANJAGEYTCIBRGEYCAMZSEAYTCOJAGEYDKIBRGE3CAMJQGQQDGMRAGEYTMIBRGA2CAMJQGEQDGMRAGEYDGIBRGAYSAMJRGEQDCMBYEAYTCMJAHE4SAOJXEAYTCNRAGEYDKIBRGEYSAMJRGAQDGMRAHE3SAMJRGAQDCMJVEAYTCOJAGEYDCIBRGE2CAMZSEAYTCNRAGEYTCIBTGIQDCMJXEAYTCMBAGEYDQIBRGEYSAOJZEAYTANZAGMZCAMJRGYQDCMBUEAYTAMJAGMZCAMJQGIQDCMBVEAYTAOBAGEYDCIBUGYQDGMRAHE3SAMJQGAQDCMBQEAZTEIBRGE3CAMJQGQQDCMBREAZTEIBRGAZCAMJQGUQDCMJUEAYTCNJAGEYTMIBTGIQDCMJWEAYTANBAGEYTIIBRGAYSAMJQGEQDGMRAGEYDQIBRGAYSAMJRGYQDCMJWEAYTAMJAGEYTIIBRGE2SAMZSEAYTCMJAGEYDEIBTGIQDSNZAGEYDQIBRGA4CAMZSEAYTCNJAGEYTMIBRGE2CAMJQGEQDCMBREAYTCNRAGEYTAIBZG4QDCMBZEAYTAMJAGEYTKIBTGIQDCMBVEAYTCMBAGMZCAMJRGEQDCMJUEAYTAMBAGEYDCIBRGE2CAMZSEA4TOIBRGE3CAMZSEAYTCNRAGEYDIIBRGAYSAMZSEAYTAMJAGEYTAIBRGAYCAMZSEAYTCMJAGEYDEIBTGIQDCMJWEAYTANBAGEYDCIBTGIQDCMJQEAYTCNZAGEYDSIBZHAQDCMBREAYTCNBAGEYTKIBUGYQDGMRAGEYTSIBRGAYSAMZSEAYTCOJAGEYDKIBRGA4CAMJQHAQDGMRAGEYTKIBRGE3CAOJXEAYTCNBAGEYTMIBTGIQDCMJREAYTCMRAGEYDCIBRGE2CAOJXEAYTCNRAGEYDKIBRGEYSAMJRGAQDGMRAGEYDOIBZG4QDCMJQEAYTAMZAHE3SAMJRGQQDCMJREAYTCMJAGMZCAMJRGEQDCMJQEA4TSIBRGAYSAMZSEA4TOIBRGA4CAMJQHAQDGMRAHE4CAMJRGEQDCMBZEA4TQIBRGE2SAMZSEA4TOIBRGE2CAMJQGEQDGMRAGEYDKIBRGEYCAMZSEAYTCMRAGEYDQIBZG4QDSOJAGEYDCIBUGY======
 ```
 
-Let's have a go at decoding the text, it looks like a Base sort of string...
+Let's have a go at decoding the text, it looks like a `Base` sort of string...
 
 Let's head over to <a href="https://www.dcode.fr/cipher-identifier">Cipher Identifier</a> and paste in the text and hit the Analyze button.
 
@@ -80,14 +80,14 @@ This one was really easy, a quick reverse image search gave me the location.
 
 ![Screenshot 2022-11-30 124121](https://user-images.githubusercontent.com/117080369/204877422-26ac532e-eec7-47f0-b180-7522b9801340.png)
 
-Clicking on the 1st hit gave me the address, search the address in Street View and moving around to the other side of the building gives us confirmation of our location.
+Clicking on the 1st hit gave me the address, search the address in `Street View` and moving around to the other side of the building gives us confirmation of our location.
 
 ![Screenshot 2022-11-30 124002](https://user-images.githubusercontent.com/117080369/204877542-9fecfba8-e4e3-4d00-bad8-388fcc0502e1.png)
 
 Let's make a note of the exact location: 99 Furlong Road, Cairnlea, Victoria, Australia.
 
 Location 2:
-This is the easiest as the image gives us a name of a schol, so let's search for `St Martin de Porres parish School, Australia` on <a href="https://www.google.co.uk/maps">Google Maps</a>
+This is the easiest as the image gives us a name of a school, so let's search for `St Martin de Porres parish School, Australia` on <a href="https://www.google.co.uk/maps">Google Maps</a>
 
 ![Screenshot 2022-11-30 120459](https://user-images.githubusercontent.com/117080369/204877976-6b415f3e-1345-4bb1-ac9d-de39d5d24f84.png)
 
@@ -100,7 +100,7 @@ Let's make a note of the exact location: 171 Military Road, Avondale Heights, Vi
 Location 4:
 This one was fairly easy to locate, we can just about make out the business name `IGA`
 
-Given there are large trucks I made the assumption this was either a warehouse or distribution center.
+Given there are large trucks, I made the assumption this was either a warehouse or distribution center.
 
 Let' start by Googling `IGA Distribution Center, Victoria, Australia` if we do not have any luck with a search this narrow we will expand it out.
 
@@ -108,13 +108,13 @@ The first result gives us an address.
 
 ![Screenshot 2022-11-30 121220](https://user-images.githubusercontent.com/117080369/204878778-a0c7aa73-8fc5-44a4-9b74-b9ee5e2e3d90.png)
 
-So let's have a look in Street View, with a little bit of moving around we are able to find what we are looking for on the opposite side of the road.
+So let's have a look in `Street View`, with a little bit of moving around we are able to find what we are looking for on the opposite side of the road.
 
 ![Screenshot 2022-11-30 122359](https://user-images.githubusercontent.com/117080369/204878900-7382c309-3d07-45c1-9e75-eb02d2fd9910.png)
 
 Let's make a note of the exact location: 52 Fitzgerald Road, Victoria, Australia.
 
-Um interesting, a pattern is emerging, so far 2 of the 8 locations have been in Victoria...
+Um interesting, a pattern is emerging, so far 3 of the 8 locations are in Victoria...
 
 Location 3:
 
@@ -122,11 +122,11 @@ We can make out the sign with `Vinnies` on it, let's Google `Vinnies, Australia`
 
 ![Screenshot 2022-11-30 130120](https://user-images.githubusercontent.com/117080369/204879160-c3624a20-1c20-4cc8-aee7-5f81ddf433ca.png)
 
-Let's view More Locations and zoom in a bit on Melbourne area.
+Let's view More Locations and zoom in a bit on the `Melbourne area`.
 
 ![Screenshot 2022-11-30 130634](https://user-images.githubusercontent.com/117080369/204879286-06b4a39e-176e-4740-a659-685812333a3c.png)
 
-Let's enter each one into Street View and try to find a match, we know that the supplied image contaings Traffic Lights, so any that don't have any traffic lights near can be skipped, after working through most of the list we find a match - Vinnies Sunshine
+Let's enter each one into `Street View` and try to find a match, we know that the supplied image contaings `Traffic Lights`, so any that don't have any traffic lights nearby can be skipped, after working through most of the list we find a match - Vinnies Sunshine
 
 ![Screenshot 2022-11-30 125414](https://user-images.githubusercontent.com/117080369/204879559-b96a85cf-6e62-43fd-907b-3d6e8b4b23a6.png)
 
@@ -146,7 +146,7 @@ Let's make a note of the exact location: 20 Buckley Street, Essendon, Victoria, 
 
 Location 7:
 
-Let's do some revirse image searching on the `Graffiti`, the first hit has what looks like a close match to the supplied image, we also get a location `Thornbury, Victoria 3071`
+Let's do some reverse image searching on the `Graffiti`, the first hit has what looks like a close match to the supplied image, we also get a location `Thornbury, Victoria 3071`
 
 ![Screenshot 2022-11-30 141756](https://user-images.githubusercontent.com/117080369/204880702-0a616b3e-bfea-450c-b67c-5c8ff6e6cdd3.png)
 
@@ -154,25 +154,25 @@ This might be a time consuming task, Thornbury is quite big...
 
 ![Screenshot 2022-11-30 142506](https://user-images.githubusercontent.com/117080369/204880809-d731b188-a2ad-42a2-a462-5af6ae45c7ef.png)
 
-Let's drop into Street View right on Thornbury and have a look around.
+Let's drop into `Street View` right on top of Thornbury and have a look around.
 
 Umm this looks interesting, we can see a green sign with a building of a similar shape, just like the supplied image, although it is a different color. 
 
 ![Screenshot 2022-11-30 142718](https://user-images.githubusercontent.com/117080369/204881051-5f76b039-62be-4eca-babe-e0d5117bbc5d.png)
 
-Let's have a better look.
+Let's have a better look...
 
 Oh, as we move up the building changes colour, boom! we have a match, that was a stroke of luck.
 
 ![Screenshot 2022-11-30 140724](https://user-images.githubusercontent.com/117080369/204881122-c8be28e0-514a-4f56-b755-a7aaa2869176.png)
 
-Let's make a note of the exact location: 1 Normanby Avenue, Thornbury, Victoria
+Let's make a note of the exact location: 1 Normanby Avenue, Thornbury, Victoria, Australia.
 
 At this point I am struggling to find the locations of images 6 & 8.
 
 Let's review what information we have gathered so far, the decoded text mentions that we have to `multiply 458964983 with the geolocation answer`, this must mean we are looking for a number from something.
 
-Marking out the locations we have found so far sets off a light bulb moment.
+Marking out the locations on a map sets off a light bulb moment.
 
 ![Screenshot 2022-11-30 164409](https://user-images.githubusercontent.com/117080369/204881373-eace5194-2417-4837-a31e-7329cb4a5aa8.png)
 
@@ -196,7 +196,7 @@ So let's zoom in more on our search area to see if we can match this criteria, s
 * Prohasky St
 * Cook St
 
-Let's have a look around via Street View, after a while we hit the jackpot.
+Let's have a look around via `Street View`, after a while we hit the jackpot.
 
 ![Screenshot 2022-11-30 173605](https://user-images.githubusercontent.com/117080369/204881692-92104be7-c506-41b6-9c4b-6ea3fb978bf2.png)
 
@@ -204,31 +204,31 @@ Let's make a note of the exact location: 314 Williamstown Road, Port Melbourne, 
 
 Location 8:
 
-We can sort of make out a house number, could be 307, 507 or 807
+We can just about make out a house number, could be either 307, 507 or 807
 
 Each of the houses has a different style roof, one looks like it has solar panels, and one has a read and white awning.
 
 Lets try <a href="[overpass turbo (overpass-turbo.eu)](https://overpass-turbo.eu/)">overpass turbo</a> for all houses in Richmond, Victoria numered 307 first, if no luck we will move on to 507 then 807.
 
-Running the wizard and using `addr:housenumber=307` retuns a handful of locations, lets view them in Google Earth to see if any match.
+Running the wizard and using `addr:housenumber=307` retuns a handful of locations, lets view them in `Google Earth` to see if any match.
 
-Unfortunately this did not bear any fruit - it seems that a lot of the houses havn't been tagged, sigh!
+Unfortunately this did not bear any fruit - it seems that a lot of the houses havn't been `tagged`, sigh!
 
-Okay Plan B, lets search for Richmond, Victoria in Google Earth and see if we can spot the Red and White awning.
+Okay Plan B, lets search for `Richmond, Victoria` in `Google Earth` and see if we can spot the Red and White awning.
 
-Luckily Google Earth displays house numbers also, so hopefully we can get lucky...
+Luckily `Google Earth` displays house numbers also, so hopefully we can get lucky...
 
 It doesn't take too long to find as we only need to looks for numbers 307, 507 & 807
 
 ![Screenshot 2022-11-30 175130](https://user-images.githubusercontent.com/117080369/204881945-aacbb596-7bf5-4528-b776-f9ca97c6cae5.png)
 
-Lets drop into to Street View to confirm our findings...
+Lets drop into to `Street View` to confirm our findings...
 
 ![Screenshot 2022-11-30 175446](https://user-images.githubusercontent.com/117080369/204881999-618cfe9a-4cf2-476b-81c3-71f601a1109d.png)
 
 Let's make a note of the exact location: 311 Lennox Street, Richmond, Victoria, Australia.
 
-Now we can update our location pins to get our number.
+Now we can update our location pins to get our information for the password.
 
 ![Screenshot 2022-11-30 164409-2](https://user-images.githubusercontent.com/117080369/204882128-3c50ee6d-c414-45d6-a5f5-b5e157bbd343.png)
 
