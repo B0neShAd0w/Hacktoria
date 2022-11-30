@@ -75,7 +75,7 @@ Important information:
 
 Let's work through the location images now.
 
-Location 1:
+*Location 1:*
 
 This one was really easy, a quick reverse image search gave me the location.
 
@@ -87,7 +87,7 @@ Clicking on the 1st hit gave me the address, search the address in `Street View`
 
 Let's make a note of the exact location: 99 Furlong Road, Cairnlea, Victoria, Australia.
 
-Location 2:
+*Location 2:*
 
 This is the easiest as the image gives us a name of a school, so let's search for `St Martin de Porres parish School, Australia` on <a href="https://www.google.co.uk/maps">Google Maps</a>
 
@@ -99,7 +99,7 @@ Switching to `Street View` we can verify this is the location.
 
 Let's make a note of the exact location: 171 Military Road, Avondale Heights, Victoria, Australia.
 
-Location 4:
+*Location 4:*
 
 This one was fairly easy to locate, we can just about make out the business name `IGA`
 
@@ -119,7 +119,7 @@ Let's make a note of the exact location: 52 Fitzgerald Road, Victoria, Australia
 
 Um interesting, a pattern is emerging, so far 3 of the 8 locations are in Victoria...
 
-Location 3:
+*Location 3:*
 
 We can make out the sign with `Vinnies` on it, let's Google `Vinnies, Australia`
 
@@ -135,7 +135,7 @@ Let's enter each one into `Street View` and try to find a match, we know that th
 
 Let's make a note of the exact location: 45 Dickson Street , Sunshine, Victoria, Australia.
 
-Location 5:
+*Location 5:*
 
 Let's run a reverse image search, scrolling through the results we can see a house that matches the exact style, however it has a wall and not a fench, this is definately worth further investigation though.
 
@@ -147,7 +147,7 @@ Boom!, look's like we have a match.
 
 Let's make a note of the exact location: 20 Buckley Street, Essendon, Victoria, Australia.
 
-Location 7:
+*Location 7:*
 
 Let's do some reverse image searching on the `Graffiti`, the first hit has what looks like a close match to the supplied image, we also get a location `Thornbury, Victoria 3071`
 
@@ -185,7 +185,7 @@ So we have a `7` so far with two locations left to locate, this leads me to thin
 
 With this new information to hand let's try and locate the last 2 locations.
 
-Location 6:
+*Location 6:*
 
 In Google Maps zooming in on the new search are reveals this isn't a huge area to search, so what do we know about the area?
 * Looks like a Dual Carriageway
@@ -205,7 +205,7 @@ Let's have a look around via `Street View`, after a while we hit the jackpot.
 
 Let's make a note of the exact location: 314 Williamstown Road, Port Melbourne, Victoria, Australia.
 
-Location 8:
+*Location 8:*
 
 We can just about make out a house number, could be either 307, 507 or 807
 
