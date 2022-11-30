@@ -91,7 +91,7 @@ Let's make a note of the exact location: 99 Furlong Road, Cairnlea, Victoria, Au
 
 *Location 2:*
 
-This is the easiest as the image gives us a name of a school, so let's search for `St Martin de Porres parish School, Australia` on <a href="https://www.google.co.uk/maps">Google Maps</a>
+This one was really easy also as the image gives us a name of a school, so let's search for `St Martin de Porres parish School, Australia` on <a href="https://www.google.co.uk/maps">Google Maps</a>
 
 ![Screenshot 2022-11-30 120459](https://user-images.githubusercontent.com/117080369/204877976-6b415f3e-1345-4bb1-ac9d-de39d5d24f84.png)
 
@@ -107,7 +107,7 @@ This one was fairly easy to locate, we can just about make out the business name
 
 Given there are large trucks, I made the assumption this was either a warehouse or distribution center.
 
-Let' start by Googling `IGA Distribution Center, Victoria, Australia` if we do not have any luck with a search this narrow we will expand it out.
+Let's start by Googling `IGA Distribution Center, Victoria, Australia` if we do not have any luck with a search this narrow we will expand it out.
 
 The first result gives us an address.
 
@@ -161,11 +161,11 @@ This might be a time consuming task, Thornbury is quite big...
 
 Let's drop into `Street View` right on top of Thornbury and have a look around.
 
-Umm this looks interesting, we can see a green sign with a building of a similar shape, just like the supplied image, although it is a different color. 
+Umm this looks interesting, we can see a Green sign with a building of a similar shape, just like the supplied image, although it is a different color. 
 
 ![Screenshot 2022-11-30 142718](https://user-images.githubusercontent.com/117080369/204881051-5f76b039-62be-4eca-babe-e0d5117bbc5d.png)
 
-Let's have a better look...
+Let's have a closer look...
 
 Oh, as we move up the building changes colour, boom! we have a match, that was a stroke of luck.
 
@@ -181,7 +181,7 @@ Marking out the locations on a map sets off a light bulb moment.
 
 ![Screenshot 2022-11-30 164409](https://user-images.githubusercontent.com/117080369/204881373-eace5194-2417-4837-a31e-7329cb4a5aa8.png)
 
-So we have a `7` so far with two locations left to locate, this leads me to think that the options left would point to these rough locations, as with only 2 remaining locations I am going to make an assumption the numbers can only be a 0, 1's or a 2 drawn like a Z, either way the search area would be similar:
+So we have a `7` so far with two locations left to locate, this leads me to think that the options left would point to these rough locations, as with only 2 remaining locations I am going to make an assumption the numbers can only be a 0 drawn like a square, a pair of 1's or a 2 drawn like a Z, either way the search area would be similar:
 
 ![Screenshot 2022-11-30 164409-1](https://user-images.githubusercontent.com/117080369/204881533-8f5ac603-48bf-43f7-bdca-d234611c1f4d.png)
 
@@ -189,7 +189,7 @@ With this new information to hand let's try and locate the last 2 locations.
 
 *Location 6:*
 
-In Google Maps zooming in on the new search are reveals this isn't a huge area to search, so what do we know about the area?
+In `Google Maps` zooming in on the new search area reveals this isn't a huge area to search, so what do we know about the area?
 * Looks like a Dual Carriageway
 * With a grass central reservation
 
@@ -209,17 +209,17 @@ Let's make a note of the exact location: 314 Williamstown Road, Port Melbourne, 
 
 *Location 8:*
 
-We can just about make out a house number, could be either 307, 507 or 807
+We can just about make out a house number, could be either 307, 507 or 807.
 
-Each of the houses has a different style roof, one looks like it has solar panels, and one has a read and white awning.
+Each of the houses has a different style roof, one looks like it has solar panel(s), and one has a Red and White awning type thing.
 
-Lets try <a href="[overpass turbo (overpass-turbo.eu)](https://overpass-turbo.eu/)">overpass turbo</a> for all houses in Richmond, Victoria numered 307 first, if no luck we will move on to 507 then 807.
+Lets try <a href="[overpass turbo (overpass-turbo.eu)](https://overpass-turbo.eu/)">overpass turbo</a> for all houses in `Richmond, Victoria` numbered `307`, if no luck we will move on to `507` then `807`.
 
-Running the wizard and using `addr:housenumber=307` retuns a handful of locations, lets view them in `Google Earth` to see if any match.
+Running the wizard and using `addr:housenumber=307` returns a handful of locations, lets view them in `Google Earth` to see if any match.
 
 Unfortunately this did not bear any fruit - it seems that a lot of the houses havn't been `tagged`, sigh!
 
-Okay Plan B, lets search for `Richmond, Victoria` in `Google Earth` and see if we can spot the Red and White awning.
+Okay Plan B, lets search for `Richmond, Victoria` in `Google Earth` and see if we can spot the Red and White awning style thing.
 
 Luckily `Google Earth` displays house numbers also, so hopefully we can get lucky...
 
@@ -227,7 +227,7 @@ It doesn't take too long to find as we only need to looks for numbers 307, 507 &
 
 ![Screenshot 2022-11-30 175130](https://user-images.githubusercontent.com/117080369/204881945-aacbb596-7bf5-4528-b776-f9ca97c6cae5.png)
 
-Lets drop into to `Street View` to confirm our findings...
+Lets drop into `Street View` to confirm our findings...
 
 ![Screenshot 2022-11-30 175446](https://user-images.githubusercontent.com/117080369/204881999-618cfe9a-4cf2-476b-81c3-71f601a1109d.png)
 
