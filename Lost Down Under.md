@@ -116,11 +116,65 @@ Let's make a note of the exact location: 52 Fitzgerald Road, Victoria, Australia
 
 Um interesting, a pattern is emerging, so far 2 of the 8 locations have been in Victoria...
 
+Location 3:
 
+We can make out the sign with `Vinnies` on it, let's Google `Vinnies, Australia`
 
+![Screenshot 2022-11-30 130120](https://user-images.githubusercontent.com/117080369/204879160-c3624a20-1c20-4cc8-aee7-5f81ddf433ca.png)
 
+Let's view More Locations and zoom in a bit on Melbourne area.
 
+![Screenshot 2022-11-30 130634](https://user-images.githubusercontent.com/117080369/204879286-06b4a39e-176e-4740-a659-685812333a3c.png)
 
+Let's enter each one into Street View and try to find a match, we know that the supplied image contaings Traffic Lights, so any that don't have any traffic lights near can be skipped, after working through most of the list we find a match - Vinnies Sunshine
+
+![Screenshot 2022-11-30 125414](https://user-images.githubusercontent.com/117080369/204879559-b96a85cf-6e62-43fd-907b-3d6e8b4b23a6.png)
+
+Let's make a note of the exact location: 45 Dickson Street , Sunshine, Victoria, Australia.
+
+Location 5:
+
+Let's run a reverse image search, scrolling through the results we can see a house that matches the exact style, however it has a wall and not a fench, this is definately worth further investigation though.
+
+![Screenshot 2022-11-30 150126](https://user-images.githubusercontent.com/117080369/204880074-202be04c-582e-42ca-86d5-ea0f4e686651.png)
+
+Boom!, look's like we have a match.
+
+![Screenshot 2022-11-30 150438](https://user-images.githubusercontent.com/117080369/204880123-ff8a4d98-4b52-4908-8f3a-716e3e48cfa8.png)
+
+Let's make a note of the exact location: 20 Buckley Street, Essendon, Victoria, Australia.
+
+Location 7:
+
+Let's do some revirse image searching on the `Graffiti`, the first hit has what looks like a close match to the supplied image, we also get a location `Thornbury, Victoria 3071`
+
+![Screenshot 2022-11-30 141756](https://user-images.githubusercontent.com/117080369/204880702-0a616b3e-bfea-450c-b67c-5c8ff6e6cdd3.png)
+
+This might be a time consuming task, Thornbury is quite big...
+
+![Screenshot 2022-11-30 142506](https://user-images.githubusercontent.com/117080369/204880809-d731b188-a2ad-42a2-a462-5af6ae45c7ef.png)
+
+Let's drop into Street View right on Thornbury and have a look around.
+
+Umm this looks interesting, we can see a green sign with a building of a similar shape, just like the supplied image, although it is a different color. 
+
+![Screenshot 2022-11-30 142718](https://user-images.githubusercontent.com/117080369/204881051-5f76b039-62be-4eca-babe-e0d5117bbc5d.png)
+
+Let's have a better look.
+
+Oh, as we move up the building changes colour, boom! we have a match, that was a stroke of luck.
+
+![Screenshot 2022-11-30 140724](https://user-images.githubusercontent.com/117080369/204881122-c8be28e0-514a-4f56-b755-a7aaa2869176.png)
+
+Let's make a note of the exact location: 1 Normanby Avenue, Thornbury, Victoria
+
+At this point I am struggling to find the locations of images 6 & 8.
+
+Let's review what information we have gathered so far, the decoded text mentions that we have to `multiply 458964983 with the geolocation answer`, this must mean we are looking for a number from something.
+
+Marking out the locations we have found so far sets off a light bulb moment.
+
+![Screenshot 2022-11-30 164409](https://user-images.githubusercontent.com/117080369/204881373-eace5194-2417-4837-a31e-7329cb4a5aa8.png)
 
 
 
