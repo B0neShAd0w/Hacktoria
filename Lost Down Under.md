@@ -76,6 +76,7 @@ Important information:
 Let's work through the location images now.
 
 Location 1:
+
 This one was really easy, a quick reverse image search gave me the location.
 
 ![Screenshot 2022-11-30 124121](https://user-images.githubusercontent.com/117080369/204877422-26ac532e-eec7-47f0-b180-7522b9801340.png)
@@ -87,6 +88,7 @@ Clicking on the 1st hit gave me the address, search the address in `Street View`
 Let's make a note of the exact location: 99 Furlong Road, Cairnlea, Victoria, Australia.
 
 Location 2:
+
 This is the easiest as the image gives us a name of a school, so let's search for `St Martin de Porres parish School, Australia` on <a href="https://www.google.co.uk/maps">Google Maps</a>
 
 ![Screenshot 2022-11-30 120459](https://user-images.githubusercontent.com/117080369/204877976-6b415f3e-1345-4bb1-ac9d-de39d5d24f84.png)
@@ -98,6 +100,7 @@ Switching to `Street View` we can verify this is the location.
 Let's make a note of the exact location: 171 Military Road, Avondale Heights, Victoria, Australia.
 
 Location 4:
+
 This one was fairly easy to locate, we can just about make out the business name `IGA`
 
 Given there are large trucks, I made the assumption this was either a warehouse or distribution center.
