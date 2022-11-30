@@ -176,10 +176,73 @@ Marking out the locations we have found so far sets off a light bulb moment.
 
 ![Screenshot 2022-11-30 164409](https://user-images.githubusercontent.com/117080369/204881373-eace5194-2417-4837-a31e-7329cb4a5aa8.png)
 
+So we have a `7` so far with two locations left to locate, this leads me to think that the options left would point to these rough locations, as with only 2 remaining locations I am going to make an assumption the numbers can only be a 0, 1's or a 2 drawn like a Z, either way the search area would be similar:
 
+![Screenshot 2022-11-30 164409-1](https://user-images.githubusercontent.com/117080369/204881533-8f5ac603-48bf-43f7-bdca-d234611c1f4d.png)
 
+With this new information to hand let's try and locate the last 2 locations.
 
+Location 6:
 
+In Google Maps zooming in on the new search are reveals this isn't a huge area to search, so what do we know about the area?
+* Looks like a Dual Carriageway
+* With a grass central reservation
 
+So let's zoom in more on our search area to see if we can match this criteria, seems to be only 6 roads that match this criteria, 2 of these are Routes, so I think we can skip those for now.
+* Route 30
+* Route 33
+* Williamstown Rd
+* Graham St
+* Prohasky St
+* Cook St
+
+Let's have a look around via Street View, after a while we hit the jackpot.
+
+![Screenshot 2022-11-30 173605](https://user-images.githubusercontent.com/117080369/204881692-92104be7-c506-41b6-9c4b-6ea3fb978bf2.png)
+
+Let's make a note of the exact location: 314 Williamstown Road, Port Melbourne, Victoria, Australia.
+
+Location 8:
+
+We can sort of make out a house number, could be 307, 507 or 807
+
+Each of the houses has a different style roof, one looks like it has solar panels, and one has a read and white awning.
+
+Lets try <a href="[overpass turbo (overpass-turbo.eu)](https://overpass-turbo.eu/)">overpass turbo</a> for all houses in Richmond, Victoria numered 307 first, if no luck we will move on to 507 then 807.
+
+Running the wizard and using `addr:housenumber=307` retuns a handful of locations, lets view them in Google Earth to see if any match.
+
+Unfortunately this did not bear any fruit - it seems that a lot of the houses havn't been tagged, sigh!
+
+Okay Plan B, lets search for Richmond, Victoria in Google Earth and see if we can spot the Red and White awning.
+
+Luckily Google Earth displays house numbers also, so hopefully we can get lucky...
+
+It doesn't take too long to find as we only need to looks for numbers 307, 507 & 807
+
+![Screenshot 2022-11-30 175130](https://user-images.githubusercontent.com/117080369/204881945-aacbb596-7bf5-4528-b776-f9ca97c6cae5.png)
+
+Lets drop into to Street View to confirm our findings...
+
+![Screenshot 2022-11-30 175446](https://user-images.githubusercontent.com/117080369/204881999-618cfe9a-4cf2-476b-81c3-71f601a1109d.png)
+
+Let's make a note of the exact location: 311 Lennox Street, Richmond, Victoria, Australia.
+
+Now we can update our location pins to get our number.
+
+![Screenshot 2022-11-30 164409-2](https://user-images.githubusercontent.com/117080369/204882128-3c50ee6d-c414-45d6-a5f5-b5e157bbd343.png)
+
+Let's build up our password:
+* 711 x 458964983 = 326324102913
+* Location 1 = fur
+* Location 2 = mil
+* Location 3 = dic
+* Location 4 = fit
+* Location 5 = buc
+* Location 6 = wil
+* Location 7 = nor
+* Location 8 = len
+
+Password: `326324102913furmildicfitbucwilnorlen`
 
 Extract the `flagfile-lost-down-under.zip` with the password from the information gained above to get your contract card.
