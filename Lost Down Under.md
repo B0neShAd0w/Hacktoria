@@ -235,17 +235,17 @@ We can just about make out a house number, could be either 307, 507 or 807.
 
 Each of the houses has a different style roof, one looks like it has solar panel(s), and one has a Red and White awning type thing.
 
-Lets try <a href="[overpass turbo (overpass-turbo.eu)](https://overpass-turbo.eu/)">overpass turbo</a> for all houses in `Richmond, Victoria` numbered `307`, if no luck we will move on to `507` then `807`.
+Lets try <a href="https://overpass-turbo.eu/">overpass turbo</a> for all houses in `Richmond, Victoria` numbered `307`, if no luck we will move on to `507` then `807`.
 
-Running the wizard and using `addr:housenumber=307` returns a handful of locations, lets view them in `Google Earth` to see if any match.
+Running the wizard and using `addr:housenumber=307` returns a handful of locations, lets view them in `Google Earth` to see if any match?
 
 Unfortunately this did not bear any fruit - it seems that a lot of the houses havn't been `tagged`, sigh!
 
-Okay Plan B, lets search for `Richmond, Victoria` in `Google Earth` and see if we can spot the Red and White awning style thing.
+Okay Plan B, lets search for `Richmond, Victoria` in `Google Earth` and see if we can spot the `Red and White awning` style thing.
 
 Luckily `Google Earth` displays house numbers also, so hopefully we can get lucky...
 
-It doesn't take too long to find as we only need to looks for numbers 307, 507 & 807
+It doesn't take too long to find as we only need to looks for numbers `307, 507 & 807`.
 
 ![Screenshot 2022-11-30 175130](https://user-images.githubusercontent.com/117080369/204881945-aacbb596-7bf5-4528-b776-f9ca97c6cae5.png)
 
