@@ -67,6 +67,21 @@ Soon we find one that looks promising...
 
 ![image](https://user-images.githubusercontent.com/117080369/205076951-b50f4406-2faf-4976-a652-f2cf829ffebd.png)
 
+Now we have confirmed our location, it's time to construct the password.
+
+Let's do a `Google Search` for `Elburg, Netherlands area code`
+
+![Screenshot 2022-12-01 142904](https://user-images.githubusercontent.com/117080369/205078602-6a296e35-ab63-41a3-a03f-86979a4a70c7.png)
+
+Use <a href="https://earth.google.com/">Google Earth</a> to help get the correct <a href="https://what3words.com/">what3words</a> grid square, this is a little trial and error.
+
+![Screenshot 2022-12-01 143218](https://user-images.githubusercontent.com/117080369/205079517-50e2a193-4831-47e9-95e0-69b9c3621139.png)
+
+Let's build up our password:
+* Areacode: 0525
+* City: Elburg
+* what3words: punk-runways-messed
+
 Extract the `flagfile-kanonniers.zip` with the password from the information gained above to get your contract card.
 
 
