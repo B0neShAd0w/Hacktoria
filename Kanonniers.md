@@ -37,9 +37,9 @@ Given the above information pertains to the Dutch Intelligence Services I think 
 Upon eaxmaning the supplied image we have a couple of very useful keys to go on.
 * Old cannon on stone base
 * Some kind of waterway, could be river or canal etc.
-* A few buildings dotted around fileds
+* A few buildings dotted around fields
 
-Let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and run a search for historic cannons in the Neterlands.
+Let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and enter `Netherlands, Netherlands` as the search area.
 
 Running the wizard and using the tag `historic=cannon in Netherlands` returns a handful of locations.
 
@@ -47,7 +47,7 @@ Running the wizard and using the tag `historic=cannon in Netherlands` returns a 
 
 We can skip any of these that are not near a waterway or near a very big body of water, this narrows the search down a little further.
 
-Zooming in a little pick the ones that match our criteria, and grab the coordinates.
+Zooming in a little and picking the ones that match our criteria, grab the coordinates of the ones that match the criteria.
 
 ![Screenshot 2022-12-01 141257](https://user-images.githubusercontent.com/117080369/205074913-9092543e-a3be-4df1-b2e6-bff6e589fa3a.png)
 
