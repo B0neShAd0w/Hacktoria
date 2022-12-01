@@ -151,11 +151,19 @@ Let's make a note of the exact location: 20 Buckley Street, Essendon, Victoria, 
 
 *Location 7:*
 
-Let's do some reverse image searching on the `Graffiti`, the first hit has what looks like a close match to the supplied image, we also get a location `Thornbury, Victoria 3071`
+Let's do some reverse image searching on the `Street Art/Graffiti`, the first hit has what looks like a close match to the supplied image.
 
 ![Screenshot 2022-11-30 141756](https://user-images.githubusercontent.com/117080369/204880702-0a616b3e-bfea-450c-b67c-5c8ff6e6cdd3.png)
 
-This might be a time consuming task, Thornbury is quite big...
+looking at the page we see the illustrator `Tonia Composto` has tagged a location.
+
+![Screenshot 2022-12-01 074941](https://user-images.githubusercontent.com/117080369/204996115-ba4baade-e7a7-4239-8a17-804a063d6010.png)
+
+Looking through their page we find this:
+
+![Screenshot 2022-12-01 075206](https://user-images.githubusercontent.com/117080369/204996497-d99f5ceb-1de7-44bb-8061-4d0ffe1831a3.png)
+
+Let's start searching around `Thornbury` for a match, maybe we get lucky, however this might be a time consuming task, Thornbury is quite big...
 
 ![Screenshot 2022-11-30 142506](https://user-images.githubusercontent.com/117080369/204880809-d731b188-a2ad-42a2-a462-5af6ae45c7ef.png)
 
@@ -254,4 +262,4 @@ Let's build up our password:
 Extract the `flagfile-lost-down-under.zip` with the password from the information gained above to get your contract card.
 
 
-                                                                                                                                                            BoΠeShΔdϴw³
+BoΠeShΔdϴw³
