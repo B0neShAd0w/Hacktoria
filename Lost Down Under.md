@@ -163,7 +163,7 @@ Let's do some reverse image searching on the `Street Art/Graffiti`, the first hi
 
 ![Screenshot 2022-11-30 141756](https://user-images.githubusercontent.com/117080369/204880702-0a616b3e-bfea-450c-b67c-5c8ff6e6cdd3.png)
 
-looking at the page we see the illustrator `Tonia Composto` has tagged a location.
+At the top of the page we see the illustrator `Tonia Composto` has tagged a location.
 
 ![Screenshot 2022-12-01 074941](https://user-images.githubusercontent.com/117080369/204996115-ba4baade-e7a7-4239-8a17-804a063d6010.png)
 
@@ -191,17 +191,21 @@ Let's make a note of the exact location: 1 Normanby Avenue, Thornbury, Victoria,
 
 At this point I am struggling to find the locations of images 6 & 8.
 
-I have no luck with reverse image searches, overpass turbo queries or Google Dorking, sigh!
+I had no luck with `reverse image` searches, `overpass turbo` queries or `Google Dorking` and various other ideas, sigh!
 
 Let's review what information we have gathered so far, the decoded text mentions that we have to `multiply 458964983 with the geolocation answer`, this must mean we are looking for a number from something.
 
-Marking out the locations on a map sets off a light bulb moment.
+As I start marking out the locations we have found so far on the map, I have a massive light bulb moment!
 
 ![Screenshot 2022-11-30 164409](https://user-images.githubusercontent.com/117080369/204881373-eace5194-2417-4837-a31e-7329cb4a5aa8.png)
 
-So we have a `7` so far with two locations left to locate, this leads me to think that the options left would point to these rough locations, as with only 2 remaining locations I am going to make an assumption the numbers can only be a 0 drawn like a square, a pair of 1's, a 2 drawn like a Z or 1 7, however given that they seems to follow a sequence, I have made the assumption the search area would be based on 2 area's, if this this doesn't work we can re-evaluate and expannd our search:
+So we have a `7`, with two locations left to locate this leads me to think that the options left would point to these rough locations: 
 
 ![Screenshot 2022-11-30 164409-1](https://user-images.githubusercontent.com/117080369/204881533-8f5ac603-48bf-43f7-bdca-d234611c1f4d.png)
+
+With only 2 remaining locations to find, I am going to make an assumption the numbers can only be a `0 drawn like a square, pair of 1's, 2 drawn like a Z or a 7`, however given that they seems to follow a sequence, I have made the assumption the search area would be based on the 2 area's.
+
+If this this doesn't work we can re-evaluate and expannd our search.
 
 With this new information to hand let's try and locate the last 2 locations.
 
