@@ -27,8 +27,45 @@ Use your findings to generate the password that will unlock the “flagfile”, 
 ---
 
 ### Methodology:
+The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
+* Dutch intelligence agency
+* monument
+* cannon
 
-WIP
+Given the above information pertains to the Dutch Intelligence Services I think we should start our search in the `Netherlands`.
+
+Upon eaxmaning the supplied image we have a couple of very useful keys to go on.
+* Old cannon on stone base
+* Some kind of waterway, could be river or canal etc.
+* A few buildings dotted around fileds
+
+Let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and run a search for historic cannons in the Neterlands.
+
+Running the wizard and using the tag `historic=cannon in Netherlands` returns a handful of locations.
+
+![image](https://user-images.githubusercontent.com/117080369/205074392-e420ed03-f51c-402b-a042-1d1001c03c9b.png)
+
+We can skip any of these that are not near a waterway or near a very big body of water, this narrows the search down a little further.
+
+Zooming in a little pick the ones that match our criteria, and grab the coordinates.
+
+![Screenshot 2022-12-01 141257](https://user-images.githubusercontent.com/117080369/205074913-9092543e-a3be-4df1-b2e6-bff6e589fa3a.png)
+
+Looking up the coordinates in <a href="https://earth.google.com/">Google Earth</a> we can have a quick look around to see if we are in the correct area or not.
+
+![image](https://user-images.githubusercontent.com/117080369/205075775-1cfcac83-1306-4e58-9504-8c6342790c88.png)
+
+Dropping into `Street View` to get a better look...
+
+![image](https://user-images.githubusercontent.com/117080369/205077432-317f9235-0de8-4009-aaee-2141a5701cd0.png)
+
+Nope, not a match, not even close...
+
+Let's work our way through them.
+
+Soon we find one that looks promising...
+
+![image](https://user-images.githubusercontent.com/117080369/205076951-b50f4406-2faf-4976-a652-f2cf829ffebd.png)
 
 Extract the `flagfile-kanonniers.zip` with the password from the information gained above to get your contract card.
 
