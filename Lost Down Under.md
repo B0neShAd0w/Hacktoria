@@ -3,7 +3,7 @@
 # Contract: Lost Down Under
 ![lost-down-under-cover-600x600](https://user-images.githubusercontent.com/117080369/204875717-bc98bf32-764a-4f0d-9bcf-96743e214ec6.png)
 
-### Difficulty: Hard
+### Difficulty: Insane
 
 ### Mission Briefing:
 Greetings Special Agent K. We need your assistance in an urgent matter. Our client, the Australian Secret Intelligence Agency, ASIS for short, has requested our help to uncover a terrorist organization.
