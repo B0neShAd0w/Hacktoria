@@ -175,13 +175,15 @@ Let's make a note of the exact location: 1 Normanby Avenue, Thornbury, Victoria,
 
 At this point I am struggling to find the locations of images 6 & 8.
 
+I have no luck with reverse image searches, overpass turbo queries or Google Dorking, sigh!
+
 Let's review what information we have gathered so far, the decoded text mentions that we have to `multiply 458964983 with the geolocation answer`, this must mean we are looking for a number from something.
 
 Marking out the locations on a map sets off a light bulb moment.
 
 ![Screenshot 2022-11-30 164409](https://user-images.githubusercontent.com/117080369/204881373-eace5194-2417-4837-a31e-7329cb4a5aa8.png)
 
-So we have a `7` so far with two locations left to locate, this leads me to think that the options left would point to these rough locations, as with only 2 remaining locations I am going to make an assumption the numbers can only be a 0 drawn like a square, a pair of 1's or a 2 drawn like a Z, either way the search area would be similar:
+So we have a `7` so far with two locations left to locate, this leads me to think that the options left would point to these rough locations, as with only 2 remaining locations I am going to make an assumption the numbers can only be a 0 drawn like a square, a pair of 1's, a 2 drawn like a Z or 1 7, however given that they seems to follow a sequence, I have made the assumption the search area would be based on 2 area's, if this this doesn't work we can re-evaluate and expannd our search:
 
 ![Screenshot 2022-11-30 164409-1](https://user-images.githubusercontent.com/117080369/204881533-8f5ac603-48bf-43f7-bdca-d234611c1f4d.png)
 
@@ -238,16 +240,18 @@ Now we can update our location pins to get our information for the password.
 ![Screenshot 2022-11-30 164409-2](https://user-images.githubusercontent.com/117080369/204882128-3c50ee6d-c414-45d6-a5f5-b5e157bbd343.png)
 
 Let's build up our password:
-* 711 x 458964983 = 326324102913
-* Location 1 = fur
-* Location 2 = mil
-* Location 3 = dic
-* Location 4 = fit
-* Location 5 = buc
-* Location 6 = wil
-* Location 7 = nor
-* Location 8 = len
-
-Password: `326324102913furmildicfitbucwilnorlen`
+* Transmission number = 458964983
+* Location 1 street = fur
+* Location 2 street = mil
+* Location 3 street = dic
+* Location 4 street = fit
+* Location 5 street = buc
+* Location 6 street = wil
+* Location 7 street = nor
+* Location 8 street = len
+* Geolocation number: 711
 
 Extract the `flagfile-lost-down-under.zip` with the password from the information gained above to get your contract card.
+
+
+                                                                                                                                                            BoΠeShΔdϴw³
