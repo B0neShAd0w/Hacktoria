@@ -73,8 +73,6 @@ Important information:
 * 458964983 needs multiplication with the geolocation answer
 * add the first three letters of all streetnames in order at the end of the numbers
 
-**NOTE: I didn't do the locations in order, I worked through based on difficulty.**
-
 Let's work through the location images now.
 
 *Location 1:*
@@ -83,7 +81,7 @@ This one was really easy, a quick reverse image search gave me the location.
 
 ![Screenshot 2022-11-30 124121](https://user-images.githubusercontent.com/117080369/204877422-26ac532e-eec7-47f0-b180-7522b9801340.png)
 
-Clicking on the 1st hit gave me the address, search the address in `Street View` and moving around to the other side of the building gives us confirmation of our location.
+Clicking on the 1st hit gave me the address, search the address in `Street View`, then moving around to the other side of the building gives us confirmation of our location.
 
 ![Screenshot 2022-11-30 124002](https://user-images.githubusercontent.com/117080369/204877542-9fecfba8-e4e3-4d00-bad8-388fcc0502e1.png)
 
@@ -123,17 +121,27 @@ Um interesting, a pattern is emerging, so far 3 of the 8 locations are in Victor
 
 *Location 3:*
 
-We can make out the sign with `Vinnies` on it, let's Google `Vinnies, Australia`
+We can make out the sign with `Vinnies` on it, let's Google `Vinnies, Victoria, Australia`
 
 ![Screenshot 2022-11-30 130120](https://user-images.githubusercontent.com/117080369/204879160-c3624a20-1c20-4cc8-aee7-5f81ddf433ca.png)
 
 Let's view More Locations and zoom in a bit on the `Melbourne area`.
 
-![Screenshot 2022-11-30 130634](https://user-images.githubusercontent.com/117080369/204879286-06b4a39e-176e-4740-a659-685812333a3c.png)
+![image](https://user-images.githubusercontent.com/117080369/205002730-73e5ef81-c3b9-472b-b594-12fde011b04e.png)
 
-Let's enter each one into `Street View` and try to find a match, we know that the supplied image contaings `Traffic Lights`, so any that don't have any traffic lights nearby can be skipped, after working through most of the list we find a match - Vinnies Sunshine
+Click on each result to get the address.
+
+![Screenshot 2022-12-01 082057](https://user-images.githubusercontent.com/117080369/205002219-f5b9b5a6-15b8-4904-a0e4-22087b24ddc8.png)
+
+And enter into `Google Maps`, zooming in on the location we can see if there are any `traffic lights` close by, if not we can skip and move on to the next location.
+
+![Screenshot 2022-12-01 082732](https://user-images.githubusercontent.com/117080369/205003532-fc44a196-61e0-415e-84fb-850e26bf0d74.png)
+
+Once we find a location with `trafic lights` close by we can switch to `Street View` and have a closer look.
 
 ![Screenshot 2022-11-30 125414](https://user-images.githubusercontent.com/117080369/204879559-b96a85cf-6e62-43fd-907b-3d6e8b4b23a6.png)
+
+Boom! another location found.
 
 Let's make a note of the exact location: 45 Dickson Street , Sunshine, Victoria, Australia.
 
@@ -248,16 +256,16 @@ Now we can update our location pins to get our information for the password.
 ![Screenshot 2022-11-30 164409-2](https://user-images.githubusercontent.com/117080369/204882128-3c50ee6d-c414-45d6-a5f5-b5e157bbd343.png)
 
 Let's build up our password:
-* Transmission number = 458964983
-* Location 1 street = fur
-* Location 2 street = mil
-* Location 3 street = dic
-* Location 4 street = fit
-* Location 5 street = buc
-* Location 6 street = wil
-* Location 7 street = nor
-* Location 8 street = len
-* Geolocation number: 711
+* Transmission number: 458964983
+* Location 1 street: fur
+* Location 2 street: mil
+* Location 3 street: dic
+* Location 4 street: fit
+* Location 5 street: buc
+* Location 6 street: wil
+* Location 7 street: nor
+* Location 8 street: len
+* Geolocation answer: 711
 
 Extract the `flagfile-lost-down-under.zip` with the password from the information gained above to get your contract card.
 
