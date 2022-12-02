@@ -23,16 +23,52 @@ Special Agent K, you have 24 hours to locate Klumgongyn. After that we’ll star
 ### Methodology:
 
 Let's take a closer look at the supplied image, What information can we gather?:
-* Taxi company name and phone number
+* Taxi company name and phone number(s)
 * Sand on the road - this must mean we are near a beach.
 * Hot climate judging by the vegetation and sun awning(s)
 * Place of worship in the background - possibly a Mosque
 
-A quick Google search for `My Taxi 688 4646` reveals they have a Facebook page.
+A quick Google search for `My Taxi 688 2122` reveals they have a Facebook page.
 
-![Screenshot 2022-12-02 121910](https://user-images.githubusercontent.com/117080369/205291714-07890c81-c1b8-41f4-9ad9-bf9850a3c524.png)
+![Screenshot 2022-12-02 123001](https://user-images.githubusercontent.com/117080369/205293393-ce8d70d5-524f-49e7-a002-1f2cec8e3dcc.png)
 
 Looking through their Facebook page gives us an address
+
+![Screenshot 2022-12-02 123143](https://user-images.githubusercontent.com/117080369/205293650-d0208e99-6d73-4052-83d1-9a6a67f9aac6.png)
+
+Let's search for `Hithadhoo Seenu, Maldives` in <a href="https://www.google.com/">Google Maps</a>
+
+![Screenshot 2022-12-02 123325](https://user-images.githubusercontent.com/117080369/205294406-d1b14826-dfa0-46f4-8800-0bd1807117d8.png)
+
+This doesn't look too big an area to search, zooming in and selecting and switching to `Street View` only confirms that.
+
+![image](https://user-images.githubusercontent.com/117080369/205294799-fb63011c-8612-4407-ac9a-58037517edaa.png)
+
+Okay, now to down to business, where is the location?
+
+We know that there is a Mosque in the background with a long straight road, we also think we need to find a Cafe of sorts, let's have a look around and see if anything jumps out...
+
+With `Street View` active, zoom in until most of the roads/streets show the names and follow the blue lines around...
+
+We find this, however is it the incorrect orientation from the image, so let's continue searching.
+
+![Screenshot 2022-12-02 124541](https://user-images.githubusercontent.com/117080369/205296095-364da88f-4c4e-4ab2-a7f5-d49e664021b4.png)
+
+This almost fits with the criteria, 
+
+![Screenshot 2022-12-02 124950](https://user-images.githubusercontent.com/117080369/205296867-c781e642-3e01-4fb7-b418-131c98c380f8.png)
+
+Let's take a closer look.
+
+Not even close. 
+
+![image](https://user-images.githubusercontent.com/117080369/205297191-a82e9b92-f63d-4e9e-a700-5cc9ac53e798.png)
+
+Let's continue with our search.
+
+Soon we find a result that meets our criteria.
+
+![Screenshot 2022-12-02 124248](https://user-images.githubusercontent.com/117080369/205295682-a07d10d5-b8eb-4a32-8ecb-c27bad9a1097.png)
 
 
 Extract the `flagfile-wheres-klumgongyn.zip` with the password from the information gained above to get your contract card.
