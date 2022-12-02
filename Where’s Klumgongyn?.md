@@ -70,6 +70,11 @@ Soon we find a result that meets our criteria.
 
 ![Screenshot 2022-12-02 124248](https://user-images.githubusercontent.com/117080369/205295682-a07d10d5-b8eb-4a32-8ecb-c27bad9a1097.png)
 
+Taking a closer look confirms we have found our location - Boom!
+
+![image](https://user-images.githubusercontent.com/117080369/205297846-1b67ab0c-4e07-4cf9-8fcd-b7f6cf96ac73.png)
+
+
 
 Extract the `flagfile-wheres-klumgongyn.zip` with the password from the information gained above to get your contract card.
 
