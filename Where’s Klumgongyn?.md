@@ -44,7 +44,7 @@ This doesn't look too big an area to search, zooming in and switching to `Street
 
 ![image](https://user-images.githubusercontent.com/117080369/205294799-fb63011c-8612-4407-ac9a-58037517edaa.png)
 
-Okay, now down to business, where is the location?
+Okay, now down to business, where is the location we are looking for?
 
 We know that there is a Mosque in the background with a long straight road, we also think we need to find a Cafe of sorts, let's have a look around and see if anything jumps out...
 
