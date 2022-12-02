@@ -22,17 +22,17 @@ Special Agent K, you have 24 hours to locate Klumgongyn. After that we’ll star
 
 ### Methodology:
 
-Let's take a closer look at the supplied image, What information can we gather?:
+Let's take a closer look at the supplied image, what information can we gather?:
 * Taxi company name and phone number(s)
 * Sand on the road - this must mean we are near a beach.
-* Hot climate judging by the vegetation and sun awning(s)
-* Place of worship in the background - possibly a Mosque
+* Hot climate, judging by the vegetation and sun awning(s)
+* Mosque in the background  
 
 A quick Google search for `My Taxi 688 2122` reveals they have a Facebook page.
 
 ![Screenshot 2022-12-02 123001](https://user-images.githubusercontent.com/117080369/205293393-ce8d70d5-524f-49e7-a002-1f2cec8e3dcc.png)
 
-Looking through their Facebook page gives us an address
+Looking through their Facebook page and clicking on the `Discussion` tab gives us an address.
 
 ![Screenshot 2022-12-02 123143](https://user-images.githubusercontent.com/117080369/205293650-d0208e99-6d73-4052-83d1-9a6a67f9aac6.png)
 
@@ -40,11 +40,11 @@ Let's search for `Hithadhoo Seenu, Maldives` in <a href="https://www.google.com/
 
 ![Screenshot 2022-12-02 123325](https://user-images.githubusercontent.com/117080369/205294406-d1b14826-dfa0-46f4-8800-0bd1807117d8.png)
 
-This doesn't look too big an area to search, zooming in and selecting and switching to `Street View` only confirms that.
+This doesn't look too big an area to search, zooming in and switching to `Street View` only confirms that.
 
 ![image](https://user-images.githubusercontent.com/117080369/205294799-fb63011c-8612-4407-ac9a-58037517edaa.png)
 
-Okay, now to down to business, where is the location?
+Okay, now down to business, where is the location?
 
 We know that there is a Mosque in the background with a long straight road, we also think we need to find a Cafe of sorts, let's have a look around and see if anything jumps out...
 
@@ -60,7 +60,7 @@ This almost fits with the criteria,
 
 Let's take a closer look.
 
-Not even close. 
+Not even close...
 
 ![image](https://user-images.githubusercontent.com/117080369/205297191-a82e9b92-f63d-4e9e-a700-5cc9ac53e798.png)
 
@@ -74,7 +74,9 @@ Taking a closer look confirms we have found our location - Boom!
 
 ![image](https://user-images.githubusercontent.com/117080369/205297846-1b67ab0c-4e07-4cf9-8fcd-b7f6cf96ac73.png)
 
-
+Information for password:
+* Country = maldives
+* Street-name: elhe-didi-magu
 
 Extract the `flagfile-wheres-klumgongyn.zip` with the password from the information gained above to get your contract card.
 
