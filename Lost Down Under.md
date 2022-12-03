@@ -209,9 +209,9 @@ So we have marked out a `7`, with two other locations.
 
 ![Screenshot 2022-12-03 102718](https://user-images.githubusercontent.com/117080369/205436444-cd60448b-a47e-41f2-85b0-e6b6d80202a6.png)
 
-With only 2 remaining locations to find, I am going to make an assumption the numbers can only be a `0 drawn like a square, pair of 1's, 2 drawn like a Z or a 7`, however given that they seems to follow a sequence, I have made the assumption the search area would be based on the 2 area's.
+With only 2 remaining locations to find, I am going to make an assumption the numbers can only be a `0 drawn like a square, pair of 1's, 2 drawn like a Z or a 7`, however given that they seem to follow a sequence, I have made the assumption the search areas would be based on the 2 area's circled.
 
-![Screenshot 2022-12-03 104357-1](https://user-images.githubusercontent.com/117080369/205437078-5da96fd3-e56a-4c06-bf1c-1cd5db21f220.png)
+![Screenshot 2022-12-03 104357](https://user-images.githubusercontent.com/117080369/205441612-49c0fba9-2080-4303-ae1f-2dc3e87b3133.png)
 
 With this new information to hand let's try and locate the last 2 locations.
 
