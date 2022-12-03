@@ -203,17 +203,15 @@ I had no luck with `reverse image` searches, `overpass turbo` queries or `Google
 
 Let's review what information we have gathered so far, the decoded text mentions that we have to `multiply 458964983 with the geolocation answer`, this must mean we are looking for a number from something.
 
-As I start marking out the locations we have found so far on the map, I have a massive light bulb moment!
+As I start marking out the locations found so far on a map, I have a massive light bulb moment!
 
-![Screenshot 2022-11-30 164409](https://user-images.githubusercontent.com/117080369/204881373-eace5194-2417-4837-a31e-7329cb4a5aa8.png)
+So we have a `7`, and two other locations.
 
-So we have a `7`, with two locations left to locate this leads me to think that the options left would point to these rough locations: 
-
-![Screenshot 2022-11-30 164409-1](https://user-images.githubusercontent.com/117080369/204881533-8f5ac603-48bf-43f7-bdca-d234611c1f4d.png)
+![Screenshot 2022-12-03 102718](https://user-images.githubusercontent.com/117080369/205436444-cd60448b-a47e-41f2-85b0-e6b6d80202a6.png)
 
 With only 2 remaining locations to find, I am going to make an assumption the numbers can only be a `0 drawn like a square, pair of 1's, 2 drawn like a Z or a 7`, however given that they seems to follow a sequence, I have made the assumption the search area would be based on the 2 area's.
 
-If this this doesn't work we can re-evaluate and expannd our search.
+![Screenshot 2022-12-03 102718](https://user-images.githubusercontent.com/117080369/205436706-adc354a0-9a2e-4b2f-9774-04d4a331878b.png)
 
 With this new information to hand let's try and locate the last 2 locations.
 
@@ -265,7 +263,7 @@ Let's make a note of the exact location: 311 Lennox Street, Richmond, Victoria, 
 
 Now we can update our location pins to get our information for the password.
 
-![Screenshot 2022-11-30 164409-2](https://user-images.githubusercontent.com/117080369/204882128-3c50ee6d-c414-45d6-a5f5-b5e157bbd343.png)
+![Screenshot 2022-12-03 102423](https://user-images.githubusercontent.com/117080369/205436338-c34f392d-f786-4ac4-8a0a-87e69053c66b.png)
 
 Let's build up our password:
 * Transmission number: 458964983
