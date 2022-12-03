@@ -115,7 +115,7 @@ So let's have a look in `Street View`, with a little bit of moving around we are
 
 ![Screenshot 2022-11-30 122359](https://user-images.githubusercontent.com/117080369/204878900-7382c309-3d07-45c1-9e75-eb02d2fd9910.png)
 
-Let's make a note of the exact location: 52 Fitzgerald Road, Victoria, Australia.
+Let's make a note of the exact location: 52 Fitzgerald Road, Laverton North, Victoria, Australia.
 
 Um interesting, a pattern is emerging, so far 3 of the 8 locations are in Victoria...
 
