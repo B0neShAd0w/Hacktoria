@@ -211,7 +211,7 @@ So we have marked out a `7`, with two other locations.
 
 With only 2 remaining locations to find, I am going to make an assumption the numbers can only be a `0 drawn like a square, pair of 1's, 2 drawn like a Z or a 7`, however given that they seems to follow a sequence, I have made the assumption the search area would be based on the 2 area's.
 
-![Screenshot 2022-12-03 102718](https://user-images.githubusercontent.com/117080369/205436706-adc354a0-9a2e-4b2f-9774-04d4a331878b.png)
+![Screenshot 2022-12-03 104357-1](https://user-images.githubusercontent.com/117080369/205437078-5da96fd3-e56a-4c06-bf1c-1cd5db21f220.png)
 
 With this new information to hand let's try and locate the last 2 locations.
 
