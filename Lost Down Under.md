@@ -205,7 +205,7 @@ Let's review what information we have gathered so far, the decoded text mentions
 
 As I start marking out the locations found so far on a map, I have a massive light bulb moment!
 
-So we have a `7`, and two other locations.
+So we have marked out a `7`, with two other locations.
 
 ![Screenshot 2022-12-03 102718](https://user-images.githubusercontent.com/117080369/205436444-cd60448b-a47e-41f2-85b0-e6b6d80202a6.png)
 
