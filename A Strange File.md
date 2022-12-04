@@ -41,7 +41,7 @@ This doesn't really give us many clues.
 
 If we open this file with a `Text Editor` we can see a lot of `HEX` code, is there anything else interesting in this file?.
 
-The first 6 characters look like it a file signature!
+The first 6 characters look like a file signature!
 
 We can confirm this a number of ways, just have a look at <a href="https://en.wikipedia.org/wiki/List_of_file_signatures">List of file signatures - Wikipedia</a> for `FF D8 FF`
 
@@ -65,9 +65,9 @@ Woohoo! we now have an image file showing a location.
 
 ![strange-file](https://user-images.githubusercontent.com/117080369/205494663-eeddb34e-7236-4bc5-9668-da0ca6f20ad3.jpg)
 
-Let's see if we can get the 2nd file, for this we will head over to <a href="https://www.aperisolve.com">Aperi'Solve</a> 
+Let's see if we can get any additional file(s), for this we will head over to <a href="https://www.aperisolve.com">Aperi'Solve</a>. 
 
-Select the image from the previous steps and click `SUBMIT`, once it has finished processing the image, scroll down to the `Foremost` section.
+Select the image from the previous steps and click `SUBMIT`, once it has finished processing, scroll down to the `Foremost` section.
 
 ![Screenshot 2022-12-03 180839](https://user-images.githubusercontent.com/117080369/205494696-02550b1f-2aba-4813-a62b-178c91d83823.png)
 
@@ -152,7 +152,7 @@ At this point I was really struggling to know which direction to head in, So I d
 
 Coming back to this rejuvenated with a couple of new ideas to try out, let's get stuck in.
 
-Something is niggling away at me saying *"the text is important"* - so I decided to use <a href="[Google Translate](https://translate.google.com/)">Google Translate</a> and translate the country names from English to Arabic.
+Something is niggling away at me saying *"the text in the image is important!"* - so I decided to use <a href="[Google Translate](https://translate.google.com/)">Google Translate</a> and translate the country names from English to Arabic.
 
 | English | Arabic |
 |---|---|
@@ -206,7 +206,7 @@ out body;
 out skel qt;
 ```
 
-In the original query and viewing the Data of `fuel station` I noticed that a large percentage of them were OiLibya, this is the reason I exclude "Oil*" because after researching `OiLibya` their Gas Stations do not use Green forecourt bannering, also the wildcard is used to filter out the various different spellings found in the tags (OiLibya, Oil Libya, OilLibya etc.).
+Reviewing the `overpass Data` from the original query I noticed that a large percentage of them were OiLibya, this is the reason I exclude "Oil*", because after researching `OiLibya` their Gas Stations do not use Green forecourt bannering, also the wildcard is used to filter out the various different spellings found in the tags (OiLibya, Oil Libya, OilLibya etc.).
 
 ![OiLibya](https://user-images.githubusercontent.com/117080369/205495204-5a4f6b55-5bbd-49c9-bb7e-a640092b6ca0.JPG)
 
@@ -214,7 +214,7 @@ Once the results are processed we can see that we have significantly reduced our
 
 ![Screenshot 2022-12-04 101824](https://user-images.githubusercontent.com/117080369/205495252-f9687c48-023b-40e1-971f-71a7cacce620.png)
 
-Upon referring back to the image supplied we can rule out the location being coastal, so we will focus our search inland to start off, we can always look at the coastal results later if we have no luck.
+Upon referring back to the `00000134.jpg` image, we can rule out the location being coastal, so we will focus our search inland to start off, we can always look at the coastal results later if we have no luck.
 
 We need to follow a methodology with our search as to not miss out on the result we are looking for, so let's break this up into <a href="https://en.wikipedia.org/wiki/Districts_of_Libya">Districts of Libya</a>
 * Cyrenaica
@@ -241,9 +241,9 @@ We need to follow a methodology with our search as to not miss out on the result
 	* Wadi al Hayat
 	* Murzuq
 
-Once again let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and enter `Libya` into the search area, then run the previous query we used - don't forget to up the `geocodeArea:` in the query!
+Once again let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and enter `Libya` into the search area, then run the previous query we used - don't forget to update the `geocodeArea:` in the query!
 
-From the results we can see we have quite a few, so lets output these in CSV form to make it easier to investigate.
+From the results we can see we have quite a few, so lets output these to CSV format to make it easier to investigate.
 
 Enter the below query to get the results in a CSV format.
 
@@ -271,15 +271,17 @@ As you see from the results we now have each Gas Station coordinates nicely form
 
 Save the results to a `text file (.CSV)` for referring back to later.
 
-I repeat this process for all the Districts, note the spelling in brackets required for overpass
+I repeat this process for all the Districts, note: the spelling in brackets is required for the overpass query.
 
 Once we have all of the District files we can start working our way through them.
 
-Starting at the low hanging fruit (files that contain very few results).
+Starting at the low hanging fruit (files that contain very few results and skipping coastal areas [for now]).
 
 We have a number of options available to us here, we could use <a href="https://www.google.com/maps">Google Maps</a>, <a href="https://earth.google.com/web/">Google Earth</a>, <a href="https://satellites.pro/">Satellites Pro</a> or various other mapping tools.
 
 Paste the coordinates from each result into your preferred map tool and examine the location for a match.
+
+Obviously where a few results are grouped together we can just move around the map to examine them.
 
 I am going to use <a href="https://www.google.com/maps">Google Maps</a> and activate `Street View` to show the various views available for the location, zoom out to get a better picture of the area. we can also click on `Layers` to view the ariel view, this is useful to matching against the first supplied image.
 
@@ -301,11 +303,11 @@ We can gather the `Country`, `City` and `Business type` from the Vehicle Repair 
 
 ![Screenshot 2022-12-04 120618](https://user-images.githubusercontent.com/117080369/205495551-ff72b5ed-f3b9-4d4b-9a5a-82c7738f2a30.png)
 
-Heading over to <a href="https://what3words.com/">what3words</a> and switching to `Terrain View`, and moving around a little until we locate a match for the first image we can get our `what3words` required.
+Heading over to <a href="https://what3words.com/">what3words</a> and switching to `Terrain View`, and moving around a little until we locate a match for image `00000000.jpg`, we can get our required `what3words`.
 
 ![Screenshot 2022-12-04 115457](https://user-images.githubusercontent.com/117080369/205495575-36599bea-f73e-4085-a2b1-e7ae0f97be79.png)
 
-All that is left to find is the `Area Dialcode`, a quick `Google search` reveals this <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_Libya">here</a>.
+All that is left to do is find the `Area Dialcode`, a quick `Google search` reveals this <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_Libya">here</a>.
 
 We already know the `District` as this is the `CSV file` we have just been using.
 
