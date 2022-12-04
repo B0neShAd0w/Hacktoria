@@ -93,13 +93,98 @@ What do we know?
 	* Disused/old car parts
 	* Rudimentary pits/trenches - possibly used for car repairs
 
-![00000134](https://user-images.githubusercontent.com/117080369/205494741-645fe448-ba2e-4e20-afda-a780e0a87762.jpg)
+![Screenshot 2022-12-03 182419](https://user-images.githubusercontent.com/117080369/205494778-4cb416fa-8ed8-476c-a713-72a5773a67b2.png)
 
+I think from the information gathered that we are looking for a disused gas station with a car repair workshop in very close proximity, in an Arabic speaking town/village.
 
+However we do not know if the assumed car repair shop is still in business or not, so how are we going to locate this?
 
+Let's head over to Wikipedia and get a <a href="https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_Arabic_is_an_official_language">List of countries and territories where Arabic is an official language</a> 
+1. Algeria
+2. Bahrain
+3. Chad 
+4. Comoros 
+5. Djibouti 
+6. Egypt 
+7. Iraq 
+8. Jordan 
+9. Kuwait 
+10. Lebanon 
+11. Libya 
+12. Mauritania 
+13. Morocco 
+14. Oman
+15. Palestine 
+16. Qatar 
+17. Saudi Arabia   
+18. Somalia 
+19. Sudan 
+20. Syria 
+21. Tunisia 
+22. United Arab Emirates  
+23. Yemen 
 
+Um, this highlights how big a task this might be...
 
+After many many hours trying to translate the text in the image using the `Arabic alphabet` and not getting anywhere, I decided to try a different tact.
 
+Let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and enter `Oman` into the search area, zoom out to include as many of the listed countries as possible and enter `amenity=fuel` into the Wizard.
+
+Wow! that is a LOT of `Fuel Stations`.
+
+![Screenshot 2022-12-03 190747](https://user-images.githubusercontent.com/117080369/205494881-cecdb6c0-72e4-4665-b582-50da8094d231.png)
+
+Let's run another <a href="https://overpass-turbo.eu/">overpass turbo</a> query, but this time by entering `shop=car_repair` into the Wizard.
+
+![Screenshot 2022-12-03 190221](https://user-images.githubusercontent.com/117080369/205494901-db2cc996-7c9e-4944-936d-b9221ccbf6c5.png)
+
+This has narrowed the search a little, however we do not really know if we are looking for a `car repair shop` or not, so we could end up wasting hours or even days and not finding our location.
+
+Let's run another <a href="https://overpass-turbo.eu/">overpass turbo</a> query, but this time by entering `amenity=fuel and shop=car_repair` into the Wizard.
+
+![Screenshot 2022-12-03 190856](https://user-images.githubusercontent.com/117080369/205494927-5f2fab2d-1476-44d9-a41a-58dad508c361.png)
+
+Not very many results at all, let's have a look at them in <a href="https://www.google.com/maps/">Google Maps</a> and see if we get lucky.
+
+That is a big fat NO!
+
+At this point I was really struggling to know which direction to head in, So I decided to step away from this contract for a while.
+
+Coming back to this rejuvenated with a couple of new ideas to try out, let's get stuck in.
+
+Something is niggling away at me saying *"the text is important"* - so I decided to use <a href="[Google Translate](https://translate.google.com/)">Google Translate</a> and translate the country names from English to Arabic.
+
+| English | Arabic |
+|---|---|
+| Algeria | الجزائر |
+| Bahrain | البحرين |
+| Chad | تشاد |
+| Comoros | جزر القمر |
+| Djibouti | جيبوتي |
+| Egypt | مصر |
+| Iraq | العراق |
+| Jordan | الأردن |
+| Kuwait | الكويت |
+| Lebanon | لبنان |
+| Libya | ليبيا | 
+| Mauritania | موريتانيا |
+| Morocco | المغرب |
+| Oman | سلطنة عمان |
+| Palestine | فلسطين |
+| Qatar | دولة قطر |
+| Saudi Arabia | المملكة العربية السعودية |
+| Somalia | الصومال |
+| Sudan | السودان |
+| Syria | سوريا |
+| Tunisia | تونس |
+| United Arab Emirates | الإمارات العربية المتحدة |
+| Yemen | اليمن |
+
+Oh, this is interesting...
+
+The translation of `Libya` looks very similar to the text in the our image: 
+
+![Screenshot 2022-12-04 092357](https://user-images.githubusercontent.com/117080369/205495077-467d0df2-dd6d-4630-bdfb-e04c83ba9808.png)
 
 
 
