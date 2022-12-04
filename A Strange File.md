@@ -186,11 +186,136 @@ The translation of `Libya` looks very similar to the text in the our image:
 
 ![Screenshot 2022-12-04 092357](https://user-images.githubusercontent.com/117080369/205495077-467d0df2-dd6d-4630-bdfb-e04c83ba9808.png)
 
+I think we may have just narrowed our search to Libya, Woohoo.
 
+Let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and enter `Libya` into the Search Area, then run the query below.
 
+```
+[out:json]
+[timeout:300];
+// fetch area “Libya” to search in
+{{geocodeArea:Libya}}->.searchArea;
+// gather results
+(
+  // query part for: “amenity=fuel” | Excluding anything starting with "Oil" | Case insensitive search
+  nwr["amenity"="fuel"]["name:en"="Fuel Station"]["operator"!~"Oil*",i](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
 
+In the original query and viewing the Data of `fuel station` I noticed that a large percentage of them were OiLibya, this is the reason I exclude "Oil*" because after researching `OiLibya` their Gas Stations do not use Green forecourt bannering, also the wildcard is used to filter out the various different spellings found in the tags (OiLibya, Oil Libya, OilLibya etc.).
 
+![OiLibya](https://user-images.githubusercontent.com/117080369/205495204-5a4f6b55-5bbd-49c9-bb7e-a640092b6ca0.JPG)
 
+Once the results are processed we can see that we have significantly reduced our search effort.
+
+![Screenshot 2022-12-04 101824](https://user-images.githubusercontent.com/117080369/205495252-f9687c48-023b-40e1-971f-71a7cacce620.png)
+
+Upon referring back to the image supplied we can rule out the location being coastal, so we will focus our search inland to start off, we can always look at the coastal results later if we have no luck.
+
+We need to follow a methodology with our search as to not miss out on the result we are looking for, so let's break this up into <a href="https://en.wikipedia.org/wiki/Districts_of_Libya">Districts of Libya</a>
+* Cyrenaica
+	* Al Butnan
+	* Darnah
+	* Al Jabal al Akhdar
+	* Al Marj
+	* Banghazi (Benghazi)
+	* Al Wahat
+	* Al Kufrah
+* Tripolitania
+	* Surt
+	* Misratah (Misrata)
+	* Marqab
+	* Tarabulus
+	* Al Jafarah (Jafara or Al Jfara)
+	* Az Zawiyah
+	* An Nuqat al Khams
+	* Nalut
+* Fezzan
+	* Al Jufrah
+	* Wadi ash Shati
+	* Sabha
+	* Wadi al Hayat
+	* Murzuq
+
+Once again let's head over to <a href="https://overpass-turbo.eu/">overpass turbo</a> and enter `Libya` into the search area, then run the previous query we used - don't forget to up the `geocodeArea:` in the query!
+
+From the results we can see we have quite a few, so lets output these in CSV form to make it easier to investigate.
+
+Enter the below query to get the results in a CSV format.
+
+```
+[out:csv('amenity',::'lat',::'lon','brand','name','operator';true;',')]
+[timeout:300];
+// fetch area “Libya” to search in
+{{geocodeArea:Al Butnan, Libya}}->.searchArea;
+// gather results
+(
+  // query part for: “amenity=fuel”
+  nwr["amenity"="fuel"]["name:en"="Fuel Station"]["operator"!~"Oil*",i](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+
+Note: Outputting to CSV format in overpass doesn't show the results on the map.
+
+As you see from the results we now have each Gas Station coordinates nicely formatted.
+
+![Screenshot 2022-12-04 104626](https://user-images.githubusercontent.com/117080369/205495296-fd99df39-6243-4cff-917c-6e9be0c527e2.png)
+
+Save the results to a `text file (.CSV)` for referring back to later.
+
+I repeat this process for all the Districts, note the spelling in brackets required for overpass
+
+Once we have all of the District files we can start working our way through them.
+
+Starting at the low hanging fruit (files that contain very few results).
+
+We have a number of options available to us here, we could use <a href="https://www.google.com/maps">Google Maps</a>, <a href="https://earth.google.com/web/">Google Earth</a>, <a href="https://satellites.pro/">Satellites Pro</a> or various other mapping tools.
+
+Paste the coordinates from each result into your preferred map tool and examine the location for a match.
+
+I am going to use <a href="https://www.google.com/maps">Google Maps</a> and activate `Street View` to show the various views available for the location, zoom out to get a better picture of the area. we can also click on `Layers` to view the ariel view, this is useful to matching against the first supplied image.
+
+After a LOT of searching we find this location, it has a Gas Station and a Vehicle Repair shop, it looks very similar to the `00000000.jpg` image.
+
+![Screenshot 2022-12-04 112830](https://user-images.githubusercontent.com/117080369/205495332-472b9aa7-e407-4fee-bfac-eb05c6b82f63.png)
+
+Let's zoom in and take a closer look, this is a match, Boom!
+
+![Screenshot 2022-12-04 113212](https://user-images.githubusercontent.com/117080369/205495360-2717d14c-e547-4301-98b6-720a139dfaf5.png)
+
+We just need to verify our finding now, as we can see there is one `Street View` Photo Sphere, let's have a look...
+
+![Screenshot 2022-12-04 113510](https://user-images.githubusercontent.com/117080369/205495532-5e2c27a2-1429-4498-9ab1-88ad139fbade.png)
+
+Woohoo! eventually we have found it.
+
+We can gather the `Country`, `City` and `Business type` from the Vehicle Repair details in <a href="https://www.google.com/maps">Google Maps</a>.
+
+![Screenshot 2022-12-04 120618](https://user-images.githubusercontent.com/117080369/205495551-ff72b5ed-f3b9-4d4b-9a5a-82c7738f2a30.png)
+
+Heading over to <a href="https://what3words.com/">what3words</a> and switching to `Terrain View`, and moving around a little until we locate a match for the first image we can get our `what3words` required.
+
+![Screenshot 2022-12-04 115457](https://user-images.githubusercontent.com/117080369/205495575-36599bea-f73e-4085-a2b1-e7ae0f97be79.png)
+
+All that is left to find is the `Area Dialcode`, a quick `Google search` reveals this <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_Libya">here</a>.
+
+We already know the `District` as this is the `CSV file` we have just been using.
+
+Let's build up our password:
+* country: libya
+* district: nalut
+* city: dirj
+* areadialcode: 47
+* what-three-words: definitive-doorpost-thickness
+* business-type: car-wash
 
 Extract the `flagfile-a-strange-file.zip` with the password from the information gained above to get your contract card.
 
