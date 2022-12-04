@@ -32,6 +32,77 @@ italy-veneto-verona-045-hot-pasta-sauce-paper-mill
 
 ---
 
+### Methodology:
+The first step is to pull out information from the Mission Briefing that we feel is of importance.
+* Oman authorities
+* There was one file however, that the Oman authorities were not able to convert to text
+
+This doesn't really give us many clues.
+
+If we open this file with a `Text Editor` we can see a lot of `HEX` code, is there anything else interesting in this file?.
+
+The first 6 characters look like it a file signature!
+
+We can confirm this a number of ways, just have a look at <a href="https://en.wikipedia.org/wiki/List_of_file_signatures">List of file signatures - Wikipedia</a> for `FF D8 FF`
+
+![Screenshot 2022-12-04 134936](https://user-images.githubusercontent.com/117080369/205494363-f784d0e0-5f0c-429e-bb6b-53b608a5d80e.png)
+
+This confirms we are dealing with a malformed `JPG`, let's take a closer look
+
+On closer examination we notice that there is some `white space`, this probably means there is another file embedded within the original.
+
+![Screenshot 2022-12-03 175206](https://user-images.githubusercontent.com/117080369/205494384-a1bc9d1f-60af-4c0b-9a36-0f8fb1c1f782.png)
+
+Let's head over to <a href="https://tomeko.net/online_tools/hex_to_file.php?lang=en">Hex to file (binary)</a> & paste the entirety of the text into the `Hex string` box, give the file a name and click `Convert`.
+
+![Screenshot 2022-12-04 135247](https://user-images.githubusercontent.com/117080369/205494530-ef8064a5-59de-488f-be15-6d7864a5c421.png)
+
+Click OK to the message.
+
+![Screenshot 2022-12-04 135516](https://user-images.githubusercontent.com/117080369/205494648-eaa45288-428a-4163-aa39-775bd22c00cb.png)
+
+Woohoo! we now have an image file showing a location.
+
+![strange-file](https://user-images.githubusercontent.com/117080369/205494663-eeddb34e-7236-4bc5-9668-da0ca6f20ad3.jpg)
+
+Let's see if we can get the 2nd file, for this we will head over to <a href="https://www.aperisolve.com">Aperi'Solve</a> 
+
+Select the image from the previous steps and click `SUBMIT`, once it has finished processing the image, scroll down to the `Foremost` section.
+
+![Screenshot 2022-12-03 180839](https://user-images.githubusercontent.com/117080369/205494696-02550b1f-2aba-4813-a62b-178c91d83823.png)
+
+Click `DOWNLOAD FILES`, once the files have downloaded, extract them and browse the extracted `jpg` folder.
+
+You should now have 2 images, `00000000.jpg` & `00000134.jpg` 
+
+Note: 00000000.jpg is just a duplication of the original file.
+
+Let's examine the images for any clues...
+
+What do we know?
+* 00000000.jpg is satellite imagery of an unknown location - not much to use.
+
+![00000000](https://user-images.githubusercontent.com/117080369/205494716-2891a009-fe36-46a5-9f58-e83cb8a06d7e.jpg)
+
+* 00000134.jpg does contain some useful clues
+	* Arabic text written on the wall(s)
+	* Possibly a disused/closed Gas Station
+	* Dry sandy/dusty environment
+	* Small overhead Powerlines - probably a remote town/village
+	* Water on the ground - possibly a water leak
+	* Disused/old car parts
+	* Rudimentary pits/trenches - possibly used for car repairs
+
+![00000134](https://user-images.githubusercontent.com/117080369/205494741-645fe448-ba2e-4e20-afda-a780e0a87762.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
