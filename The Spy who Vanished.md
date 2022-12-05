@@ -53,3 +53,6 @@ Clicking on the `August 31 2022` Snapshot takes us to **Deloris Frozenwood's** a
 ![Screenshot 2022-11-26 114104](https://user-images.githubusercontent.com/117080369/204086908-8e875c77-0239-443b-a3d2-e13722630add.png)
 
 Extract the `flagfile-thespy-who-vanished.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
