@@ -32,3 +32,6 @@ Watching the video clip doesn't give us anything useful, apart from nightmare's 
 Maybe there is something in the metadata of the video file? let's head over to <a href="https://www.metadata2go.com">MetaData2Go</a>, upload the video file and click `Start Analysing File`, once the process completes we can scan through the results, as we can see there is a `comment` - this looks promising, maybe it could be the password, let's chance our hand...
 
 Extract the `flagfile-nightmare-fuel.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
