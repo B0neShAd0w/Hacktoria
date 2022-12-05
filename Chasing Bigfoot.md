@@ -59,3 +59,5 @@ Reading through the entire post seems to match with the information we are looki
 Make a note of the URL to extract the flagfile: `https://www.thecryptocrew.com/2014/06/driver-has-close-sighting-of-bigfoot.html`
 
 Extract the `flagfile-chasing-bigfoot.zip` with the password from the information gained above to get your contract card.
+
+BoΠeShΔdϴw³
