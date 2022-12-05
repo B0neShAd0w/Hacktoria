@@ -129,3 +129,6 @@ j!fqw'eu!itn!vx,cm'qw!re'ir,jl!d
 ```
 
 Extract the `flagfile-klumgongyn-returns.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
