@@ -55,3 +55,6 @@ Let's download it and have a look...
 The file contains some co-ordinates.
 
 Extract the `flagfile-road-to-nowhere.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
