@@ -60,3 +60,6 @@ Let's see where that **Pastebin URL** takes us...
 ![image](https://user-images.githubusercontent.com/117080369/204093359-e40c8d2d-6d33-48ea-82ac-643bde4dc183.png)
 
 Extract the `flagfile-on-the-wire.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
