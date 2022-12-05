@@ -62,5 +62,7 @@ Let's get the coordinates.
 
 ![Screenshot 2022-11-25 101305](https://user-images.githubusercontent.com/117080369/203959320-bb188c42-f8d3-46df-92ed-75e6d1a793cf.png)
 
-
 Extract the `flagfile-intergalactic-warfare.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
