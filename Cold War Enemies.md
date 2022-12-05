@@ -49,3 +49,6 @@ Hovering over `Hmeimim` tells us the district it is in. We now have everything r
 * Air Base Name: khmeimim
 
 Extract the `flagfile-cold-war-enemies.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
