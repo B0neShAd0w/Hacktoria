@@ -92,3 +92,6 @@ With the information gathered above, let's compose the password.
 `Monaco-98000-Boulevard-de-Belgique-32`
 
 Extract the `flagfile-the-listeners.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
