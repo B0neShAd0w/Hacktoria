@@ -62,3 +62,6 @@ Okay let's build out a word-list by combining 2 of the words first, if we don't 
 Doesn't take long for us to find our answer - `Narwhal2018`
 
 Extract the `flagfile-lost-at-sea.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
