@@ -84,3 +84,6 @@ Switching back to overpass turbo and zooming in, we are able to gather the requi
 ![Screenshot 2022-11-29 105431](https://user-images.githubusercontent.com/117080369/204511386-d88a4e97-6c0e-469a-9d96-c9db6ed77ee4.png)
 
 Extract the `flagfile-far-away-outpost.zip` with the password from the information gained above to get your contract card.
+
+
+BoΠeShΔdϴw³
