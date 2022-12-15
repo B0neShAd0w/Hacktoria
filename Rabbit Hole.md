@@ -367,7 +367,9 @@ After a very short time Metasploit gets a hit!
 
 Make an assumption about the password and just try each combination manually until you maybe get lucky.
 
-Now we have gained the credentials let's SSH to the box.
+Now we have gained the credentials let's SSH to the box 
+
+Make a note of the username as it is needed for the final password.
 
 ```bash
 ssh zayed@10.0.2.5
@@ -510,8 +512,7 @@ Let's drop our Street View person in and have a look around.
 
 ![Screenshot 2022-12-15 174008](https://user-images.githubusercontent.com/117080369/207930163-e79ff0a4-3d38-4f37-883e-95649396c9c7.png)
 
-
-
+Make a note of the Country and Street Name as it is needed for the final password.
 
 Extract the `flagfile-rabbit-hole.zip` with the password from the information gained above to get your contract card.
 
