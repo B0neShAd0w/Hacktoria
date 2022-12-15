@@ -279,16 +279,17 @@ test
 root
 ```
 
-
-
+Now let's get stuck in and get access to this system. 👻
 
 We have a number of methods available to us to gain access to this VM.
 
-Method 1:
+**Method 1:**
 
-Method 2:
 
-Method 3:
+**Method 2:**
+
+
+**Method 3:**
 
 
 
