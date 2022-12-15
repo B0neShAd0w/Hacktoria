@@ -492,7 +492,15 @@ We don't get that many hit's
 
 Above results didn't help with locating the place in the image, however it has narrowed down the search to Mexico but given `Mariscos and Mas` translates from Spanish as Seafood and More, as they speak Spanish in Mexico I am confident this is the best place to start our search.
 
+The next thing to do is look at Marina's/Harbours around Mexico.
 
+Let's head over to <a href="https://overpass-turbo.eu/">Overpass Turbo</a> and enter Mexico into the search area.
+
+Enter `leisure=marina in Mexico` into the wizard and run the query.
+
+![Screenshot 2022-12-15 172602](https://user-images.githubusercontent.com/117080369/207927465-ff5ceea7-ffb9-49ea-82c7-1182e3ef139c.png)
+
+It is now just a case of looking each of them up on Google Earth for a match.
 
 
 
