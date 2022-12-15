@@ -212,7 +212,7 @@ Let's decode with `Base32` and see what we get.
 
 ![Screenshot 2022-12-15 133240](https://user-images.githubusercontent.com/117080369/207872093-3167c894-6deb-4a3c-b5a7-968bdb8a2853.png)
 
-look's like we have a location for a zip file: https://hacktoria.com/wp-content/contracts/items/rabbithole/jgdwvmslf/tools-step-07-fgnksqjkq.zip
+Look's like we have a location for a zip file: https://hacktoria.com/wp-content/contracts/items/rabbithole/jgdwvmslf/tools-step-07-fgnksqjkq.zip
 
 ### Step 07:
 
@@ -446,10 +446,27 @@ If you are not familiar with decoding Klumgon check out my write-up for <a href=
 >THEIR SHIELDS AND FLED ACROSS
 >THE BLUE SEA-FIELDS
 
+Although decoding the text doesn't give us anything useful it is an intersting read.
 
+Let's head over to <a href="https://www.aperisolve.com/">Aperi'Solve</a> and analze the image.
 
+We can see that there is some encoded text under the Strings section.
 
+![Screenshot 2022-12-15 162216](https://user-images.githubusercontent.com/117080369/207913843-7baf2185-898f-4e87-9272-88ea8c62799a.png)
 
+Let's head over to <a href="https://www.dcode.fr/cipher-identifier">dCode cipher identifier</a> and paste in the text and hit the Analyze button.
+
+Results show a high probability of being a `Base32` cipher 
+
+![Screenshot 2022-12-15 162451](https://user-images.githubusercontent.com/117080369/207914418-e0f62a9b-896a-4b9d-98bd-4710bbb5ffd4.png)
+
+Let's decode with `Base32` and see what we get.
+
+It seems we have a location for our last step. 
+
+![Screenshot 2022-12-15 162905](https://user-images.githubusercontent.com/117080369/207915529-480189b9-39de-40e0-a7a1-2d9e2b704b73.png)
+
+Let's go ahead and download the file: https://hacktoria.com/wp-content/contracts/items/rabbithole/dhglwerm/gj234853jsef435.zip
 
 ### Step 10:
 
