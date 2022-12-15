@@ -176,10 +176,19 @@ The extracted steghide file contains a text file with a cryptic message:
 
 ### Step 06:
 
+From the information gained in the previous step it seems we need to go on the hunt for an former member of the team.
 
+Lead's head over to the <a href="https://archive.org/">Wayback Machine</a> and run a search for `hactoria.com`
 
+![Screenshot 2022-12-15 125936](https://user-images.githubusercontent.com/117080369/207865271-6f64e495-d8a3-4c33-a472-75f715a4d397.png)
 
+Select the `Snapshot` related to `1st FEB 2022`
 
+![Screenshot 2022-12-15 130217](https://user-images.githubusercontent.com/117080369/207865834-59898b35-8a5d-48d0-98b8-a64b1d12a0e2.png)
+
+Looking through the archived page we find refernece to `Julia Sharpe - HUMINT`
+
+![Screenshot 2022-12-15 130506](https://user-images.githubusercontent.com/117080369/207866460-8c66e0dc-a8ba-40f6-84c2-e51565d69806.png)
 
 ### Step 07:
 
