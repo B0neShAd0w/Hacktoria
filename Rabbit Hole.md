@@ -30,7 +30,7 @@ galeocerdo-cuvier-dodgy_malaka08-logmein-germany-hamburger-d-strasse
 
 ---
 
-#### *⚠️ Due to the length of this writeup I am NOT including the dead ends and rabbit holes I encountered on my way to complete this contract, only the steps required to solve this incredibly fun and difficult contract.*
+#### ⚠️ *Due to the length of this writeup I am NOT including the dead ends and rabbit holes I encountered on my way to complete this contract, only the steps required to solve this incredibly fun and difficult contract.*
 
 ##### *Note: Do not overlook the obvious - avoid Rabbit Holes...* 🐰
 
@@ -232,11 +232,63 @@ Let's go and check it out: https://drive.google.com/drive/folders/1NhNYUalh1knes
 
 ### Step 08:
 
-:warning *Configuring Virtualbox is out of scope for this write-up.*
+⚠️ *Configuring Virtualbox is out of scope for this write-up.*
 
 Let's go ahead and download the `OVA` file and `password-hint` files.
 
 Once the files have downloaded, import the OVA into Virtualbox, depending how you have your Virtualbox configured you may need to adjust the virtual machine network settings.
+
+Fireup the VM, we can see that we are presented with a login screen but do not have the credentials.
+
+![Screenshot 2022-12-15 140057](https://user-images.githubusercontent.com/117080369/207880121-8d085c92-2b1f-4c36-8495-9b0dc3aa1fbe.png)
+
+Remember there was addintional file named `password-hint`, let's see what that gives us: 
+>The one I always use ending in 123 and starting with a capital P..
+
+Interesting, assumptions on what this could be can be made, however given I do not know what `the one I always use` is, we will generate our own password list.
+
+To generate a password list I am going to be using `Parrot OS` but any Linux (or MacOS) will do, although it can be done in Windows with PowerShell etc. it isn't as user friendly a process.
+
+We will need to install the `rockyou.txt` password file for this, so if you don't have it go ahaead and run `sudo apt update && sudo apt install wordlists`
+
+Next you need to extract the `rockyou.txt` file, run `sudo gzip -d /usr/share/wordlists/rockyou.txt.gz`
+
+With that done we can now generate our password file.
+
+Run `cat /usr/share/wordlists/rockyou.txt | grep -e '^P' | grep -e '[1][2][3]$' >> passwords.txt`
+
+Basically what the above command is doing is outputting all enteries in the rockyou.txt file that start with an uppercase `P` and end in `123` to a new file called `passwords.txt`
+
+Next we need a user name list, a quick Google search for `top 10 most common usernames linux` leads us <a href="https://yurisk.info/2010/06/04/top-10-usernames-used-in-ssh-brute-force/">here</a>
+
+Let's create a `user.txt` file with the below usernames.
+
+As we can see the hostname on the login screen we will add that, as it is very common in CTF's to use the hostname as the username.
+
+```
+zayed
+mysql
+info
+postgres
+guest	
+nagios
+user
+oracle
+admin
+test
+root
+```
+
+
+
+
+We have a number of methods available to us to gain access to this VM.
+
+Method 1:
+
+Method 2:
+
+Method 3:
 
 
 
