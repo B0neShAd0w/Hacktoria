@@ -32,7 +32,7 @@ galeocerdo-cuvier-dodgy_malaka08-logmein-germany-hamburger-d-strasse
 
 #### ⚠️ *Due to the length of this writeup I am NOT including the dead ends and rabbit holes I encountered on my way to complete this contract, only the steps required to solve this incredibly fun and difficult contract.*
 
-##### *Note: Do not overlook the obvious - avoid Rabbit Holes...* 🐰
+##### *Note: Do not overthink ot overlook the obvious - avoid Rabbit Holes...* 🐰
 
 
 ### Step 01:
@@ -40,14 +40,14 @@ We are supplied an image of an archived screenshot with very little else to go o
 
 ![step-01-rabbit-hole](https://user-images.githubusercontent.com/117080369/207823141-1872b9ab-0e0d-48cf-b89b-68e31c4f5740.jpg)
 
-Looking through the image very carefully we can see some text at the very bottom of the page that points us to a Step 02 file.
+Looking through the image very carefully we can see some text at the very bottom of the page that points us to a zip file.
 
 ![Screenshot 2022-12-15 094259](https://user-images.githubusercontent.com/117080369/207826386-8d42d824-f0fc-4e28-b080-3da2deff198d.png)
 
 Let's go ahead and download the file: hacktoria.com/wp-content/contracts/items/rabbithole/dmehuf/step2.zip
 
 ### Step 02:
-After extracting the the file we are presented with a files contains 3 pieces on encoded/encrypted text.
+After extracting the the file we are presented with a file contains 3 pieces on encoded/encrypted text.
 
 >```(9:=6 :? 2 D6?D6 6249 >@C?:?8 >2C<D E96 368:??:?8 @7 Q2 ?6H 52JQ J6E[ 2D E9:D =2DE J62C 92D D@F?565 E96 562E9 <?6== @7 2? 6C2 5:D2DEC@FD E@ E96 H6=72C6 2?5 92AA:?6DD @7 >2?<:?5 :? >2?J H2JD[ D@ E96 }6H *62C ;FDE 52H?:?8 AC@>:D6D 2? 6A@49 @7 F?A2C2==6=65 6?=:89E6?>6?E 2?5 @AA@CEF?:EJ 7@C >2?<:?5 E@ C64@FA 9:D =@DD6D DF776C65 E9C@F89 :8?@C2?46[ @C H:==7F= 2?5 56=:36C2E6 DF3DE:EFE:@? @7 >2?VD 32D6 56D:C6D 2?5 56DECF4E:G6 H:== 7@C E96 s:G:?6 (:== 2?5 !6C764E !=2? @7 v@5[ 9:D rC62E@CP (62C:=J 5C:G6]8@@8=6]4@> 92G6 E96 52JD 5C28865 3J[ H9:=6 A=@ED 2?5 4@F?E6C A=@ED 4@>A=:42E65 2?5 >F=E:A=:65 >2?VD F?D@=G23=6 AC@3=6>D] (6 92G6 H2E4965 H:E9 2 9@CC@C :>A@DD:3=6 E@ C6AC6DD[ >2?VD :?67764EF2= 2EE6>AED E@ 6IEC:42E6 9:>D6=7 7C@> E96 EC62496C@FD BF:4<D2?5D @7 5646AE:G6 Q28C66>6?EDQ 2446AE65 :? 2AA2C6?E 8@@5 72:E9[ @?=J E@ 36 CFE9=6DD=J EC2>A=65 F?56C 7@@E H96? E96:C 6G:= AFCA@D6 92D 366? 249:6G65]```
 
@@ -115,17 +115,17 @@ Let's go and see what goodies we get.
 
 ### Step 03:
 
-Ah, we need a password for the zip file, at least the picture of a Shark 🦈 gives us a clue.
+Ah, we need a password for the zip file, at least the picture of the Shark 🦈 gives us a clue.
 
-After a quick Google Lens search tells us this is a `Reef Shark` of some sort. 
+After a quick Google Image search it tells us this is a `Reef Shark` of some sort. 
 
 ![Screenshot 2022-12-15 104033](https://user-images.githubusercontent.com/117080369/207838682-1088c2ae-ef55-42ec-a6f0-08088b3afc23.png)
 
-From the image I can't quite make out the exact make of the shark 🦈
+From the image I can't quite make out the exact model of the shark 🦈
 
-A quick Google Search for "rofficial names for sharks" leads us to <a href="https://www.floridamuseum.ufl.edu/discover-fish/sharks/species-profiles/">Shark species profiles identifier</a>
+A quick Google Search for "official names for sharks" leads us to <a href="https://www.floridamuseum.ufl.edu/discover-fish/sharks/species-profiles/">Shark species profiles identifier</a>
 
-Entering `reef shark` into the search, gives us 4 possibilities.
+Entering `reef shark` into the search area, gives us 4 possibilities.
 
 ![Screenshot 2022-12-15 105037](https://user-images.githubusercontent.com/117080369/207840828-fb8af880-2b11-4196-bdd4-d50b42198fa8.png)
 
@@ -133,7 +133,7 @@ After trying the options we find find our password: `carcharhinus-perezi` - make
 
 ### Step 04:
 
-Let's load our capture file into Wireshark and start analysing it for clues.
+Let's load our capture file into `Wireshark` and start analysing it for clues.
 
 First thing to do is sort the `Protocol` column by name, this allows us to see if there are any nuggets we can find quickly.
 
@@ -141,14 +141,13 @@ Scanning through the output we see a lot of interesting looking `FTP-DATA` enter
 
 ![Screenshot 2022-12-15 123244](https://user-images.githubusercontent.com/117080369/207860358-96e041ea-3ca9-4077-b4c4-962faddde4af.png)
 
-Right click and select `Follow > TCP Stream` 
+Right click one of them and select `Follow > TCP Stream` 
 
 ![Screenshot 2022-12-15 123748](https://user-images.githubusercontent.com/117080369/207861107-f4211c82-8250-45d9-9f22-6a74b5715dd3.png)
 
 Under `Show data as` select `RAW`
 
 ![Screenshot 2022-12-15 123845](https://user-images.githubusercontent.com/117080369/207861334-1a02622d-a3df-4e20-a84f-f98f1f8a6337.png)
-
 
 Click `Save as...`
 
@@ -158,7 +157,7 @@ Give the file a name (dont forget the .zip extension) and save it.
 
 ### Step 05:
 
-After extracting the file from the previous step we are presented with a picture of a location.
+After extracting the file from the previous step we are presented with a image of a location.
 
 ![image-step-05-fkgvdgfdmw](https://user-images.githubusercontent.com/117080369/207862328-ef0bbfa8-d8e0-449d-a1f2-a585ee4daa2e.jpg)
 
@@ -168,9 +167,9 @@ Bingo! we can see there is a hidden file embedded.
 
 ![Screenshot 2022-12-15 124905](https://user-images.githubusercontent.com/117080369/207863327-c2061d58-5ef1-4314-9ece-c986994f1fad.png)
 
-Let's `DOWNLOAD FILES` and have a closer look.
+Let's click `DOWNLOAD FILES` and have a closer look.
 
-The extracted steghide file contains a text file with a cryptic message:
+The extracted `steghide` file contains a text file with a cryptic message:
 
 >```We hear the former head of Hackoria / Tiberian Order's HUMINT team likes to post on social media.```
 
@@ -186,17 +185,17 @@ Select the `Snapshot` related to `1st FEB 2022`
 
 ![Screenshot 2022-12-15 130217](https://user-images.githubusercontent.com/117080369/207865834-59898b35-8a5d-48d0-98b8-a64b1d12a0e2.png)
 
-Looking through the archived page we find refernece to `Julia Sharpe - team leader for the HUMINT teams`
+Looking through the archived page we find refernece to a `Julia Sharpe - team leader for the HUMINT teams`
 
 ![Screenshot 2022-12-15 130506](https://user-images.githubusercontent.com/117080369/207866460-8c66e0dc-a8ba-40f6-84c2-e51565d69806.png)
 
 Let's head over to <a href="https://twitter.com/">Twitter</a> and run a people search for `Julia Sharpe`
 
-The one that immediately jumps out is `julia_sharpe007` becuase of the encoded text in their bio and 007 on appended to their handle - make a note of this as it is needed for the final password.
+The one that immediately jumps out is `julia_sharpe007` becuase of the encoded text in their bio and `007` appended to their handle - make a note of this as it is needed for the final password.
 
 ![Screenshot 2022-12-15 131613](https://user-images.githubusercontent.com/117080369/207868936-d1179ec8-c807-4722-ab1a-93e4112b19ea.png)
 
-Taking a closer look at Julia's account confirms this is the account we are looking for due to the mention of `Special Agent K` 🐰 - The rabbit is a dead give away.
+Taking a closer look at Julia's account confirms this is the account we are looking for due to the mention of `Special Agent K 🐰` - The rabbit is a dead give away (nice touch!).
 
 Let's grab the text:
 
@@ -216,7 +215,7 @@ Look's like we have a location for a zip file: https://hacktoria.com/wp-content/
 
 ### Step 07:
 
-Upon xtracting the zip file from the previous step we are presented with a bunch of python scripts. 
+Upon extracting the zip file from the previous step we are presented with a bunch of `Python` scripts. 
 
 ![Screenshot 2022-12-15 133916](https://user-images.githubusercontent.com/117080369/207873320-ce48dee9-cd86-457d-8459-7d46b5658541.png)
 
@@ -234,7 +233,7 @@ Let's go and check it out: https://drive.google.com/drive/folders/1NhNYUalh1knes
 
 ⚠️ *Configuring Virtualbox is out of scope for this write-up.*
 
-Let's go ahead and download the `OVA` file and `password-hint` files.
+Let's go ahead and download the `OVA` and `password-hint` files.
 
 Once the files have downloaded, import the OVA into Virtualbox, depending how you have your Virtualbox configured you may need to adjust the virtual machine network settings.
 
@@ -242,28 +241,29 @@ Fireup the VM, we can see that we are presented with a login screen but do not h
 
 ![Screenshot 2022-12-15 140057](https://user-images.githubusercontent.com/117080369/207880121-8d085c92-2b1f-4c36-8495-9b0dc3aa1fbe.png)
 
-Remember there was addintional file named `password-hint`, let's see what that gives us: 
+Remember there was an addintional file named `password-hint`, let's see what that gives us: 
+
 >The one I always use ending in 123 and starting with a capital P..
 
-Interesting, assumptions on what this could be can be made, however given I do not know what `the one I always use` is, we will generate our own password list.
+Assumptions on what this could be can be made, however given I do not know what `the one I always use` is, we will generate our own password list.
 
-To generate a password list I am going to be using `Parrot OS` but any Linux (or MacOS) will do, although it can be done in Windows with PowerShell etc. it isn't as user friendly a process.
+To generate a password list I am going to be using `Parrot OS` but any Linux distro (or MacOS) will do, although it can be done in Windows with PowerShell etc. it just isn't as user friendly.
 
 We will need to install the `rockyou.txt` password file for this, so if you don't have it go ahaead and run `sudo apt update && sudo apt install wordlists`
 
 Next you need to extract the `rockyou.txt` file, run `sudo gzip -d /usr/share/wordlists/rockyou.txt.gz`
 
-With that done we can now generate our `password.txt` file.
+With that done we can now generate our `passwords.txt` file.
 
 Run `cat /usr/share/wordlists/rockyou.txt | grep -e '^P' | grep -e '[1][2][3]$' >> passwords.txt`
 
-Basically what the above command is doing is outputting all enteries in the rockyou.txt file that start with an uppercase `P` and end in `123` to a new file called `passwords.txt`
+Basically what the above command is doing is outputting all enteries from the rockyou.txt file that start with an uppercase `P` and end in `123` to a new file called `passwords.txt`
 
 Next we need a `users.txt` list, a quick Google search for `top 10 most common usernames linux` leads us <a href="https://yurisk.info/2010/06/04/top-10-usernames-used-in-ssh-brute-force/">here</a>
 
-Let's create a `users.txt` file with the below usernames.
-
 As we can see the hostname on the login screen we will add that, as it is very common in CTF's to use the hostname as the username.
+
+Let's create a `users.txt` file with the below usernames.
 
 ```
 zayed
@@ -296,12 +296,12 @@ We now have the IP address of our target system.
 
 ![Screenshot 2022-12-15 150938](https://user-images.githubusercontent.com/117080369/207896234-f0621480-79da-4283-90c0-f67c74510a83.png)
 
-Next we will run `Nmap` to see if there are any open ports we can abuse.
+Next we run `Nmap` to see if there are any open ports we can abuse.
 
 ```bash
 nmap -sC -sV 10.0.2.5
 ```
-Our `Nmap` scan confirms SSH is open - although there is no guarentee it is configured.
+Our `Nmap` scan confirms SSH is open - although there is no guarantee it is configured.
 
 ![Screenshot 2022-12-15 151346](https://user-images.githubusercontent.com/117080369/207897284-b969fb20-c749-4f74-9af7-d153b9d465fa.png)
 
@@ -310,7 +310,6 @@ Let's see if we can bruteforce our way in via SSH.
 ```bash
 hydra -F -L ~/.users.txt -P ~/passwords.txt -vV 10.0.2.5 ssh -t 4
 ```
-
 After a very short time Hydra gets a hit!
 
 ![Screenshot 2022-12-15 151908](https://user-images.githubusercontent.com/117080369/207898427-712cecb0-9c78-453e-9787-f13060811087.png)
@@ -367,16 +366,17 @@ After a very short time Metasploit gets a hit!
 
 Make an assumption about the password and just try each combination manually until you maybe get lucky.
 
-Now we have gained the credentials let's SSH to the box 
+Now we have gained the credentials let's SSH onto the box.
 
 Make a note of the username as it is needed for the final password.
 
 ```bash
 ssh zayed@10.0.2.5
 ```
-Now we need to have a snoop around for a nugget of information.
 
-Let's have a poke around the user's home directory showing hidden files etc.
+Now we need to have a snoop around for any nuggets of information.
+
+Let's have a poke around the user's home directory, showing hidden files etc.
 
 ```bash
 ls -lah
@@ -386,7 +386,7 @@ The last file that was updated is `.bash_history` - for anyone that does CTF's a
 
 ![Screenshot 2022-12-15 155221](https://user-images.githubusercontent.com/117080369/207906573-653674e3-478f-41a9-b590-c89481ced5ce.png)
 
-Let's see what the user have been up to - note: the command is not misspelt, `tac` is an alias for `cat`, sometimes in CTF's `cat` command is blocked.
+Let's see what the user have been up to - note: the command is not misspelt, `tac` is an alias for `cat`, sometimes in CTF's the `cat` command has been blocked.
 
 ```bash
 tac .bash_history
@@ -412,7 +412,7 @@ Let's go ahead and download the zip file: https://hacktoria.com/wp-content/contr
 
 ### Step 09:
 
-After extracting the file from the previous step we are presented with a image of the ancient Klumgon language and a file with a name.
+After extracting the file from the previous step we are presented with a image of the ancient Klumgon language and a file containing a name.
 
 ![step-09-image-457395345345](https://user-images.githubusercontent.com/117080369/207910181-4f65d902-8a67-4494-a91f-f69c44541b61.jpg)
 
@@ -448,11 +448,11 @@ If you are not familiar with decoding Klumgon check out my write-up for <a href=
 >THEIR SHIELDS AND FLED ACROSS
 >THE BLUE SEA-FIELDS
 
-Although decoding the text doesn't give us anything useful it is an intersting read.
+Although decoding the text doesn't give us anything useful it is an interesting read.
 
 Let's head over to <a href="https://www.aperisolve.com/">Aperi'Solve</a> and analze the image.
 
-We can see that there is some encoded text under the Strings section.
+We can see that there is some encoded text under the `Strings` section.
 
 ![Screenshot 2022-12-15 162216](https://user-images.githubusercontent.com/117080369/207913843-7baf2185-898f-4e87-9272-88ea8c62799a.png)
 
@@ -472,19 +472,19 @@ Let's go ahead and download the file: https://hacktoria.com/wp-content/contracts
 
 ### Step 10:
 
-Extracting the zip file from the previous step with the name in the `name` file.
+Extracting the zip file from the previous step with the name from the `name` file.
 
-We are presented with an image of a location, let's identify any data points that can help us geolocate it.
+We are presented with an image of a location, let's identify any data points that can help us geolocate this.
 
-We can see a building with a name on it `Mariscos E Mas`, boats that look grounded and interesting pavement/road.
+We can see a building with a name on it `Mariscos & Mas`, boats that look grounded and a interesting pavement/road style.
 
 ![image-final-step-](https://user-images.githubusercontent.com/117080369/207917444-35818942-efef-4089-94da-8eec9488b19a.jpg)
 
 Let's head over to Google Maps and zoom out as far as possible.
 
-Enter `"mariscos e mas"` into the search. 
+Enter `"mariscos & mas"` into the search. 
 
-Google Maps tries to search `mariscos e mas` instead, so make sure to select `mariscos e mas`
+Google Maps tries to search `mariscos e mas` instead, so make sure to select `mariscos & mas`
 
 ![Screenshot 2022-12-15 170130](https://user-images.githubusercontent.com/117080369/207922516-13871715-91f3-49cd-8a23-64221bd82fbb.png)
 
@@ -492,7 +492,7 @@ We don't get that many hit's
 
 ![Screenshot 2022-12-15 165741](https://user-images.githubusercontent.com/117080369/207921612-a9ef446c-b4eb-43f6-ba2a-8c1b151d504d.png)
 
-Above results didn't help with locating the place in the image, however it has narrowed down the search to Mexico but given `Mariscos and Mas` translates from Spanish as Seafood and More, as they speak Spanish in Mexico I am confident this is the best place to start our search.
+Above results didn't help with locating the place in the image, however it has narrowed down the search to Mexico, but given `Mariscos and Mas` translates from Spanish as Seafood and More, and that they speak Spanish in Mexico I am confident this is the best place to start our search.
 
 The next thing to do is look at Marina's/Harbours around Mexico.
 
@@ -502,9 +502,9 @@ Enter `leisure=marina in Mexico` into the wizard and run the query.
 
 ![Screenshot 2022-12-15 172602](https://user-images.githubusercontent.com/117080369/207927465-ff5ceea7-ffb9-49ea-82c7-1182e3ef139c.png)
 
-It is now just a case of grabbing the coordinates from Overpass Turbo of each location and looking them up on Google Earth with Street View active for a match.
+It is now just a case of grabbing the coordinates from Overpass Turbo of each location and looking them up on Google Earth with Street View active for anything that looks like a match.
 
-Eventually a match is found.
+Eventually a potential match is found.
 
 ![Screenshot 2022-12-15 173613](https://user-images.githubusercontent.com/117080369/207929852-8101cf4f-bbe6-42c3-b08f-ac3273ccd449.png)
 
@@ -512,7 +512,7 @@ Let's drop our Street View person in and have a look around.
 
 ![Screenshot 2022-12-15 174008](https://user-images.githubusercontent.com/117080369/207930163-e79ff0a4-3d38-4f37-883e-95649396c9c7.png)
 
-Make a note of the Country and Street Name as it is needed for the final password.
+Make a note of the `Country` and `Street Name` as it is needed for the final password.
 
 Extract the `flagfile-rabbit-hole.zip` with the password from the information gained above to get your contract card.
 
