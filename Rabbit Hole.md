@@ -186,12 +186,49 @@ Select the `Snapshot` related to `1st FEB 2022`
 
 ![Screenshot 2022-12-15 130217](https://user-images.githubusercontent.com/117080369/207865834-59898b35-8a5d-48d0-98b8-a64b1d12a0e2.png)
 
-Looking through the archived page we find refernece to `Julia Sharpe - HUMINT`
+Looking through the archived page we find refernece to `Julia Sharpe - team leader for the HUMINT teams`
 
 ![Screenshot 2022-12-15 130506](https://user-images.githubusercontent.com/117080369/207866460-8c66e0dc-a8ba-40f6-84c2-e51565d69806.png)
 
+Let's head over to <a href="https://twitter.com/">Twitter</a> and run a people search for `Julia Sharpe`
+
+The one that immediately jumps out is `julia_sharpe007` becuase of the encoded text in their bio and 007 on appended to their handle - make a note of this as it is needed for the final password.
+
+![Screenshot 2022-12-15 131613](https://user-images.githubusercontent.com/117080369/207868936-d1179ec8-c807-4722-ab1a-93e4112b19ea.png)
+
+Taking a closer look at Julia's account confirms this is the account we are looking for due to the mention of `Special Agent K` 🐰 - The rabbit is a dead give away.
+
+Let's grab the text:
+
+>```NB2HI4DTHIXS62DBMNVXI33SNFQS4Y3PNUXXO4BNMNXW45DFNZ2C6Y3PNZ2HEYLDORZS62LUMVWXGL3SMFRGE2LUNBXWYZJPNJTWI53WNVZWYZRPORXW63DTFVZXIZLQFUYDOLLGM5XGW43RNJVXCLT2NFYA====```
+
+Let's head over to <a href="https://www.dcode.fr/cipher-identifier">dCode cipher identifier</a> and paste in the text and hit the Analyze button.
+
+Results show a high probability of being a `Base32` coding
+
+![Screenshot 2022-12-15 133030](https://user-images.githubusercontent.com/117080369/207871614-13966c85-9c9d-4019-b292-6e42b427e215.png)
+
+Let's decode with `Base32` and see what we get.
+
+![Screenshot 2022-12-15 133240](https://user-images.githubusercontent.com/117080369/207872093-3167c894-6deb-4a3c-b5a7-968bdb8a2853.png)
+
+look's like we have a location for a zip file: https://hacktoria.com/wp-content/contracts/items/rabbithole/jgdwvmslf/tools-step-07-fgnksqjkq.zip
+
 ### Step 07:
 
+Upon xtracting the zip file from the previous step we are presented with a bunch of python scripts. 
+
+![Screenshot 2022-12-15 133916](https://user-images.githubusercontent.com/117080369/207873320-ce48dee9-cd86-457d-8459-7d46b5658541.png)
+
+Let's go ahead open each of them in a text editor and read through the code for any clues.
+
+Boom! We find an interesting entry in the `reverseShell.py` script, look's like another file location:.
+
+![Screenshot 2022-12-15 134113](https://user-images.githubusercontent.com/117080369/207873810-86c0549d-8c4d-46e9-a475-4d7f50ebb3e1.png)
+
+Let's go and check it out: https://drive.google.com/drive/folders/1NhNYUalh1knesoJyD4EV5ikfHscYIKkQ
+
+![Screenshot 2022-12-15 134454](https://user-images.githubusercontent.com/117080369/207874589-8796a7f8-0a9b-4ed2-add9-0d9fd4f581fd.png)
 
 ### Step 08:
 
