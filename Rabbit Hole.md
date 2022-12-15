@@ -500,9 +500,15 @@ Enter `leisure=marina in Mexico` into the wizard and run the query.
 
 ![Screenshot 2022-12-15 172602](https://user-images.githubusercontent.com/117080369/207927465-ff5ceea7-ffb9-49ea-82c7-1182e3ef139c.png)
 
-It is now just a case of looking each of them up on Google Earth for a match.
+It is now just a case of grabbing the coordinates from Overpass Turbo of each location and looking them up on Google Earth with Street View active for a match.
 
+Eventually a match is found.
 
+![Screenshot 2022-12-15 173613](https://user-images.githubusercontent.com/117080369/207929852-8101cf4f-bbe6-42c3-b08f-ac3273ccd449.png)
+
+Let's drop our Street View person in and have a look around.
+
+![Screenshot 2022-12-15 174008](https://user-images.githubusercontent.com/117080369/207930163-e79ff0a4-3d38-4f37-883e-95649396c9c7.png)
 
 
 
