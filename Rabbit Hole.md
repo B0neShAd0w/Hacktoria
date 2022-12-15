@@ -232,6 +232,13 @@ Let's go and check it out: https://drive.google.com/drive/folders/1NhNYUalh1knes
 
 ### Step 08:
 
+:warning *Configuring Virtualbox is out of scope for this write-up.*
+
+Let's go ahead and download the `OVA` file and `password-hint` files.
+
+Once the files have downloaded, import the OVA into Virtualbox, depending how you have your Virtualbox configured you may need to adjust the virtual machine network settings.
+
+
 
 ### Step 09:
 
