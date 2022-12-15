@@ -470,7 +470,31 @@ Let's go ahead and download the file: https://hacktoria.com/wp-content/contracts
 
 ### Step 10:
 
-After extracting the file from the previous step we are presented with a picture of a location.
+Extracting the zip file from the previous step with the name in the `name` file.
+
+We are presented with an image of a location, let's identify any data points that can help us geolocate it.
+
+We can see a building with a name on it `Mariscos E Mas`, boats that look grounded and interesting pavement/road.
+
+![image-final-step-](https://user-images.githubusercontent.com/117080369/207917444-35818942-efef-4089-94da-8eec9488b19a.jpg)
+
+Let's head over to Google Maps and zoom out as far as possible.
+
+Enter `"mariscos e mas"` into the search. 
+
+Google Maps tries to search `mariscos e mas` instead, so make sure to select `mariscos e mas`
+
+![Screenshot 2022-12-15 170130](https://user-images.githubusercontent.com/117080369/207922516-13871715-91f3-49cd-8a23-64221bd82fbb.png)
+
+We don't get that many hit's
+
+![Screenshot 2022-12-15 165741](https://user-images.githubusercontent.com/117080369/207921612-a9ef446c-b4eb-43f6-ba2a-8c1b151d504d.png)
+
+Above results didn't help with locating the place in the image, however it has narrowed down the search to Mexico but given `Mariscos and Mas` translates from Spanish as Seafood and More, as they speak Spanish in Mexico I am confident this is the best place to start our search.
+
+
+
+
 
 
 
