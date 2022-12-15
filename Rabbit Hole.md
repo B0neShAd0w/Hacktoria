@@ -129,19 +129,56 @@ Entering `reef shark` into the search, gives us 4 possibilities.
 
 ![Screenshot 2022-12-15 105037](https://user-images.githubusercontent.com/117080369/207840828-fb8af880-2b11-4196-bdd4-d50b42198fa8.png)
 
-
-
-
-
-
+After trying the options we find find our password: `carcharhinus-perezi` - make a note of this as it is needed for the final password.
 
 ### Step 04:
 
+Let's load our capture file into Wireshark and start analysing it for clues.
+
+First thing to do is sort the `Protocol` column by name, this allows us to see if there are any nuggets we can find quickly.
+
+Scanning through the output we see a lot of interesting looking `FTP-DATA` enteries.
+
+![Screenshot 2022-12-15 123244](https://user-images.githubusercontent.com/117080369/207860358-96e041ea-3ca9-4077-b4c4-962faddde4af.png)
+
+Right click and select `Follow > TCP Stream` 
+
+![Screenshot 2022-12-15 123748](https://user-images.githubusercontent.com/117080369/207861107-f4211c82-8250-45d9-9f22-6a74b5715dd3.png)
+
+Under `Show data as` select `RAW`
+
+![Screenshot 2022-12-15 123845](https://user-images.githubusercontent.com/117080369/207861334-1a02622d-a3df-4e20-a84f-f98f1f8a6337.png)
+
+
+Click `Save as...`
+
+![Screenshot 2022-12-15 123845](https://user-images.githubusercontent.com/117080369/207861626-f9f08853-bb2d-4e6a-bc03-b143b917153f.png)
+
+Give the file a name (dont forget the .zip extension) and save it.
 
 ### Step 05:
 
+After extracting the file from the previous step we are presented with a picture of a location.
+
+![image-step-05-fkgvdgfdmw](https://user-images.githubusercontent.com/117080369/207862328-ef0bbfa8-d8e0-449d-a1f2-a585ee4daa2e.jpg)
+
+Um, not much in this image to go on, so let's head over to <a href="https://www.aperisolve.com/">Aperi'Solve</a> and analze the image.
+
+Bingo! we can see there is a hidden file embedded.
+
+![Screenshot 2022-12-15 124905](https://user-images.githubusercontent.com/117080369/207863327-c2061d58-5ef1-4314-9ece-c986994f1fad.png)
+
+Let's `DOWNLOAD FILES` and have a closer look.
+
+The extracted steghide file contains a text file with a cryptic message:
+
+>```We hear the former head of Hackoria / Tiberian Order's HUMINT team likes to post on social media.```
 
 ### Step 06:
+
+
+
+
 
 
 ### Step 07:
