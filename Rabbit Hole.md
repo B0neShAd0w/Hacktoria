@@ -111,6 +111,8 @@ Let's go and see what goodies we get.
 
 ![Screenshot 2022-12-15 103441](https://user-images.githubusercontent.com/117080369/207837381-7ad2c39a-e0da-4149-9ad1-62436046e744.png)
 
+### Step 03:
+
 Ah, we need a password for the zip file, at least the picture of a Shark 🦈 gives us a clue.
 
 After a quick Google Lens search tells us this is a `Reef Shark` of some sort. 
@@ -121,7 +123,7 @@ From the image I can't quite make out the exact make of the shark 🦈
 
 A quick Google Search for "rofficial names for sharks" leads us to <a href="https://www.floridamuseum.ufl.edu/discover-fish/sharks/species-profiles/">Shark species profiles identifier</a>
 
-Entering `reef shark` into the search, gives us a few possibilities.
+Entering `reef shark` into the search, gives us 4 possibilities.
 
 ![Screenshot 2022-12-15 105037](https://user-images.githubusercontent.com/117080369/207840828-fb8af880-2b11-4196-bdd4-d50b42198fa8.png)
 
@@ -129,10 +131,6 @@ Entering `reef shark` into the search, gives us a few possibilities.
 
 
 
-
-
-
-### Step 03:
 
 
 ### Step 04:
