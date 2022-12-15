@@ -364,16 +364,99 @@ After a very short time Metasploit gets a hit!
 ![Screenshot 2022-12-15 154308](https://user-images.githubusercontent.com/117080369/207904493-6719cafb-c219-4bc1-8f0d-6240cdd224bd.png)
 
 **Method 3 - Manual:**
+
 Make an assumption about the password and just try each combination manually until you maybe get lucky.
 
+Now we have gained the credentials let's SSH to the box.
+
+```bash
+ssh zayed@10.0.2.5
+```
+Now we need to have a snoop around for a nugget of information.
+
+Let's have a poke around the user's home directory showing hidden files etc.
+
+```bash
+ls -lah
+```
+
+The last file that was updated is `.bash_history` - for anyone that does CTF's always look through this file.
+
+![Screenshot 2022-12-15 155221](https://user-images.githubusercontent.com/117080369/207906573-653674e3-478f-41a9-b590-c89481ced5ce.png)
+
+Let's see what the user have been up to - note: the command is not misspelt, `tac` is an alias for `cat`, sometimes in CTF's `cat` command is blocked.
+
+```bash
+tac .bash_history
+```
+
+We can see that a file has been created before the box was shutdown.
+
+![Screenshot 2022-12-15 155644](https://user-images.githubusercontent.com/117080369/207907592-63b2f3b6-f9d6-40e3-a1b1-d76ded95a797.png)
+
+Let's see what that file is all about.
+
+```bash
+ls -lah /media
+
+tac /media/.vboxm
+```
+
+Look's like we have a link to another zip file.
+
+![Screenshot 2022-12-15 160144](https://user-images.githubusercontent.com/117080369/207908795-c8c2db7f-4ecf-4e4c-be49-27f9519996a3.png)
+
+Let's go ahead and download the zip file: https://hacktoria.com/wp-content/contracts/items/rabbithole/bfgiunfummjh/image-step-09-sdffwacff.zip
 
 ### Step 09:
+
+After extracting the file from the previous step we are presented with a image of the ancient Klumgon language and a file with a name.
+
+![step-09-image-457395345345](https://user-images.githubusercontent.com/117080369/207910181-4f65d902-8a67-4494-a91f-f69c44541b61.jpg)
+
+If you are not familiar with decoding Klumgon check out my write-up for <a href="https://github.com/B0neShAd0w/Hacktoria/blob/main/Klumgongyn%20Returns.md">Klumgongyn Returns</a>, otherwise below is the decoded text.
+
+>A VERSE ABOUT OUR SUBJECT…
+>THE KING’S VOICE WAKED THE
+>SILENT HOST WHO SLEPT BESIDE
+>THE WILD SEA-COAST, AND BADE
+>THE SONG OF SPEAK AND SWORD
+>OVER THE BATTLE PLAIN BE HEARD.
+>WHERE HEROES’ SHIELDS THE
+>LOUDEST RANG, WHERE LOUDEST
+>WAS THE SWORD-BLADE’S CLANG, BY
+>THE SEA-SHORE AT KORMT SOUND,
+>HE FELLED GUTHORM TO THE
+>GROUND.
+>
+>AND GUTHORM’S BROTHERS TOO,
+>WHO KNOW SO SKILFULLY TO
+>BEND THE BOW, THE CONQUERING
+>HAND MUST ALSO FEEL OF HIM, GOD
+>OF THE BRIGHT STEEL, ~ THE SUN-
+>GOD, WHOSE BRIGHT RAYS, THAT
+>DART FLAME-LIKE, ARE SWORDS
+>THAT PIERCE THE HEART.
+>WELL I REMEMBER HOW THE KING
+>HIM, THE BATTLE’S LIFE AND
+>SPRING, O’ER THE WIDE OCEAN
+>CLEARED AWAY EIRIK’S BRAVE
+>SONS. THEY DURST NOT STAY, BUT
+>ROUND THEIR SHIPS’ SIDES HUNG
+>THEIR SHIELDS AND FLED ACROSS
+>THE BLUE SEA-FIELDS
+
+
+
+
 
 
 ### Step 10:
 
+After extracting the file from the previous step we are presented with a picture of a location.
 
-# WIP
+
+
 
 Extract the `flagfile-rabbit-hole.zip` with the password from the information gained above to get your contract card.
 
