@@ -33,10 +33,10 @@ A quick `Google Reverse Image search` gives us the answer straight away.
 
 But, we are OSINTer's 🔍 - we **MUST** confirm our findings.
 
-Search your preferred weapon of choice:
-* Google Maps
-* Google Earth
-* Satellites.pro
+Run a search with your preferred weapon of choice:
+* <a href="https://satellites.pro/">Satellites.pro</a>
+* <a href="https://www.google.com/maps">Google Maps</a>
+* <a href="https://earth.google.com/web">Google Earth</a>
 
 Confirm our findings match that of the supplied image.
 
