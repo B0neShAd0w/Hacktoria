@@ -34,7 +34,6 @@ galeocerdo-cuvier-dodgy_malaka08-logmein-germany-hamburger-d-strasse
 
 ##### *Note: Do not overthink ot overlook the obvious - avoid Rabbit Holes...* 🐰
 
-
 ### Step 01:
 We are supplied an image of an archived screenshot with very little else to go on.
 
@@ -475,7 +474,7 @@ If you are not familiar with decoding Klumgon check out my write-up for <a href=
 >THEIR SHIELDS AND FLED ACROSS
 >THE BLUE SEA-FIELDS
 
-Although decoding the text doesn't give us anything useful it is an interesting read.
+The decoded text relates to an old Norwegian saga.
 
 Let's head over to <a href="https://www.aperisolve.com/">Aperi'Solve</a> and analze the image.
 
@@ -499,9 +498,31 @@ Let's go ahead and download the file: https://hacktoria.com/wp-content/contracts
 
 ### Step 10:
 
-Extracting the zip file from the previous step with the name from the `name` file.
+Upon attempting to extract the zip file from the previous step we find it is password protected - the `name` file contains the hint needed, however let's try to find the answer ourselves.
 
-We are presented with an image of a location, let's identify any data points that can help us geolocate this.
+Let's dig a little deeper into that old Norwegian saga.
+
+Running the Google Dork `intext:"guthorm’s brothers" intext:"king" intext:"eirik’s brave sons"` gives us a few hits about a King named `Hakon/Haakon`
+
+![Screenshot 2022-12-16 114311](https://user-images.githubusercontent.com/117080369/208091315-c3f50c64-5e03-4af2-bef4-5e080fa4e17a.png)
+
+Let's find out more about him.
+
+A quick Google search for "kings of Norway, Haakon" leads us <a href="https://kids.britannica.com/students/article/Haakon-kings-of-Norway/274717">here</a> 
+
+Let's make a note of those listed.
+
+>Haakon I
+>Haakon II
+>Haakon III Sverrsson
+>Haakon IV Haakonsson
+>Haakon V Magnusson
+>Haakon VI Magnusson
+>Haakon VII
+
+Trying each one of these without the spaces will allow us to extract the zip file successfully.
+
+After extracting the zip file we are presented with an image of a location, let's identify any data points that can help us geolocate this.
 
 We can see a building with a name on it `Mariscos & Mas`, boats that look grounded and a interesting pavement/road style.
 
