@@ -240,13 +240,47 @@ Let's go and check it out: https://drive.google.com/drive/folders/1NhNYUalh1knes
 
 ### Step 08:
 
-⚠️ *Configuring Virtualbox is out of scope for this write-up.*
-
 Let's go ahead and download the `OVA` and `password-hint` files.
 
-Once the files have downloaded, import the OVA into Virtualbox, depending how you have your Virtualbox configured you may need to adjust the virtual machine network settings.
+Once the files have downloaded, import the OVA into Virtualbox, depending how you have your Virtualbox configured you may need to adjust the VM network settings.
 
-Fireup the VM, we can see that we are presented with a login screen but do not have the credentials.
+To import the OVA, open Virtualbox click `File > Import Appliance...`
+
+![Screenshot 2022-12-16 132335](https://user-images.githubusercontent.com/117080369/208107979-0a60e815-828e-4723-a529-cdc76766af90.png)
+
+In the `File:` field click the `Folder icon`, browse to the downloaded OVA file and click Open.
+
+![Screenshot 2022-12-16 132624](https://user-images.githubusercontent.com/117080369/208108581-3c8f4009-bfd9-45cb-b1aa-786006d6ac27.png)
+
+Click `Next`
+
+In the `Machine Base Folder:` field enter the location to create the VM.
+
+![Screenshot 2022-12-16 132916](https://user-images.githubusercontent.com/117080369/208109028-f1a1a618-4b48-4c5b-8b71-bd1ebe11b7ab.png)
+
+Click `Finish`
+
+Once the VM has imported, select it and click `Settings`
+
+![Screenshot 2022-12-16 133429](https://user-images.githubusercontent.com/117080369/208109909-fce17010-7c62-468c-92b7-787203567935.png)
+
+From the `Settings` window select `Network`
+
+![Screenshot 2022-12-16 133651](https://user-images.githubusercontent.com/117080369/208110155-7170b186-718b-40ab-ab9a-99e8c5e9555b.png)
+
+In the `Attached to:` field select the relevant network type for your virtual environment.
+
+![Screenshot 2022-12-16 133919](https://user-images.githubusercontent.com/117080369/208110687-4d9df0fa-9f14-4005-bc6e-d538181720e4.png)
+
+Click `OK`
+
+![Screenshot 2022-12-16 134228](https://user-images.githubusercontent.com/117080369/208111282-c596e8d5-862d-452b-96aa-e72ba1e77f04.png)
+
+Click `Start`
+
+![Screenshot 2022-12-16 134042](https://user-images.githubusercontent.com/117080369/208110962-0a9b49fa-8e61-4ad3-b1b3-3c069dde42d7.png)
+
+Once the VM has started, we can see that we are presented with a login screen but do not have the credentials.
 
 ![Screenshot 2022-12-15 140057](https://user-images.githubusercontent.com/117080369/207880121-8d085c92-2b1f-4c36-8495-9b0dc3aa1fbe.png)
 
