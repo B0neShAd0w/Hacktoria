@@ -412,14 +412,14 @@ We can see that a file has been created before the box was shutdown.
 Run the below command to find all files that contains any of the strings `hacktoria`, `google`, `rabbithole` or `contracts`
 
 ```bash
-find / -type f -exec grep -l -i -e "hacktoria" -e "google" -e "rabbithole" -e "contracts" {} \; 2>/dev/null
+find / -type f -exec grep -l -i -e "hacktoria" -e "drive.google" -e "rabbithole" -e "contracts" {} \; 2>/dev/null
 ```
 
 The `Find` command finds lots of file matching our search criteria, however most of these can be excluded as there are system files.
 
 We do find one interesting looking file, let's take a look.
 
-![Screenshot 2022-12-16 102654](https://user-images.githubusercontent.com/117080369/208079470-25de4f4a-cfe2-48a0-bd61-10528178dfb9.png)
+![Screenshot 2022-12-16 110333](https://user-images.githubusercontent.com/117080369/208084796-313306d4-36eb-4937-8219-3881af099dfc.png)
 
 Let's see what that file is all about.
 
