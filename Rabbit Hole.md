@@ -32,7 +32,7 @@ galeocerdo-cuvier-dodgy_malaka08-logmein-germany-hamburger-d-strasse
 
 #### ⚠️ *Due to the length of this writeup I am NOT including the dead ends and rabbit holes I encountered on my way to complete this contract, only the steps required to solve this incredibly fun and difficult contract.*
 
-##### *Note: Do not overthink ot overlook the obvious - avoid Rabbit Holes...* 🐰
+##### *Note: Do not overthink or overlook the obvious - avoid Rabbit Holes...* 🐰
 
 ### Step 01:
 We are supplied an image of an archived screenshot with very little else to go on.
