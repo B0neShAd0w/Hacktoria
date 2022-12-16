@@ -409,7 +409,7 @@ We can see that a file has been created before the box was shutdown.
 
 **Method 2 - Find files containing strings:**
 
-Run the below command to find all files that contains any of the strings `hacktoria`, `google`, `rabbithole` or `contracts`
+Run the below command to find all files that contains any of the strings `hacktoria`, `google.drive`, `rabbithole` or `contracts`
 
 ```bash
 find / -type f -exec grep -l -i -e "hacktoria" -e "drive.google" -e "rabbithole" -e "contracts" {} \; 2>/dev/null
