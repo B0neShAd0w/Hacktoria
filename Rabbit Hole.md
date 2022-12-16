@@ -189,6 +189,14 @@ Looking through the archived page we find refernece to a `Julia Sharpe - team le
 
 ![Screenshot 2022-12-15 130506](https://user-images.githubusercontent.com/117080369/207866460-8c66e0dc-a8ba-40f6-84c2-e51565d69806.png)
 
+Click `The Team` tab on the Menu bar.
+
+![Screenshot 2022-12-16 092701](https://user-images.githubusercontent.com/117080369/208067126-2b66e5a8-2f42-4e85-846b-de206aad8476.png)
+
+Reading through the page, near the bottom we see more about Julia Sharpe, and that she has a `Twitter` account.
+
+![Screenshot 2022-12-16 092855](https://user-images.githubusercontent.com/117080369/208067608-628ba895-0c9c-46e0-a0a3-12f64ef9fa7d.png)
+
 Let's head over to <a href="https://twitter.com/">Twitter</a> and run a people search for `Julia Sharpe`
 
 The one that immediately jumps out is `julia_sharpe007` becuase of the encoded text in their bio and `007` appended to their handle - make a note of this as it is needed for the final password.
