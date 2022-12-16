@@ -512,13 +512,15 @@ A quick Google search for "kings of Norway, Haakon" leads us <a href="https://ki
 
 Let's make a note of those listed.
 
->Haakon I
->Haakon II
->Haakon III Sverrsson
->Haakon IV Haakonsson
->Haakon V Magnusson
->Haakon VI Magnusson
->Haakon VII
+```
+Haakon I
+Haakon II
+Haakon III Sverrsson
+Haakon IV Haakonsson
+Haakon V Magnusson
+Haakon VI Magnusson
+Haakon VII
+```
 
 Trying each one of these without the spaces will allow us to extract the zip file successfully.
 
