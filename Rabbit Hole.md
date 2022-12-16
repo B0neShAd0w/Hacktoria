@@ -205,6 +205,8 @@ The one that immediately jumps out is `julia_sharpe007` becuase of the encoded t
 
 Taking a closer look at Julia's account confirms this is the account we are looking for due to the mention of `Special Agent K 🐰` - The rabbit is a dead give away (nice touch!).
 
+![Screenshot 2022-12-16 111814](https://user-images.githubusercontent.com/117080369/208087232-918f8968-6ca0-4dd4-b802-82a5b0227289.png)
+
 Let's grab the text:
 
 >```NB2HI4DTHIXS62DBMNVXI33SNFQS4Y3PNUXXO4BNMNXW45DFNZ2C6Y3PNZ2HEYLDORZS62LUMVWXGL3SMFRGE2LUNBXWYZJPNJTWI53WNVZWYZRPORXW63DTFVZXIZLQFUYDOLLGM5XGW43RNJVXCLT2NFYA====```
