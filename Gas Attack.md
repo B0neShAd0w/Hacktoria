@@ -35,10 +35,15 @@ But, we are OSINTer's 🔍 - we **MUST** confirm our findings.
 
 Run a search with your preferred weapon of choice:
 * <a href="https://satellites.pro/">Satellites.pro</a>
+* <a href="https://www.openstreetmap.org/">OpenStreetMap</a>
 * <a href="https://www.google.com/maps">Google Maps</a>
 * <a href="https://earth.google.com/web">Google Earth</a>
+* <a href="https://wego.here.com/">HERE WeGo</a>
+* <a href="https://www.bing.com/maps/">Bing Maps</a>
 
-Confirm our findings match that of the supplied image.
+Confirm findings match that of the supplied image.
+
+![Screenshot 2022-12-16 081229](https://user-images.githubusercontent.com/117080369/208053534-6899fe41-c590-4e8b-9c99-12bf8b89b880.png)
 
 Extract the `flagfile-gas-attack.zip` with the password from the information gained above to get your contract card.
 
