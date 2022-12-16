@@ -40,6 +40,7 @@ Run a search with your preferred weapon of choice:
 * <a href="https://earth.google.com/web">Google Earth</a>
 * <a href="https://wego.here.com/">HERE WeGo</a>
 * <a href="https://www.bing.com/maps/">Bing Maps</a>
+
 etc.
 
 Confirm findings match that of the supplied image.
