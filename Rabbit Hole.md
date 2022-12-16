@@ -268,6 +268,8 @@ Run `cat /usr/share/wordlists/rockyou.txt | grep -e '^P' | grep -e '[1][2][3]$' 
 
 Basically what the above command is doing is outputting all enteries from the rockyou.txt file that start with an uppercase `P` and end in `123` to a new file called `passwords.txt`
 
+Obviously if no password hint was given, we could just use the full rockyou.txt password file as our password file.
+
 Next we need a `users.txt` list, a quick Google search for `top 10 most common usernames linux` leads us <a href="https://yurisk.info/2010/06/04/top-10-usernames-used-in-ssh-brute-force/">here</a>
 
 As we can see the hostname on the login screen we will add that, as it is very common in CTF's to use the hostname as the username.
