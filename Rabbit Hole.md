@@ -386,6 +386,9 @@ Now we need to have a snoop around for any nuggets of information.
 
 Let's have a poke around the user's home directory, showing hidden files etc.
 
+Various options are available to us here, I am going to show 2.
+
+**Method 1 - Review Bash History:**
 ```bash
 ls -lah
 ```
@@ -403,6 +406,20 @@ tac .bash_history
 We can see that a file has been created before the box was shutdown.
 
 ![Screenshot 2022-12-15 155644](https://user-images.githubusercontent.com/117080369/207907592-63b2f3b6-f9d6-40e3-a1b1-d76ded95a797.png)
+
+**Method 2 - Find files containing strings:**
+
+Run the below command to find all files that contains any of the strings `hacktoria`, `google`, `rabbithole` or `contracts`
+
+```bash
+find / -type f -exec grep -l -i -e "hacktoria" -e "google" -e "rabbithole" -e "contracts" {} \; 2>/dev/null
+```
+
+The `Find` command finds lots of file matching our search criteria, however most of these can be excluded as there are system files.
+
+We do find one interesting looking file, let's take a look.
+
+![Screenshot 2022-12-16 102654](https://user-images.githubusercontent.com/117080369/208079470-25de4f4a-cfe2-48a0-bd61-10528178dfb9.png)
 
 Let's see what that file is all about.
 
@@ -517,6 +534,14 @@ Eventually a potential match is found.
 ![Screenshot 2022-12-15 173613](https://user-images.githubusercontent.com/117080369/207929852-8101cf4f-bbe6-42c3-b08f-ac3273ccd449.png)
 
 Let's drop our Street View person in and have a look around.
+
+Remember one of our image data points was the interesting pavement/road?
+
+![Screenshot 2022-12-16 105316](https://user-images.githubusercontent.com/117080369/208083085-799652e4-c007-4a07-a799-8b19a434e8b3.png)
+
+We now know this area matches the image data points quite closely, let's move around a bit.
+
+Boom! soon we find what we are looking for.
 
 ![Screenshot 2022-12-15 174008](https://user-images.githubusercontent.com/117080369/207930163-e79ff0a4-3d38-4f37-883e-95649396c9c7.png)
 
