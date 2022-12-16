@@ -203,7 +203,7 @@ The one that immediately jumps out is `julia_sharpe007` becuase of the encoded t
 
 ![Screenshot 2022-12-15 131613](https://user-images.githubusercontent.com/117080369/207868936-d1179ec8-c807-4722-ab1a-93e4112b19ea.png)
 
-Taking a closer look at Julia's account confirms this is the account we are looking for due to the mention of `Special Agent K 🐰` - The rabbit is a dead give away (nice touch!).
+Taking a closer look at Julia's account confirms this is the account we are looking for due to the mention of `The game is on, Special Agent K... 🐰` - The rabbit is a dead give away (nice touch!).
 
 ![Screenshot 2022-12-16 111814](https://user-images.githubusercontent.com/117080369/208087232-918f8968-6ca0-4dd4-b802-82a5b0227289.png)
 
