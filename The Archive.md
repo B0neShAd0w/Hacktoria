@@ -75,7 +75,7 @@ After yet more road blocks, the assumption was made that the key has to be the /
 
 Eventually we stumble upon a promising lead after decoding the name of the file.
 
-After analyzing the the file name `wxynqdhn8vv` in <a href="https://www.dcode.fr/cipher-identifier">Cipher Identifier</a> we find that the `Affine Cipher` returns a human readable string (although this doesnt' really mean much, currently).
+After analyzing the the file name `psvoxkwo8mm` in <a href="https://www.dcode.fr/cipher-identifier">Cipher Identifier</a> we find that the `Affine Cipher` returns a human readable string (although this doesnt' really mean much, currently).
 
 ![Screenshot 2022-12-17 170146](https://user-images.githubusercontent.com/117080369/208253161-f0313dc6-9be4-4509-91ff-84981f1a17dc.png)
 
