@@ -3,9 +3,24 @@
 # Contract: Where’s Klumgongyn?
 ![cover-wheres-klumgongyn-600x600](https://user-images.githubusercontent.com/117080369/205289219-1228086a-ec09-4faf-999f-d7f91a8cb26d.png)
 
-### Difficulty: Medium
+#### Difficulty: Medium
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Klumgongyn sat in his office, staring at his computer screen with frustration. He was an Alien, and he worked for a large intergalactic corporation. But today, he was having a particularly hard time focusing on his work.
+
+The reason for his distraction was the company chat on Discord. It seemed like every other message was a meme or a GIF, and Klumgongyn just couldn’t take it anymore. He found the constant stream of silly images and jokes to be incredibly annoying, and he wished that his coworkers would just focus on work.
+
+But no matter how hard he tried, Klumgongyn just couldn’t seem to ignore the chat. Every time he saw a new message pop up, he couldn’t help but look. And every time he did, he found himself getting more and more annoyed.
+
+Finally, after what felt like an eternity, Klumgongyn had had enough. He opened the chat window.
+
+“Can everyone please stop with the memes and GIFs?” he typed. “I’m trying to get some work done here.”
+
+There was a moment of silence, and then the chat erupted with responses. Some people apologized and promised to be more mindful of their messaging, while others defended their right to share whatever they wanted.
+
+Klumgongyn sighed and sat back down at his desk. He knew that he wasn’t going to change everyone’s behavior, but at least he had tried. Having had absolutely enough of these hairless apes, he got up and left his office. A little vacation would do him well, he thought as he walked towards the elevator..
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. We have quite a strange case on our hands today. Our Lead Counsel Klumgongyn, has gone missing in action.
 
 Now don’t be alarmed, I don’t mean this in any dangerous way. Lately the company chat has been used as a dumpster for GIF wars and edgy memes. Klumgongyn was so fed up with this, that he took one of the spaceships and warped to an unknown location.
