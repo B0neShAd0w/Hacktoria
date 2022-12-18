@@ -3,9 +3,24 @@
 # Contract: Kanonniers
 ![kanonniers-cover-600x600](https://user-images.githubusercontent.com/117080369/205070112-88dbd378-7d7e-4af7-beb2-6632a30966a6.png)
 
-### Difficulty: Insane
+#### Difficulty: Insane
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Maurice sat in the crowded hotel lobby, trying to blend in with the throngs of tourists and businesspeople milling about. He was a spy for the Order of the Golden Creed, a secret organization dedicated to protecting the world from harm.
+
+As he waited for his informant to arrive, Maurice couldn’t help but feel a sense of nervous excitement. He had been working on this case for weeks, trying to gather information about a group of thieves planning a major bank heist.
+
+Finally, his informant appeared. A small, unassuming man, he slipped into the seat across from Maurice and began to speak in hushed tones.
+
+“I’ve got the inside scoop on the heist,” he said, his eyes darting around the room to make sure they weren’t being overheard. “They’re planning to hit the bank in three days’ time, at exactly 2:00 a.m.”
+
+Maurice listened intently, taking notes as the informant revealed all the details of the plan. When he had finished, Maurice thanked him and slipped a wad of cash into his hand.
+
+“Be careful,” the informant warned as he stood to leave. “These guys are dangerous. They won’t hesitate to kill anyone who gets in their way.”
+
+Maurice nodded, his mind already racing as he tried to figure out how to stop the heist from happening. He knew that he had very little time, but he was determined to succeed. He would do whatever it took to protect the people and the world he loved.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings, Special Agent K. We are on the hunt for operatives of a competing organization. We believe them to be the continuation of a rival Order “The Golden Creed”, who we eradicated mid 18th century. Somehow the family running the Order managed to reorganize and fund new endeavors. Flying under the radar for several years, they now have a foothold in many European countries.
 
 Unfortunately for them, they’ve chosen to cross paths with some of our bigger clients in several of these countries. Most recently, the Dutch intelligence agency AIVD, started investigating them after being linked to a human trafficking ring. All beginning with the Syrian refugee crisis a few years back.
