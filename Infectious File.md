@@ -57,7 +57,7 @@ Okay let's download an ISO for our VM, I choose to use <a href="https://www.parr
 
 Once the ISO has downloaded and the `Checksums` have been verified open Virtualbox and click `New` on the main menu.
 
-Enter a `Name:`, `Folder` path to save the VM to & the `ISO Image` location, then click `Next`
+Enter a `Name:`, `Folder:` path to save the VM to & the `ISO Image:` location, then click `Next`
 
 ![Screenshot 2022-12-18 080021](https://user-images.githubusercontent.com/117080369/208293097-ddb1ae29-9245-4a39-9421-666a5b70ac1f.png)
 
@@ -123,7 +123,7 @@ Now everything is patched, tools installed and the Malware sample downloaded we 
 
 Shutdown the VM 
 
-Let's take an export of this VM, so we have a disposable VM for situation just like this.
+Let's take an export of this VM, so we have a disposable VM for situations just like this.
 
 Right click on the VM and select `Export to OCI...`, enter the following settings and click `Next`
 
@@ -140,7 +140,11 @@ From the Side menu select `Network` and then select the `Adapter 1` tab, set `At
 > __Warning__
 > This is your final warning, anything you do from here on out is on your head!, I cannot be help responsible for any damage caused. - if you are unsure DO NOT PROCEED.
 
-if you are sure read on...
+If you are sure read on...
+
+Are you sure?.
+
+Okay then...
 
 Open a terminal and enter the following command:
 ```bash
