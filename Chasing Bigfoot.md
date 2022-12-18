@@ -3,9 +3,24 @@
 # Contract: Chasing Bigfoot
 ![chasing-bigfoot-cover-600x600](https://user-images.githubusercontent.com/117080369/204265139-b78cd013-65c1-4cb4-9e01-79b484ddaaae.png)
 
-### Difficulty: Hard
+#### Difficulty: Hard
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+It was a cold and foggy night as Sergeant John drove down the winding forest road. He had been on a long patrol and was looking forward to finally reaching the midnight diner, where he could get a hot meal and some much-needed rest.
+
+As he drove, John couldn’t shake the feeling that he was being watched. He kept glancing in his rearview mirror, but all he could see was the thick fog that seemed to follow him wherever he went.
+
+Just as he was starting to relax, a figure suddenly appeared in the middle of the road. John hit the brakes, bringing the car to a screeching halt. As the fog cleared, he realized with a start that the figure was a bigfoot.
+
+The massive creature stood there, staring at him with piercing eyes. John’s hand instinctively went to his gun, but he knew he didn’t stand a chance against the beast.
+
+Instead, he slowly opened the car door and stepped out, trying to show that he meant no harm. The bigfoot seemed to understand, and it slowly turned and lumbered off into the woods.
+
+John watched it go, a mixture of fear and wonder running through his veins. He knew he would never forget this encounter, and he couldn’t wait to tell his comrades about it back at the base.
+
+With a shaking hand, he climbed back into the car and continued on his way to the diner. As he pulled into the parking lot, he couldn’t help but wonder what other strange and mysterious creatures he might encounter on his patrols in the future.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. After starting our collaboration with Klumgongyn and his species, a lot of the earth’s mysteries have started to clear up. Not being able to share these with the rest of the world but, suffice to say, a lot of sci-fi movies aren’t that far off from reality.
 
 One of such interesting topics is the existence of Bigfoot, or Sasquatch as it the more formal term. These creatures roam the interiors of the American heartland and reach far up north. For several decades, people have had run-ins and sightings with these creatures.
