@@ -5,7 +5,7 @@
 
 #### Difficulty: Medium
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+### $\textcolor{Rhodamine}{Prologue:}$
 Jamal sat in the dimly lit basement of his parents’ house, hunched over his computer. He was a hacker, and he was writing some of the most advanced malware the world had ever seen.
 
 He had always been fascinated by computers and technology, and had spent years learning everything he could about hacking and coding. And now, finally, he was putting all of that knowledge to use.
