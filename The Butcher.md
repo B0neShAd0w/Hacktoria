@@ -3,9 +3,24 @@
 # Contract: The Butcher
 ![the-butcher-cover-600x600](https://user-images.githubusercontent.com/117080369/203931080-d927f0e0-6968-4c04-8e74-0e353572798c.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+It was just another ordinary day in Berlin, until the German police received a tip about a suspicious apartment in the city. They had no idea what they were going to find, but they knew that they had to be prepared for the worst.
+
+As they arrived at the apartment building, the police noticed that the windows were all covered with black curtains, and there were no signs of life inside. They knew that this was a bad sign, and they braced themselves for what was to come.
+
+With guns drawn, the police burst into the apartment, ready to take down any threats that might be waiting for them. But as they searched the rooms, they found nothing but an empty, rundown space.
+
+It wasn’t until they reached the bedroom that they found something unusual. Tucked away in a corner was a computer, with various sets of knives scattered around it.
+
+The police knew immediately that they had stumbled upon something significant. They carefully gathered up the knives and the computer, and took them back to the station for further analysis.
+
+As they began to go through the computer’s files, the police were shocked to discover that they had finally found the apartment of the serial killer they had been searching for. For years, this mysterious figure had been terrorizing the city, leaving a trail of bodies in his wake.
+
+The police were elated at the discovery, knowing that they were one step closer to bringing the killer to justice. They poured over the evidence, piecing together the clues and trying to track down the killer’s whereabouts.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings, Special Agent K. As you might have heard in the news over the past few months. The city of Berlin in Germany is being plagued by a serial killer, nicknamed “The Butcher”.
 
 As the name implies, this individual butchers his victims and disposes their body parts all over the city. Autopsy reports conclude that the weapon for disposal is most likely a meat cleaver.
