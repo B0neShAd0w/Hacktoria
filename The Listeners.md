@@ -3,9 +3,22 @@
 # Contract: The Listeners
 ![the-listeners-cover-image-600x600](https://user-images.githubusercontent.com/117080369/204564489-03244eb9-d8b4-4931-ad2f-487bac1f344a.png)
 
-### Difficulty: Hard
+#### Difficulty: Hard
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Jaque was in the middle of a meeting at his office when he received a phone call that would change his life forever.
+
+The caller, a man with a rough voice, informed Jaque that his boat had been attacked while sailing off the coast of Spain. Jaque’s wife and daughter, who had been on board the yacht at the time, were nowhere to be found.
+
+Panicked and afraid, Jaque rushed out of the meeting and headed straight to the marina where his yacht was docked. When he arrived, he saw that the boat was badly damaged and there was no sign of his wife or daughter.
+
+Jaque immediately contacted the authorities and begged for their help in finding his loved ones. The search for his wife and daughter became the top priority for the French coast guard, and Jaque vowed to do whatever it took to bring them home safely.
+
+Days turned into weeks, and still there was no sign of Jaque’s wife and daughter. Jaque was devastated, but he refused to give up hope. He spent every waking moment searching for any clues or leads that could help him find his family.
+
+Finally, after nearly a month of searching, Jaque received the news he had been praying for. His wife and daughter had been found, alive and well, on a small island off the coast of Africa. They had been rescued by a group of fishermen and were now safe and sound.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Good day Special Agent K, glad you could make it. One of our oldest clients, a wealthy French businessman, is requesting we find a location where a conversation between two of his rivals will take place. These two have been after our clients’ fortune for a long time, endlessly scheming to end his business endeavors. After their recent attempt to sink one of our clients’ boats off the coast of Spain, while his wife and daughter were on board, our client has had enough.
 
 The plan is to uncover the location of their meeting and have one of our Field Agents plant a listening device. This will record the meeting and lead to the valuable information our client is looking for. Using this information our client plans to take down the businesses of both rivals.
