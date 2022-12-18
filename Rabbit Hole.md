@@ -3,9 +3,9 @@
 # Contract: Rabbit Hole
 ![rabbit-hole-cover-600x600](https://user-images.githubusercontent.com/117080369/207818904-a312292c-011c-4027-8971-7f05e0321245.png)
 
-### Difficulty: Insane
+#### Difficulty: Insane
 
-### Mission Briefing:
+### $\textcolor{Rhodamine}{Briefing:}$
 Greetings Special Agent K. Today we have a special Contract. At the time of writing, 06.12.2022 at 19:48 EET, Hacktoria is now one year old. The first ever Monthly Capture the Flag event was announced roughly one year ago, between 06 and 15.12.2021. Meaning this was the week that the idea for “Story Driven OSINT Capture the Flag Exercises” was born.
 
 To thank everyone who’s been a part of this journey and celebrate the birthday of Hacktoria, I present you with the “Rabbit Hole” Contract. The name stems from the OSINT term “Rabbit Hole”, where the investigator chases after suspected leads and clues, not knowing if or where they will end. Or… If they’re even real.
@@ -30,9 +30,9 @@ galeocerdo-cuvier-dodgy_malaka08-logmein-germany-hamburger-d-strasse
 
 ---
 
-#### ⚠️ *Due to the length of this writeup I am NOT including the dead ends and rabbit holes I encountered on my way to complete this contract, only the steps required to solve this incredibly fun and difficult contract.*
-
-##### *Note: Do not overthink or overlook the obvious - avoid Rabbit Holes...* 🐰
+> __Note__ Due to the length of this writeup I am NOT including the dead ends and rabbit holes I encountered on my way to complete this contract, only the steps required to solve this incredibly fun and difficult contract.
+>
+> Do not overthink or overlook the obvious - avoid Rabbit Holes... 🐰
 
 ### Step 01:
 We are supplied an image of an archived screenshot with very little else to go on.
