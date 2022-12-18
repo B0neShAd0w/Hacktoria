@@ -3,9 +3,22 @@
 # Contract: Gas Attack
 ![cover-gas-attack-600x600](https://user-images.githubusercontent.com/117080369/208049273-1cc9d3e2-2fea-474a-acae-d924025b54c6.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Louis sat in his basement, surrounded by pipes and chemicals. He was a man on a mission, determined to create a neurotoxic gas-bomb.
+
+He had been researching and gathering materials for months, and now it was finally time to put all of his hard work to the test. He carefully measured out the chemicals and mixed them together, following the instructions he had found online.
+
+As he worked, Louis couldn’t help but feel a sense of fear and excitement. He knew that what he was doing was dangerous, and that there would be consequences if he was caught. But he was determined to see his plan through to the end.
+
+Finally, after what felt like an eternity, the bomb was complete. Louis carefully placed it in a backpack and made his way out of the basement.
+
+He knew that he had to be careful from here on out. He had to get the bomb to its intended target without being caught. But he was confident that he had what it took to succeed.
+
+As he left the house, Louis couldn’t help but feel a sense of pride and accomplishment. He had done something that few others would have the courage to do. And he knew that, no matter what happened, he would always be remembered for this moment.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings, Special Agent K. We have an urgent and very grim scenario on our hands. About 20 minutes ago, we received word from one of our red teams, that they’ve uncovered plans on the dark-web to test a new neuro-toxic gas on an undisclosed city.
 
 The group’s name has not yet been uncovered, but is believed to operate decentralized online, sharing the same ideal in the radical right spheres. Over the past months, we’ve observed talks and discussions, glorification of and finally concrete plans to build a dirty bomb.
