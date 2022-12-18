@@ -3,9 +3,26 @@
 # Contract: The Archive
 ![cover-the-archive-600x600](https://user-images.githubusercontent.com/117080369/208250839-09efe280-cb3f-4d20-8057-fa16a9d518ba.png)
 
-### Difficulty: Hard
+#### Difficulty: Hard
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+It was a dark and stormy night when the FBI agents arrived at the warehouse. They had received a tip that the building was being used as a hub for illegal hacking activities.
+
+As they approached the warehouse, they could see that the windows were covered and the door was guarded by a burly man with a stern expression.
+
+One of the agents stepped forward and flashed his badge. “FBI,” he said. “We have a warrant to search this facility.”
+
+The guard hesitated for a moment before reluctantly stepping aside. The agents pushed open the door and stormed into the warehouse, their guns drawn.
+
+Inside, they found row upon row of servers humming with activity. There were dozens of people working at the computers, their faces illuminated by the glow of the screens.
+
+The agents quickly moved in and began arresting the hackers, shouting commands and cuffing them as they went. One of the hackers tried to resist, but he was quickly subdued by the agents.
+
+As the arrests were made, the agents searched the servers and found evidence of countless illegal activities, from identity theft to cyber espionage. It was clear that this warehouse had been the hub of a major criminal operation.
+
+Finally, with all of the suspects in custody, the agents gathered up the evidence and prepared to leave. It had been a successful raid, and they knew that they had made a significant dent in the world of cybercrime.
+
+### $\textcolor{Rhodamine}{Briefing:}$
 Greetings Special Agent K. As you might know, the end of the year is always signified with a massive uptick in cyber attacks. Particularly DDoS and Ransomware attacks are commonplace during this time of the year. It’s also the time of the year for agencies worldwide, to crack down on the criminal enterprises destroying the downtime of IT personnel everywhere.
 
 Our good friends over at the FBI have done just that. Yesterday morning around 0400 UTC they were able to seize a warehouse full of C2 servers, crypto miners and an entire scam call-center rolled int one.
