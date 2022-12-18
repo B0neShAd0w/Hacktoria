@@ -3,9 +3,24 @@
 # Contract: Lost at Sea
 ![lost_at_sea_cover-600x600](https://user-images.githubusercontent.com/117080369/203797664-e030da32-fa73-4201-927c-a2713e66f145.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+The Narwhal was a ship like no other. Outfitted with the most advanced electronic warfare equipment known to man, it was capable of intercepting and decoding even the most encrypted communications. But to the outside world, the Narwhal was just another ordinary fishing trawler, making its way through the choppy waters of the Black Sea.
+
+On this particular mission, the Narwhal was tasked with monitoring a Russian ship that was suspected of transporting illegal weapons. Captain Marcus and his crew were experts at blending in and going unnoticed, and they had spent the past week trailing the Russian ship at a safe distance.
+
+As they worked, the crew of the Narwhal couldn’t help but marvel at the sheer sophistication of their vessel. From its state-of-the-art radar system to its advanced communication tools, the Narwhal was a true marvel of modern technology.
+
+But as they neared the Russian ship, the crew began to pick up some strange signals. It was clear that the Russians were using some kind of advanced jamming technology to try and block their communications.
+
+Captain Marcus knew that this was their moment to strike. He ordered his crew to activate the Narwhal’s electronic warfare systems, and within minutes, they had successfully decrypted the Russian ship’s communications.
+
+As they read through the intercepted messages, the crew of the Narwhal couldn’t believe what they were seeing. The Russian ship was indeed transporting illegal weapons, and they had enough evidence to bring down the entire operation.
+
+The Narwhal quickly reported their findings back to headquarters, and within hours, the Russian ship was apprehended by authorities. It was a triumphant moment for Captain Marcus and his crew, who knew that their mission had made a real difference in the world.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. Yesterday at exactly 22:34 EET we lost contact with our surveillance ship “Narwhal”. A distress signal was sent out, right after this all communication was lost. The Narwhal was operating in the Black Sea, keeping an eye on Russian submarine and aerial activity.
 
 Although she looks like a regular fishing trawler, the Narwhal, built in 2018, was outfitted with state of the art equipment. Housing a crew of 10, including a 4 PAX intervention unit of our best and brightest from the H.M.I.U (Hacktoria Maritime Intervention Unit).
