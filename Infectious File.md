@@ -1,10 +1,9 @@
 <img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
 
-# Infectious File
-![cover-gas-attack-600x600](https://user-images.githubusercontent.com/117080369/208291214-72e90bf4-b2ca-487f-a9af-4d559d64b860.png)
+# Contract: Infectious File
+![cover-infesctious-file-600x600](https://user-images.githubusercontent.com/117080369/208292208-429b0b61-b4ec-4033-a6e3-10c53017ec04.png)
 
-
-### Difficulty: Medium
+#### Difficulty: Medium
 
 ### **$\textcolor{Rhodamine}{Prologue:}$**
 Jamal sat in the dimly lit basement of his parents’ house, hunched over his computer. He was a hacker, and he was writing some of the most advanced malware the world had ever seen.
@@ -47,8 +46,73 @@ As always, Special Agent K. The Contract is yours, if you choose to accept.
 
 ---
 
+### Methodology:
+First thing I will be doing is creating a `Sandbox VM` for this contract, to be honest I do not want to be playing around with live Malware samples (bad experience from days gone by - however that is another story!).
 
-> __Note__
+> __Note__ Due to the dangers associated with this I will be breaking away from the norm and doing this entirely isolated within the VM, with no network access.
+
+Okay let's download an ISO for our VM, I choose to use <a href="https://www.parrotsec.org/download/">Parrot Architect Edition</a>, why? because I like Parrot OS and this edition is just a bare bones image.
+
+![Screenshot 2022-12-18 075647](https://user-images.githubusercontent.com/117080369/208293047-5de3457c-e97a-4de4-8aa7-31f6db71b42d.png)
+
+Once the ISO has downloaded and the `Checksums` have been verified open Virtualbox and click `New` on the main menu.
+
+Enter a `Name:`, `Folder` path to save the VM to & the `ISO Image` location, then click `Next`
+
+![Screenshot 2022-12-18 080021](https://user-images.githubusercontent.com/117080369/208293097-ddb1ae29-9245-4a39-9421-666a5b70ac1f.png)
+
+At the `Create Virtual Machine` wizard enter the amount of `Base Memory:` and `Processors:` required, then click `Next`
+
+![Screenshot 2022-12-18 080422](https://user-images.githubusercontent.com/117080369/208293154-42fc87cb-570f-48a7-966d-fd6cf7d95612.png)
+
+Enter the `Disk Size:` required and click `Next`.
+
+![Screenshot 2022-12-18 080546](https://user-images.githubusercontent.com/117080369/208293244-19a71ed7-708e-4451-8515-480742ff02a1.png)
+
+At the `Summary` page review the summary and click `Finish`
+
+![Screenshot 2022-12-18 080651](https://user-images.githubusercontent.com/117080369/208293536-bdff1d3b-a0a4-410f-9d32-eba6fea4a632.png)
+
+Now the VM has been created there a few important steps to fulfil before we can start using it for Malware Analysis.
+
+Click `Settings` from the main Menu.
+
+![Screenshot 2022-12-18 080800](https://user-images.githubusercontent.com/117080369/208293415-a356a228-6cc7-4b13-9581-0c38089868f6.png)
+
+From the Side Menu select `General` then select the `Basic` tab, change the `Version` to `Debian (64-bit)`
+
+![Screenshot 2022-12-18 080930](https://user-images.githubusercontent.com/117080369/208293633-662ca23d-5d8a-45d5-a4ae-40c25246ab8f.png)
+
+Click the `Advanced` tab and make sure that `Shared Clipboard:` and ` Drag'n'Drop:` are `Disabled`
+
+![Screenshot 2022-12-18 081026](https://user-images.githubusercontent.com/117080369/208293701-a7ff2b8a-fd51-40c2-aa4e-e21c9eca9a7b.png)
+
+From the Side menu select `System` and then select the `Processor` tab, make sure `Extended Features: > Enable PAE/NX` is not selected.
+
+![Screenshot 2022-12-18 081418](https://user-images.githubusercontent.com/117080369/208293855-fb25a04c-e9a0-4da2-8edb-ceec6743e884.png)
+
+Click the `Acceleration` tab, make sure `Paravirtualization Interface:` is set to `None`.
+
+![Screenshot 2022-12-18 081559](https://user-images.githubusercontent.com/117080369/208293872-b66016e7-76d8-42b4-8f97-77b6e22013a0.png)
+
+From the Side menu select `Display` then the `Screen` tab, change the `Video Memory:` to `128 MB`
+
+![Screenshot 2022-12-18 085051](https://user-images.githubusercontent.com/117080369/208293978-d052e4e9-0a01-4d52-b0df-e436deaa9354.png)
+
+From the Side menu select `Audio` make sure `Enable Audio` is not selected.
+
+![Screenshot 2022-12-18 081834](https://user-images.githubusercontent.com/117080369/208294116-4b13b757-b73a-41cb-ab9c-1a53cf9239be.png)
+
+From the Side menu select `Network` and then select the `Adapter 1.` tab, set `Attached to:` to `Bridged Adapter`
+
+> __Note__ We will be changing this once we have the required updates/tools and files.
+
+![Screenshot 2022-12-18 085651](https://user-images.githubusercontent.com/117080369/208294183-febd8fd9-ec8f-47a4-9a8c-35362693412e.png)
+
+From the Side menu select `Shared Folders` and confirm non have been set, and click `OK`
+
+![Screenshot 2022-12-18 082159](https://user-images.githubusercontent.com/117080369/208294603-f75c0185-c469-4f30-b14b-8cbe713ac02c.png)
+
 
 
 
