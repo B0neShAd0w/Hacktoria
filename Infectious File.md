@@ -103,7 +103,7 @@ From the Side menu select `Audio` make sure `Enable Audio` is not selected.
 
 ![Screenshot 2022-12-18 081834](https://user-images.githubusercontent.com/117080369/208294116-4b13b757-b73a-41cb-ab9c-1a53cf9239be.png)
 
-From the Side menu select `Network` and then select the `Adapter 1.` tab, set `Attached to:` to `Bridged Adapter`
+From the Side menu select `Network` and then select the `Adapter 1` tab, set `Attached to:` to `Bridged Adapter`
 
 > __Note__ We will be changing this once we have the required updates/tools and files.
 
@@ -113,9 +113,43 @@ From the Side menu select `Shared Folders` and confirm non have been set, and cl
 
 ![Screenshot 2022-12-18 082159](https://user-images.githubusercontent.com/117080369/208294603-f75c0185-c469-4f30-b14b-8cbe713ac02c.png)
 
+Now run `sudo apt update && sudo parrot-upgrade` to ensure the OS is fully patched.
 
+Install any tools that are required (for this contract we only require the Strings tool), which is already installed.
 
+> __Warning__ Do not install `Virtualbox Tools` on the VM.
 
+Now everything is patched, tools installed and the Malware sample downloaded we are going to drop the network from the VM.
+
+Shutdown the VM 
+
+Let's take an export of this VM, so we have a disposable VM for situation just like this.
+
+Right click on the VM and select `Export to OCI...`, enter the following settings and click `Next`
+
+![Screenshot 2022-12-18 091818](https://user-images.githubusercontent.com/117080369/208295185-10b0e2bc-358e-40f5-8c9c-981adbf01db7.png)
+
+Once the export has finsihed we are ready to start analyising the Malware Sample.
+
+Let's isolate this VM from any network, click `Settings`
+
+From the Side menu select `Network` and then select the `Adapter 1` tab, set `Attached to:` to `Not attached`
+
+![Screenshot 2022-12-18 110811](https://user-images.githubusercontent.com/117080369/208295017-dab3c235-ec76-4020-9253-6fd632844b25.png)
+
+> __Warning__
+> This is your final warning, anything you do from here on out is on your head!, I cannot be help responsible for any damage caused. - if you are unsure DO NOT PROCEED.
+
+if you are sure read on...
+
+Open a terminal and enter the following command:
+```bash
+strings <PATH TO FILE/MALWARE SAMPLE>
+```
+
+Read through the very long output and look for anything that really stands out, `Th3p@$$4th3Fl@g` looks a little different to everything else, let's try that on our flag file.
+
+![woohoo-homer-simpson](https://user-images.githubusercontent.com/117080369/208295750-f84ba8de-3ffd-4880-abe2-fc272da32c37.gif)
 
 Extract the `flagfile-infectious-file.zip` with the password from the information gained above to get your contract card.
 
