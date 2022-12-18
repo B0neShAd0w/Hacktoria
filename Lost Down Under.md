@@ -3,9 +3,30 @@
 # Contract: Lost Down Under
 ![lost-down-under-cover-600x600](https://user-images.githubusercontent.com/117080369/204875717-bc98bf32-764a-4f0d-9bcf-96743e214ec6.png)
 
-### Difficulty: Insane
+#### Difficulty: Insane
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Dan and Kyle sat in a dimly lit tent deep in the Australian outback, their faces illuminated by the glow of a laptop screen. They were planning their next attack, and the stakes were high.
+
+The two terrorists had been living in the outback for weeks, building their camp and stockpiling explosives. Now, they were ready to put their plan into action.
+
+“We need to figure out the best way to transport the bombs from the camp,” Kyle said, his eyes narrowed in concentration.
+
+“We can’t use a car or a truck,” Dan replied. “They’ll be too easy to track.”
+
+“What about a boat?” Kyle suggested. “We could load the bombs onto a small boat and take them down the river.”
+
+“That’s too risky,” Dan said. “We need something that’s more stealthy. Something that won’t attract attention.”
+
+They sat in silence for a moment, thinking. Then, an idea struck Dan.
+
+“I’ve got it,” he said. “We’ll use camels. They’re slow and low-key, and they can carry a lot of weight.”
+
+Kyle nodded, a sly smile spreading across his face. “Brilliant. We’ll load the bombs onto the camels and lead them through the desert at night. By the time anyone realizes what’s happening, it’ll be too late.”
+
+The two terrorists spent the next few days preparing for their attack, gathering supplies and training the camels to carry the explosives. And when the night finally came, they set off into the darkness, their deadly cargo hidden among the dunes.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. We need your assistance in an urgent matter. Our client, the Australian Secret Intelligence Agency, ASIS for short, has requested our help to uncover a terrorist organization.
 
 This group, who’s name is yet to be uncovered, has shown intent on bombing several locations around Australia. Their origins are confirmed to be domestic, with money coming in from Chinese non-government actors.
