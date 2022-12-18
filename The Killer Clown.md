@@ -3,10 +3,22 @@
 # Contract: The Killer Clown
 ![the-killer-clown-cover-600x600](https://user-images.githubusercontent.com/117080369/203552615-167c8b70-28e8-4923-8b0c-b3a382e161e4.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+It was a dark and stormy night, and the only sound that could be heard in the park was the soft pattering of rain on the leaves. But among the bushes, there was something else lurking, something sinister and malevolent.
 
+It was a killer clown, with a painted face and razor-sharp teeth. He had been hiding in the bushes for hours, waiting and observing the joggers as they passed by.
+
+As the night wore on, the killer clown began to grow restless. He had been waiting for the perfect victim, and he knew that it wouldn’t be long before one came along.
+
+Finally, he saw his chance. A lone jogger was making his way down the path, completely unaware of the danger that was lurking in the shadows.
+
+The killer clown sprang from the bushes, his sharp claws glinting in the moonlight. The jogger never stood a chance.
+
+As the body lay at his feet, the killer clown cackled maniacally, relishing in the power and control he had over life and death. Next, came the most sinister part of his plan…
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings, Special Agent K. We have a very urgent case on our hands. The San Francisco Police Department is working on a true horror case this October. There is an actual killer clown roaming the `streets of the greater San Francisco area.`
 
 The killer is dressed as a clown and strikes at night, mostly targeting women and younger men. The victims are drugged and bound tightly with a long rope, stretching all the way around the body. After this, the killer attaches an oxygen tank to the victim and puts them inside a coffin sized box. Making it impossible to move, but just enough to breathe slowly.
