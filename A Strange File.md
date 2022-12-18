@@ -3,9 +3,20 @@
 # Contract: A Strange File
 ![a_strange_file_cover-600x600](https://user-images.githubusercontent.com/117080369/205494097-10a3e43c-4cba-4ff4-acf8-6226be5ed82e.png)
 
-### Difficulty: Insane
+#### Difficulty: Insane
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+It was a quiet night in the city of Muscat, Oman, when a team of police officers received an anonymous tip about a group of hackers operating out of an apartment building in the downtown area.
+
+The officers quickly mobilized, gathering their equipment and heading to the location in a fleet of patrol cars. As they arrived at the building, they saw that the lights were on in one of the upper-floor apartments.
+
+Without hesitation, they burst through the door and stormed into the apartment, guns drawn. Inside, they found a group of young men huddled around a series of computer servers, their fingers flying over the keyboards as they worked.
+
+The hackers were taken by surprise, and they quickly raised their hands in surrender. The police officers moved in, arresting the suspects and confiscating the servers as evidence.
+
+As the suspects were taken away in handcuffs, the officers searched the apartment and discovered a wealth of evidence pointing to a widespread hacking operation. It was clear that these young men had been involved in a number of high-profile cybercrimes, and they were relieved to have finally brought them to justice.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. During a raid of our allies in the country of Oman, several computers and server equipment were confiscated.
 
 The authorities of Oman spent the past week analyzing the data that resides on this hardware. However, they were not able to make sense of all the data.
