@@ -138,7 +138,9 @@ From the Side menu select `Network` and then select the `Adapter 1` tab, set `At
 ![Screenshot 2022-12-18 110811](https://user-images.githubusercontent.com/117080369/208295017-dab3c235-ec76-4020-9253-6fd632844b25.png)
 
 > __Warning__
-> This is your final warning, anything you do from here on out is on your head!, I cannot be help responsible for any damage caused. - if you are unsure DO NOT PROCEED.
+> This is your final warning, anything you do from here on out is on your head!, I cannot be held responsible for any damage caused. - if you are unsure DO NOT PROCEED.
+
+![warning-alert](https://user-images.githubusercontent.com/117080369/208306778-bc7717a2-3fae-4861-b116-305fc5bda8f9.gif)
 
 If you are sure read on...
 
