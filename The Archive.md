@@ -62,7 +62,7 @@ We are now presented with a lovely image of Rick Astley.
 
 ![myfile](https://user-images.githubusercontent.com/117080369/208251756-08552f80-f29d-4a9a-88e3-dbba8326cbe2.png)
 
-### ⚠️ WARNING: At this point I went off way down the rabbit hole...
+> __Warning__ At this point I went off way down the rabbit hole...
 
 ![rabbit-hole-alice-in-wonderland](https://user-images.githubusercontent.com/117080369/208251928-f65973f5-9616-468c-9bd9-031340f8d774.gif)
 
