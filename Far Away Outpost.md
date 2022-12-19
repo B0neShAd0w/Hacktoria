@@ -3,9 +3,22 @@
 # Contract: Far Away Outpost
 ![far-away-outpost-cover-600x600](https://user-images.githubusercontent.com/117080369/204478206-d9583b8b-4ddb-46cd-9528-6d54e72b47f4.png)
 
-### Difficulty: Hard
+#### Difficulty: Hard
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+It was a hot and humid day in the Kenyan forest, and the team of forest rangers were on high alert. They had received a tip that a man named Zayed was attempting to smuggle illegal zebra hides out of the country, and they were determined to catch him in the act.
+
+As they patrolled the winding dirt roads, they spotted a Rangerover coming towards them. It was driven by a man who looked a lot like the one in the photo they had been given.
+
+The rangers signaled for the vehicle to stop, and as it came to a halt, they surrounded it, guns drawn. The driver, a rugged-looking man with a thick beard, glared at them with cold eyes.
+
+“Step out of the vehicle,” one of the rangers ordered.
+
+The man hesitated for a moment, and then slowly climbed out of the car. As he did, the rangers noticed a suspicious bulge under his jacket. They quickly searched him and found a package containing several zebra hides.
+
+Zayed was arrested on the spot and taken back to the ranger station, where he was booked and charged with illegal wildlife smuggling.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. I hope you’re in the mood for hunting down some poachers. We have a contract from the Kenyan government to track down an animal smuggling and poaching operation.
 
 This group uses various humanitarian organizations as fronts for their poaching operations. Often pretending to be building civilian infrastructure to obscure their activities.
