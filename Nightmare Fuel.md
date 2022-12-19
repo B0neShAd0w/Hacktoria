@@ -3,9 +3,24 @@
 # Contract: Nightmare Fuel
 ![nightmare-fuel-cover-600x600](https://user-images.githubusercontent.com/117080369/203791844-fa61a564-8d86-4357-97d2-cd721a4c7503.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+For as long as she could remember, Mary had always been a light sleeper. So when she started hearing strange noises coming from the abandoned house next door every night, she knew that something was wrong.
+
+At first, the noises were just soft and subtle, like the creaking of old floorboards or the rustling of leaves in the wind. But as time went on, they became louder and more intense, until they were almost unbearable.
+
+There were horrible screeching sounds, like someone or something was in great pain, and Mary couldn’t shake the feeling that something evil was lurking in the shadows.
+
+She tried to ignore the noises, telling herself that it was just her imagination running wild. But as the weeks went by, the sounds became more and more frequent, until Mary couldn’t take it anymore.
+
+She knew that she had to do something, even if it meant facing her fears head on. So one night, when the noises were particularly loud, Mary gathered her courage and made her way over to the abandoned house.
+
+As she approached the front door, she could feel her heart racing in her chest. She had no idea what she was going to find inside, but she knew that she had to keep going.
+
+Slowly, she pushed open the door and stepped inside, her eyes scanning the darkness for any sign of movement. The house was empty and quiet, but Mary could still feel a sense of dread hanging in the air.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. Yesterday evening around 2100 hours, two officers of the New York Police Department entered the premise of an abandoned building in Brownsville New York. Neighbors had complained about strange sightings. Supposedly a woman had been squatting inside the building.
 
 Reports also state that over the course of the two years the building has been abandoned, several residents of the surrounding houses had complained about junkies occupying the building. Often making terrible screeching like noises during the night.
