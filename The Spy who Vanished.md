@@ -3,9 +3,20 @@
 # Contract: The Spy who Vanished
 ![the-spy-who-vanished-cover-600x600](https://user-images.githubusercontent.com/117080369/204003381-3a18cb6a-86fb-41cd-a156-8671ce87c076.png)
 
-### Difficulty: Medium
+#### Difficulty: Medium
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Deloris Frozenwood had always been a skilled spy, rising through the ranks of MI5 with ease and efficiency. But as she sat in the crowded coffee shop in Madrid, sipping her espresso and scrolling through her email, she couldn’t shake the feeling that she was being watched.
+
+As she turned to look around the room, her gaze landed on a familiar face across the way – Emile, the leader of a notorious terrorist organization she had been tracking for years. Her heart skipped a beat as he caught her eye and beckoned her over to his table.
+
+As she approached, Emile gave her a sly smile. “I’ve been watching you, Deloris,” he said. “I’ve heard about your impressive work in the espionage world. I have a proposition for you.”
+
+Deloris’s mind raced as she listened to Emile’s offer. He wanted her to betray MI5 and join his group, using her skills to carry out a series of covert operations against their enemies. The thought of going rogue and turning her back on her country was tantalizing, but also terrifying.
+
+She knew that if she accepted Emile’s offer, there would be no going back. She would be a traitor, hunted by her former colleagues and living a life of constant danger. But the prospect of unlimited power and resources, not to mention the thrill of working on the wrong side of the law, was too tempting to resist.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings, Special Agent K. We have received information regarding the long lost spy from MI5, Deloris Frozenwood. She went missing in action a few years ago, never to be seen again. From what we understand, she went on to provide services to whoever the highest bidder might be.
 
 Before she went rogue, Deloris was a revered operative within MI5. Taking on some of the most dangerous assignments and quickly working her way through the ranks. Discontent with management, she took matters into her own hands. Often skirting the lines between rule of law and criminal behavior. She was eventually terminated from MI5.
