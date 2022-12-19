@@ -3,9 +3,21 @@
 # Contract: Intergalactic Warfare
 ![intergalactic-warfare-cover-600x600](https://user-images.githubusercontent.com/117080369/203950191-7a0edc81-a1d6-49c6-bd49-6415a94cb23a.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+The Krohndahkyr were an advanced alien species, known throughout the galaxy for their intelligence and technological prowess. As they sat in their spaceship control room, they were focused on one goal: infiltrating human society and taking over planet Earth.
+
+The Krohndahkyr had been studying Earth for years, learning about the various cultures and customs of its inhabitants. They had even gone so far as to create disguises and false identities, so that they could blend in seamlessly with the human population.
+
+As they approached Earth, the Krohndahkyr knew that the time had come to put their plan into action. They would need to be patient and careful, but they were confident that they could succeed.
+
+As they made their way towards the planet, the Krohndahkyr couldn’t help but feel a sense of excitement and anticipation. They knew that they were embarking on a mission of great importance, and they were ready to do whatever it took to succeed.
+
+As they landed on Earth and made their way into human society, the Krohndahkyr were careful to keep their true identities hidden. They knew that they couldn’t afford to let their guard down, and they had to be constantly on the lookout for any sign of suspicion.
+
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Special Agent K. We have a serious matter on hand today. Klumgongyn has alerted us to the presence of an invasive alien species. Going by the name Krohndahkyr, these creatures are the stuff of nightmares. They lurk in the dark, staying motionless for days or stalking their prey using very heightened senses. Climbing, swimming and making vast leaps as they silently move through the dark.
 
 The Krohndahkyr have the ability to regulate their temperature to the point they become invisible to thermal imaging. Using their many arms and spiked tentacles, they have the ability to rip a human to shreds in seconds.
