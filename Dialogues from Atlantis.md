@@ -3,9 +3,20 @@
 # Contract: Dialogues from Atlantis
 ![dialogues-from-atlantis-cover-600x600](https://user-images.githubusercontent.com/117080369/203964216-1717baa0-b94f-4494-b535-aeb3cc2fa1fc.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Eveline was a researcher who was completely obsessed with the ancient city of Atlantis. She had dedicated her entire career to searching for any information or clues that might lead to the discovery of this long-lost civilization.
+
+One day, as she sat in her office pouring over old texts and documents, Eveline came across a piece of evidence that she believed could be the key to unlocking the mystery of Atlantis. It was a small, intricately carved stone tablet that had been discovered in an ancient ruin in Greece.
+
+Eveline was convinced that this tablet held the answers she had been seeking for so long. She spent countless hours studying it, trying to decipher the strange symbols and markings that covered its surface.
+
+Despite her best efforts, however, Eveline was unable to make any sense of the tablet. She became increasingly frustrated and obsessed, spending day and night in her office, trying to unlock its secrets.
+
+As the weeks turned into months, Eveline began to lose hope. She was exhausted and drained, and she feared that she would never be able to solve the mystery of Atlantis. It was at this point that Eveline knew she had to call in help.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings, Special Agent K. One of our clients, a wealthy art collector from Monaco, is requesting we help her find a recorded dialogue between Critias, Hermocrates, Timaeus and Soscrates.
 
 In her quest to unravel the mysteries regarding the ancient city of Atlantis, our client wishes to gather all evidence possible as to where the location of the lost city truly is. Getting stuck a fair bit into her endeavors, she has reached out to Hacktoria to decipher a piece of text.
