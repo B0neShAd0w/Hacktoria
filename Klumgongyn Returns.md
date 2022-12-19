@@ -3,9 +3,26 @@
 # Contract: Klumgongyn Returns
 ![klumgongyn-returns-cover-600x600](https://user-images.githubusercontent.com/117080369/204011746-576f7582-5cc2-44cd-8352-0f619c5a5e43.png)
 
-### Difficulty: Medium
+#### Difficulty: Medium
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Klumgongyn sat on the edge of his bed, staring at his girlfriend with a mixture of excitement and anxiety. They had been together for a long time, and he knew that he loved her more than anything in the universe.
+
+But now, he had to make a decision that would change their lives forever.
+
+“I’ve been thinking about it for a long time,” he said, taking a deep breath. “And I think it’s time for us to make the move.”
+
+His girlfriend looked at him quizzically. “What do you mean?” she asked.
+
+“I mean moving to Earth,” Klumgongyn replied. “It’s a new world, with endless possibilities. And I think we could make a life there together.”
+
+His girlfriend’s eyes widened in shock. “Earth? Are you serious? But it’s so different from Klum.”
+
+Klumgongyn nodded. “I know it’s a big change, but I think it’s worth it. We have the technology to adapt, and I know we can make it work. Plus, think of all the new experiences we’ll have. It’s an exciting opportunity.”
+
+His girlfriend considered this for a moment, then slowly nodded. “I trust you, Klumgongyn,” she said. “If you think it’s the right thing to do, then let’s do it. We’ll make a new life together on Earth.”
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. We have a very special assignment for you today. You might remember our old friend Klumgongyn. He’s recently turned up again and will be cooperating with us going forward. In what capacity that collaboration is, I cannot say right now.
 
 All I can tell you, that below you’ll find a text written in ancient Klumgon. It’s up to you to translate the text, which will help you uncover the password for your flagfile as well.
