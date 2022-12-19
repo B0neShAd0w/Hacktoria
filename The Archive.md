@@ -108,9 +108,9 @@ Running the `Unicode Shift Cipher` with a `Shift` of `10` gives us another inter
 
 ![Screenshot 2022-12-17 154723](https://user-images.githubusercontent.com/117080369/208253295-968261c8-607c-49d0-a9a6-63139eb60372.png)
 
-Let's run a check to see if this actually a valid domain or not by checking with <a href="https://mxtoolbox.com/SuperTool.aspx">MX Toolbox SuperTool</a>
+Let's run a check to see if this is actually a valid domain or not by checking with <a href="https://mxtoolbox.com/SuperTool.aspx">MX Toolbox SuperTool</a>
 
-We can see from the results that it is indeed a valid domain, furthermore it was created recently...
+We can see from the results that it is indeed a valid domain, furthermore it was created recently - result!
 
 ![Screenshot 2022-12-19 155530](https://user-images.githubusercontent.com/117080369/208467692-a183f884-9622-4bc8-a945-6825cf313f87.png)
 
