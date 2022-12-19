@@ -3,9 +3,26 @@
 # Contract: On the Wire
 ![on-the-wire-cover-600x600](https://user-images.githubusercontent.com/117080369/204089579-690a2968-bd82-45b8-87b2-bc5093741877.png)
 
-### Difficulty: Medium
+#### Difficulty: Medium
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Special Agent J was a highly trained and skilled agent who had been on countless missions around the world. Her latest assignment was to infiltrate a Chinese crime syndicate operating in Malaysia.
+
+The crime syndicate was known for its ruthless tactics and extensive network of illegal activities, including human trafficking, drug trafficking, and money laundering. J knew that this mission would be dangerous, but she was determined to bring down the syndicate and bring justice to its victims.
+
+After months of planning and preparation, J was finally ready to make her move. She arrived in Malaysia and began gathering intelligence on the syndicate’s operations. She learned that the syndicate was led by a man named Mr. Chen, who was known for his ruthless and cunning tactics.
+
+J knew that if she wanted to take down the syndicate, she would have to get close to Mr. Chen and gather as much information as possible. She began infiltrating the syndicate, using her charm and intelligence to gain the trust of Mr. Chen and his inner circle.
+
+As she worked her way deeper into the syndicate, J realized that she would need more than just her own skills and cunning to bring down Mr. Chen and his organization. She needed to gather concrete evidence that could be used to prosecute the syndicate and its members in court.
+
+That’s when J had an idea. She knew that the syndicate relied heavily on its communication networks to coordinate its operations and communicate with its members. If she could tap into one of these networks, she could gather valuable intelligence and evidence that could be used to build a case against the syndicate.
+
+So, one night, J snuck into the syndicate’s headquarters and carefully placed a wiretap on one of the networks. She knew that this was a risky move, but she was determined to do whatever it took to bring down the syndicate and bring justice to its victims.
+
+Over the next few weeks, J worked tirelessly to gather as much information as possible through the wiretap. She recorded countless conversations and collected evidence that would be vital in building a case against the syndicate.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. One of our field agents in Malaysia managed to physically breach the office of a corrupt politician. Doubling as a mole for a Chinese criminal enterprise, mostly smuggling endangered animals. In this case their evil business involves shark fin trade and other exotic food items.
 
 During the breach, our agent successfully obtained several pieces of information on the organization. Currently this does not include their name, as they only communicate using anonymous messages and codenames.
