@@ -3,9 +3,28 @@
 # Contract: Cold War Enemies
 ![cold-war-enemies-cover-600x600](https://user-images.githubusercontent.com/117080369/203554798-bc612059-d608-4bb4-9fd2-ccce1d092f37.png)
 
-### Difficulty: Easy
+#### Difficulty: Easy
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Maksim Kotova was a powerful Russian politician with connections to the highest levels of government. As he walked through the bustling streets of Moscow, he couldn’t help but feel a sense of satisfaction at all he had accomplished.
+
+But Maksim was not content to rest on his laurels. He had bigger plans, and he knew that to achieve them, he needed to take risks.
+
+That’s why he had arranged this meeting with a cargo handler at the Russian airforce base in Moscow. The man, a burly, no-nonsense type, had promised to help Maksim smuggle stolen weapons onto an airplane bound for a foreign country.
+
+As they sat in a secluded corner of a dingy cafe, Maksim leaned in close and whispered his plan.
+
+“I have a contact in the black market who can supply us with all the weapons we need,” he said. “All we have to do is load them onto the plane and fly them out of the country.”
+
+The cargo handler nodded, a greedy glint in his eye. “I can make it happen,” he said. “But it’s going to cost you.”
+
+Maksim grinned. “Money is no object,” he said. “Just make sure everything goes smoothly, and there will be a generous reward for you.”
+
+The two men shook hands, sealing the deal. Maksim knew that this was a dangerous gambit, but he was confident that it would pay off in the end.
+
+And so, under the cover of darkness, they loaded the stolen weapons onto the plane and prepared to take off into the night. Maksim couldn’t help but feel a thrill of excitement as the engines roared to life, knowing that he was on the verge of something big.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Greetings Special Agent K. Perhaps you remember our old friend Maksim Kotova? After his capture in Panama he was more than willing to cooporate for reduced sentences.
 
 Following up on the leads he’s given us until this point has resulted in the arrest of several high ranking officials and members of various underground organizations. One of his more promising leads, is a military parts smuggling operation organized by one of Maksim’s former Cold War friends, Vasili Semenov.
