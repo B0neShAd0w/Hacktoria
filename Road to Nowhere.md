@@ -3,9 +3,20 @@
 # Contract: Road to Nowhere
 ![road-to-nowhere-cover-600x600](https://user-images.githubusercontent.com/117080369/203995873-780825ca-a4ac-4a57-a611-769fa301d8fb.png)
 
-### Difficulty: Medium
+#### Difficulty: Medium
 
-### Mission Briefing:
+### **$\textcolor{Rhodamine}{Prologue:}$**
+Onada stood guard at the entrance to the small village, hidden deep in the jungle. He was a mercenary, working for a terrorist organization called the Meercats. The Meercats were known for their brutal tactics and their willingness to do whatever it took to achieve their goals.
+
+Onada had joined the Meercats for the money and the thrill of adventure, but as he stood watch over the village, he couldn’t help but feel a sense of unease. The villagers were poor and powerless, and Onada knew that his superiors would have no qualms about hurting them if it meant furthering their cause.
+
+As the night wore on, Onada heard the sound of footsteps approaching from the jungle. He tensed, reaching for his rifle and preparing for the worst. But to his surprise, a group of rebels emerged from the foliage, their weapons trained on him.
+
+Onada hesitated for a moment, torn between his loyalty to the Meercats and his growing sense of disgust at their methods. In the end, he made a decision. He lowered his rifle and stepped aside, allowing the rebels to pass.
+
+As they moved into the village, Onada knew that he had made a risky move. The Meercats would surely come after him for his betrayal. But as he watched the rebels disappear into the jungle, Onada couldn’t help but feel a sense of relief and freedom. He had finally found the courage to stand up for what was right, and he knew that he would be able to sleep better at night as a result.
+
+### **$\textcolor{Rhodamine}{Briefing:}$**
 Special Agent K, we’ll be needing your assistance on a geolocation matter. One of our clients, a medium sized European goverment agency, has requested we find a needle in a haystack.
 
 Our client is involved in fighting terrorist groups in Asia and Africa. Recently, they gained access to a Dropbox account filled with map data. Most of these seem to be related to safe houses used by a terrorist organization called “The Meercats”. Indeed a strange name, but nontheless, they mean business.
