@@ -5,7 +5,8 @@
 
 #### Difficulty: Insane
 
-### $\textcolor{Rhodamine}{Briefing:}$
+![1-year](https://user-images.githubusercontent.com/117080369/208620141-94e28a73-f005-4526-b31e-2a7de0dee587.jpg)
+
 Greetings Special Agent K. Today we have a special Contract. At the time of writing, 06.12.2022 at 19:48 EET, Hacktoria is now one year old. The first ever Monthly Capture the Flag event was announced roughly one year ago, between 06 and 15.12.2021. Meaning this was the week that the idea for “Story Driven OSINT Capture the Flag Exercises” was born.
 
 To thank everyone who’s been a part of this journey and celebrate the birthday of Hacktoria, I present you with the “Rabbit Hole” Contract. The name stems from the OSINT term “Rabbit Hole”, where the investigator chases after suspected leads and clues, not knowing if or where they will end. Or… If they’re even real.
