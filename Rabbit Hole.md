@@ -339,11 +339,9 @@ Once the VM has started, we can now login with `zayed` and the password we set.
 
 ![Screenshot 2022-12-20 090034](https://user-images.githubusercontent.com/117080369/208633577-8bb14f0e-121f-494f-b21b-d2bbc59f926d.png)
 
->
->STEPS HERE
->
+> __Note__ If you prefer to brute force or guess your way in read the methods below.
 
-Remember there was an addintional file named `password-hint`, let's see what that gives us: 
+Remember there was an additional file named `password-hint`, let's see what that gives us: 
 
 >The one I always use ending in 123 and starting with a capital P..
 
@@ -420,6 +418,8 @@ After a very short time Hydra gets a hit!
 ![Screenshot 2022-12-15 151908](https://user-images.githubusercontent.com/117080369/207898427-712cecb0-9c78-453e-9787-f13060811087.png)
 
 **Method 3 - Metasploit:**
+> __Note__ We will be using the same password and user lists that we created in the previous method.
+
 Launch `Metasploit` by running the command below.
 
 ```bash
