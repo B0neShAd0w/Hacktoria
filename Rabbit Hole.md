@@ -277,13 +277,71 @@ Click `OK`
 
 ![Screenshot 2022-12-16 134228](https://user-images.githubusercontent.com/117080369/208111282-c596e8d5-862d-452b-96aa-e72ba1e77f04.png)
 
+At this point there are multiple ways to gain access to the VM, I am going to outline of 4 them.
+1. Using `Recovery Mode`
+2. Brute-forcing with `Hydra`
+3. Brute-forcing with `Metasploit`
+4. Manual `social engineering` educated guessing
+
+**Method 1 - Recovery Mode:**
+
 Click `Start`
 
 ![Screenshot 2022-12-16 134042](https://user-images.githubusercontent.com/117080369/208110962-0a9b49fa-8e61-4ad3-b1b3-3c069dde42d7.png)
 
-Once the VM has started, we can see that we are presented with a login screen but do not have the credentials.
+Once the virtual machine starts to boot, click inside virtual machine window and press `Shift` key repeatedly (it your virtual machine uses UEFI press the `Esc` key instead) until you see the `Grub menu` appears. 
 
-![Screenshot 2022-12-15 140057](https://user-images.githubusercontent.com/117080369/207880121-8d085c92-2b1f-4c36-8495-9b0dc3aa1fbe.png)
+From the boot menu, select `Advanced options for Ubuntu`
+
+![Screenshot 2022-12-20 084651](https://user-images.githubusercontent.com/117080369/208629234-32e6447e-e8b0-4dca-b7ce-e9e1703a95eb.png)
+
+Press `Enter` and select the `recovery mode` option, and press `Enter`
+
+![Screenshot 2022-12-20 084748](https://user-images.githubusercontent.com/117080369/208629662-60f0916a-7616-4ab3-b056-23ec83074d6e.png)
+
+Once the recovery mode loads, select `Drop to root shell prompt` from the menu, and press `Enter`
+
+![Screenshot 2022-12-20 085056](https://user-images.githubusercontent.com/117080369/208630025-fe68e26e-6d10-4b7f-9f13-3bd242db68c1.png)
+
+At the `Press Enter to maintenance` prompt press `Enter`
+
+![Screenshot 2022-12-20 085148](https://user-images.githubusercontent.com/117080369/208630583-984fa500-23b8-4584-b203-57f16665353a.png)
+
+Type `Clear` and press `Enter` to get rid of the garbage on screen.
+
+Type `mount -o rw,remount /` and press `Enter`
+
+![Screenshot 2022-12-20 085508](https://user-images.githubusercontent.com/117080369/208631319-2a7dd1b1-90fa-4a1e-985e-ad097fb80f67.png)
+
+We can get the username for the system now, type `ls /home` and press `Enter`
+
+![Screenshot 2022-12-20 085614](https://user-images.githubusercontent.com/117080369/208631896-5ecb6da2-efd8-4891-b755-abd4cd155974.png)
+
+Type `passwd zayed` and press `Enter`, enter a password and repeat.
+
+![Screenshot 2022-12-20 085701](https://user-images.githubusercontent.com/117080369/208632034-60c358b7-cfd2-4a63-9d96-47410706a9ef.png)
+
+We have now set a new password for user account `zayed`
+
+![Screenshot 2022-12-20 085751](https://user-images.githubusercontent.com/117080369/208632553-3c5ee019-4d5a-4f35-873a-24de894afd3c.png)
+
+Type `exit` and press `Enter`
+
+Select `resume` from the menu, and tab to  `OK`, press `Enter`
+
+![Screenshot 2022-12-20 085919](https://user-images.githubusercontent.com/117080369/208633200-aa3c2d5a-5c9c-4844-b0e3-bb8ad273f201.png)
+
+Press `Enter` at the exit recovery mode screen.
+
+![Screenshot 2022-12-20 085946](https://user-images.githubusercontent.com/117080369/208633368-979d87f0-1336-4a60-9fb7-d6397683e7ce.png)
+
+Once the VM has started, we can now login with `zayed` and the password we set.
+
+![Screenshot 2022-12-20 090034](https://user-images.githubusercontent.com/117080369/208633577-8bb14f0e-121f-494f-b21b-d2bbc59f926d.png)
+
+>
+>STEPS HERE
+>
 
 Remember there was an addintional file named `password-hint`, let's see what that gives us: 
 
@@ -291,6 +349,7 @@ Remember there was an addintional file named `password-hint`, let's see what tha
 
 Assumptions on what this could be can be made, however given I do not know what `the one I always use` is, we will generate our own password list.
 
+### Medthod 2:
 To generate a password list I am going to be using `Parrot OS` but any Linux distro (or MacOS) will do, although it can be done in Windows with PowerShell etc. it just isn't as user friendly.
 
 We will need to install the `rockyou.txt` password file for this, so if you don't have it go ahaead and run `sudo apt update && sudo apt install wordlists`
@@ -329,7 +388,7 @@ Now let's get stuck in and get access to this system. 👻
 
 We have a number of methods available to us to gain access to this VM.
 
-**Method 1 - Hydra:**
+**Method 2 - Hydra:**
 First we need the IP address of the target system.
 
 Run `netdiscover` to list active IP address on the subnet - change the subnet range in the command to suit your environment.
@@ -360,7 +419,7 @@ After a very short time Hydra gets a hit!
 
 ![Screenshot 2022-12-15 151908](https://user-images.githubusercontent.com/117080369/207898427-712cecb0-9c78-453e-9787-f13060811087.png)
 
-**Method 2 - Metasploit:**
+**Method 3 - Metasploit:**
 Launch `Metasploit` by running the command below.
 
 ```bash
@@ -408,7 +467,7 @@ After a very short time Metasploit gets a hit!
 
 ![Screenshot 2022-12-15 154308](https://user-images.githubusercontent.com/117080369/207904493-6719cafb-c219-4bc1-8f0d-6240cdd224bd.png)
 
-**Method 3 - Manual:**
+**Method 4 - Manual:**
 
 Make an assumption about the password and just try each combination manually until you maybe get lucky.
 
