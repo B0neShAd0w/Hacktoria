@@ -70,7 +70,7 @@ Next we will encode the story with the Vignere Cipher using a `KEY` and write it
 
 Next we will encode the Vigenere Cipher `KEY` with Base62 and write it to a file.
 
-![Screenshot 2022-12-20 161731](https://user-images.githubusercontent.com/117080369/208714424-42b221e7-136f-46f0-b900-3fdd72c4258f.png)
+![Screenshot 2022-12-20 163848](https://user-images.githubusercontent.com/117080369/208719027-a9bca26a-39a7-4c44-8390-97da366fa164.png)
 
 Now we have our `KEY` and `Story` file encoded we need to add them to a `ZIP` file and embed them in the `GIF`
 
@@ -95,4 +95,63 @@ Run the `GIF` in binwalk.
 ```bash
 binwalk TheArmyOfThe13Cyb3rM0nkey5.gif
 ```
+We can see `binwalk` shows us that there is a ZIP file embedded.
+
+![Screenshot 2022-12-20 163143](https://user-images.githubusercontent.com/117080369/208717611-d734837b-7065-4ab3-9dda-fbda01c37425.png)
+
+Next we will extract the ZIP file, run the following command.
+
+```bash
+binwalk -e TheArmyOfThe13Cyb3rM0nkey5.gif
+```
+Now we have the extracted files we can decode them.
+
+Decoding file `1` from `Base62` gives us:
+
+> This is important: nuwqLNgZGDkBplGDVOLt
+
+Decoding file `sopn-itptiestgtehpigls-u-tm-oehr` with `Vigenere Decode` using `nuwqLNgZGDkBplGDVOLt` as the `KEY` from file `1`gives us:
+
+```
+Meet me at the nearest Photo Sphere to avoid detection, I fear we are being closely monitored...
+Make sure you are not followed; this mission is too important to fail!
+
+Shopping List:
+------------------
+3 Hijabs
+3 Gauge Electrical Wire 
+Exactly .03 kilograms of used Coffee grounds
+6 AA Batteries
+
+40 Lbs of Plain Flour
+Exactly .283 meters of Duct Tape
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Once you have collected everything from the list put it together, as it will be required immediately for the next step.
+
+What 3 words can help us avoid detection?
+```
+
+What we need to complete the challenge:
+* 33.036
+* 40.283
+
+Put these together gives us `33.036,40.283` coordinates.
+
+Also: "Meet me at the nearest `Photo Sphere` to avoid detection" and "`What 3 words` can help us avoid detection?"
+
+If we put those coordinates into Google Maps and active `Street View` we get this: 
+
+![Screenshot 2022-12-20 164856](https://user-images.githubusercontent.com/117080369/208721653-2fa75801-533f-4d42-adef-a7facc063823.png)
+
+All that we need to do now is drop our golden "Peg Person" in the `Photo Sphere` and grab the coordinates.
+
+![Screenshot 2022-12-20 165330](https://user-images.githubusercontent.com/117080369/208722227-6cd6f60f-7fd5-4bb5-a6d9-f39dc0227a93.png)
+
+Paste the coordinates into what3words to get the answer.
+
+![Screenshot 2022-12-20 165538](https://user-images.githubusercontent.com/117080369/208722623-965dcafc-f80c-4ccb-8ccb-753e5cae80d7.png)
+
+> __Note__ I have since noticed that it is possible to get different results from what3words, using a VPN or a browser that is hardened seems to cause the results to be out. worth remembering.
 
