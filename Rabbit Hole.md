@@ -283,7 +283,7 @@ At this point there are multiple ways to gain access to the VM, I am going to ou
 3. Brute-forcing with `Metasploit`
 4. Manual `social engineering` educated guessing
 
-**Method 1 - Recovery Mode:**
+#### Method 1:
 
 Click `Start`
 
@@ -347,7 +347,7 @@ Remember there was an additional file named `password-hint`, let's see what that
 
 Assumptions on what this could be can be made, however given I do not know what `the one I always use` is, we will generate our own password list.
 
-### Medthod 2:
+#### Medthod 2:
 To generate a password list I am going to be using `Parrot OS` but any Linux distro (or MacOS) will do, although it can be done in Windows with PowerShell etc. it just isn't as user friendly.
 
 We will need to install the `rockyou.txt` password file for this, so if you don't have it go ahaead and run `sudo apt update && sudo apt install wordlists`
@@ -417,7 +417,8 @@ After a very short time Hydra gets a hit!
 
 ![Screenshot 2022-12-15 151908](https://user-images.githubusercontent.com/117080369/207898427-712cecb0-9c78-453e-9787-f13060811087.png)
 
-**Method 3 - Metasploit:**
+#### Method 3:
+
 > __Note__ We will be using the same password and user lists that we created in the previous method.
 
 Launch `Metasploit` by running the command below.
@@ -467,7 +468,7 @@ After a very short time Metasploit gets a hit!
 
 ![Screenshot 2022-12-15 154308](https://user-images.githubusercontent.com/117080369/207904493-6719cafb-c219-4bc1-8f0d-6240cdd224bd.png)
 
-**Method 4 - Manual:**
+#### Method 4:
 
 Make an assumption about the password and just try each combination manually until you maybe get lucky.
 
@@ -483,7 +484,7 @@ Now we need to have a snoop around for any nuggets of information.
 
 Let's have a poke around the user's home directory, showing hidden files etc.
 
-Various options are available to us here, I am going to show 2.
+> __Note__ Various options are available to us here, I am going to show 2 of them.
 
 **Method 1 - Review Bash History:**
 ```bash
