@@ -52,7 +52,7 @@ Once you have collected everything from the list put it together, as it will be 
 What 3 words can help us avoid detection?
 ```
 
-1. nearest `Photo Sphere`
+1. Nearest `Photo Sphere`
 2. `3` Hijabs
 3. `3` Gauhge Electrical Wire
 4. Exactly `.03` kilograms of used Coffee grounds
@@ -88,7 +88,7 @@ copy /b image.gif + 1.zip haha.gif
 
 That is it, the challenge to prepared, only thing left to do it test it.
 
-### Steps to solve:
+### Steps to solve::
 
 Run the `GIF` in binwalk.
 
@@ -155,3 +155,4 @@ Paste the coordinates into what3words to get the answer.
 
 > __Note__ I have since noticed that it is possible to get different results from what3words, using a VPN or a browser that is hardened seems to cause the results to be out. worth remembering.
 
+BoΠeShΔdϴw³
