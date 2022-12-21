@@ -1,6 +1,6 @@
 ## 24/7 Community Driven Challenges - only on the Discord Server.
 
-## Challenge: ThƩ Δrmɏ ϴf thƩ 13 Cyβer MoΠkƩys
+### **$\textcolor{Rhodamine}{Challenge: ThƩ \ Δrmɏ \ ϴf \ thƩ \ 13 \ Cyβer \ MoΠkƩys}$**
 
 ![TheArmyOfThe13Cyb3rM0nkey5](https://user-images.githubusercontent.com/117080369/208705547-1d23bbfd-256f-4053-a179-fb44974ad29c.gif)
 
@@ -86,7 +86,7 @@ copy /b image.gif + 1.zip TheArmyOfThe13Cyb3rM0nkey5.gif
 
 That is it, the challenge to prepared, the only thing left to do it test it.
 
-### Steps to solve::
+### **$\textcolor{Rhodamine}{Steps \ to \ Solve:}$**
 
 Run the `GIF` in binwalk.
 
