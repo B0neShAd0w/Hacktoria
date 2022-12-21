@@ -143,7 +143,7 @@ If we put those coordinates into Google Maps and activate `Street View` we get t
 
 ![Screenshot 2022-12-20 164856](https://user-images.githubusercontent.com/117080369/208721653-2fa75801-533f-4d42-adef-a7facc063823.png)
 
-All that we need to do now is drop our golden "Peg Person" onto the `Photo Sphere` and grab the coordinates.
+All that we need to do now is drop our "Pegman" onto the `Photo Sphere` and grab the coordinates.
 
 ![Screenshot 2022-12-20 165330](https://user-images.githubusercontent.com/117080369/208722227-6cd6f60f-7fd5-4bb5-a6d9-f39dc0227a93.png)
 
