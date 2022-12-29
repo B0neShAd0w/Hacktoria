@@ -46,6 +46,42 @@ Sample password: chile-bananacity-street-la-plaza
 ---
 
 ### Methodology:
+This contract ended up being more of a "brute-force" methodology.
+
+If we examine the supplied image for data points, we do find some points that could be of use to us.
+* A boat pier/jetty
+* Boat yard
+* Orchards/Groves
+* Sand banks, possibly tidal (coastal)
+
+![image](https://user-images.githubusercontent.com/117080369/209979956-f751cfd7-beda-41d7-bcdd-92e192121ca9.png)
+
+Assuming the creator of the contract doesn't have a twisted mind we can make assumption the we are looking for an area on a Western shoreline (caveat, if this proves to be fruitless we can expand our directional search).
+
+There is a key piece of information in the briefing.
+* Mostly `towards` Spain and France
+
+So let's narrow out search to the Western areas of Spain and France, the reason I choose to start with Spain and France was due to the wording in the briefing, `towards` Spain and France, this rules out a lot of other area's as they are either above, below or past!
+
+![200w](https://user-images.githubusercontent.com/117080369/209984186-50c0bf7c-685b-41f1-b172-41b86829bca7.gif)
+
+After a quick Google search for information on Western Spain we find that the main search area is now narrowed to `Galicia` in the Northwest of Spain.
+
+Using the above data points from the image we can run queries in `Overpass Turbo` to try and assist with narrowing our search further, after sifting through multiple query outputs and importing them into `Google Earth` and viewing each and every result this unfortunately proves to be a huge waste of time and effort...
+
+![5a4bdc48-0552-4f9d-8ea6-b348d3be5363_text](https://user-images.githubusercontent.com/117080369/209981562-37d34b94-2050-4b1b-9e5a-8be80a8b9c17.gif)
+
+Remember I mentioned this was a "brute force" methodology contract? well now you can see why...
+
+Time to get out hiking boots on and starting walking the coastline until we find an area that looks promising.
+
+After considerable time we stumble onto an area that could look like a good match.
+
+![Screenshot 2022-12-29 153825](https://user-images.githubusercontent.com/117080369/209983481-6c0190ca-a742-4576-945f-b40de568d24a.png)
+
+Dropping our Street View "Pegman" in for a quick recon we can get all the information needed for the flagfile password. 
+
+![Screenshot 2022-12-29 154043](https://user-images.githubusercontent.com/117080369/209983717-77913f0e-311f-4fc2-8829-1bd768427bbb.png)
 
 Extract the `flagfile-florida-snow.zip` with the password from the information gained above to get your contract card.
 
