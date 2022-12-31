@@ -36,7 +36,6 @@ There was one file however, that the Oman authorities were not able to convert t
 As always, Special Agent K. The contract is yours, if you choose to accept.
 
 $~$
-
 ---
 
 ![Materials and Answer](https://user-images.githubusercontent.com/117080369/210138214-f98a7976-84b2-4f2e-aa30-fd0b6f923cf8.svg)
