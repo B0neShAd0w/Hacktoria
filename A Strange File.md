@@ -33,7 +33,7 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 
 ---
 
-![Answer](https://user-images.githubusercontent.com/117080369/210137141-25b64a9d-558a-451e-83ef-5796cedb3527.svg)
+![Materials and Answer](https://user-images.githubusercontent.com/117080369/210138214-f98a7976-84b2-4f2e-aa30-fd0b6f923cf8.svg)
 For this contract you will need to use the website https://what3words.com/
 
 The password to open the flagfile consists of (lowercase letters):
@@ -43,6 +43,10 @@ country-district-city-areadialcode-what-three-words-business-type
 Sample password:
 
 italy-veneto-verona-045-hot-pasta-sauce-paper-mill
+
+<a href="https://hacktoria.com/wp-content/contracts/items/strange-file.zip">Download the Strange File</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-a-strange-file.zip">Download Flagfile</a>
 
 ---
 
