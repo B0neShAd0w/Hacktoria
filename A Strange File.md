@@ -1,11 +1,11 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
 # Contract: A Strange File
 ![a_strange_file_cover-600x600](https://user-images.githubusercontent.com/117080369/205494097-10a3e43c-4cba-4ff4-acf8-6226be5ed82e.png)
 
 #### Difficulty: Insane
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+### $\textcolor{Rhodamine}{PROLOGUE:}$
 It was a quiet night in the city of Muscat, Oman, when a team of police officers received an anonymous tip about a group of hackers operating out of an apartment building in the downtown area.
 
 The officers quickly mobilized, gathering their equipment and heading to the location in a fleet of patrol cars. As they arrived at the building, they saw that the lights were on in one of the upper-floor apartments.
@@ -16,7 +16,7 @@ The hackers were taken by surprise, and they quickly raised their hands in surre
 
 As the suspects were taken away in handcuffs, the officers searched the apartment and discovered a wealth of evidence pointing to a widespread hacking operation. It was clear that these young men had been involved in a number of high-profile cybercrimes, and they were relieved to have finally brought them to justice.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+### $\textcolor{Rhodamine}{BRIEFING:}$
 Greetings Special Agent K. During a raid of our allies in the country of Oman, several computers and server equipment were confiscated.
 
 The authorities of Oman spent the past week analyzing the data that resides on this hardware. However, they were not able to make sense of all the data.
@@ -31,6 +31,8 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 
 ---
 
+### $\textcolor{Rhodamine}{ANSWER\ INSTRUCTION:}$
+
 For this contract you will need to use the website https://what3words.com/
 
 The password to open the flagfile consists of (lowercase letters):
@@ -43,7 +45,8 @@ italy-veneto-verona-045-hot-pasta-sauce-paper-mill
 
 ---
 
-### Methodology:
+### $\textcolor{Rhodamine}{METHODOLOGY:}$
+
 The first step is to pull out information from the Mission Briefing that we feel is of importance.
 * Oman authorities
 * There was one file however, that the Oman authorities were not able to convert to text
@@ -331,6 +334,5 @@ Let's build up our password:
 * business-type: car-wash
 
 Extract the `flagfile-a-strange-file.zip` with the password from the information gained above to get your contract card.
-
 
 BoΠeShΔdϴw³
