@@ -336,3 +336,4 @@ Let's build up our password:
 Extract the `flagfile-a-strange-file.zip` with the password from the information gained above to get your contract card.
 
 BoΠeShΔdϴw³
+
