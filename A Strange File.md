@@ -5,7 +5,9 @@
 
 #### Difficulty: Insane
 
-### $\textcolor{Rhodamine}{PROLOGUE:}$
+---
+
+![Prologue](https://user-images.githubusercontent.com/117080369/210137127-877899e2-08af-4aa4-8aad-74e0580c1c6a.svg)
 It was a quiet night in the city of Muscat, Oman, when a team of police officers received an anonymous tip about a group of hackers operating out of an apartment building in the downtown area.
 
 The officers quickly mobilized, gathering their equipment and heading to the location in a fleet of patrol cars. As they arrived at the building, they saw that the lights were on in one of the upper-floor apartments.
@@ -16,7 +18,7 @@ The hackers were taken by surprise, and they quickly raised their hands in surre
 
 As the suspects were taken away in handcuffs, the officers searched the apartment and discovered a wealth of evidence pointing to a widespread hacking operation. It was clear that these young men had been involved in a number of high-profile cybercrimes, and they were relieved to have finally brought them to justice.
 
-### $\textcolor{Rhodamine}{BRIEFING:}$
+![Briefing](https://user-images.githubusercontent.com/117080369/210137133-d7be2766-ce5d-4f93-a141-156f4c40c82f.svg)
 Greetings Special Agent K. During a raid of our allies in the country of Oman, several computers and server equipment were confiscated.
 
 The authorities of Oman spent the past week analyzing the data that resides on this hardware. However, they were not able to make sense of all the data.
@@ -31,8 +33,7 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 
 ---
 
-### $\textcolor{Rhodamine}{ANSWER\ INSTRUCTION:}$
-
+![Answer](https://user-images.githubusercontent.com/117080369/210137141-25b64a9d-558a-451e-83ef-5796cedb3527.svg)
 For this contract you will need to use the website https://what3words.com/
 
 The password to open the flagfile consists of (lowercase letters):
@@ -45,8 +46,7 @@ italy-veneto-verona-045-hot-pasta-sauce-paper-mill
 
 ---
 
-### $\textcolor{Rhodamine}{METHODOLOGY:}$
-
+![Methodology](https://user-images.githubusercontent.com/117080369/210137146-2f1f7abe-be75-400d-b4bc-4a1732eeea51.svg)
 The first step is to pull out information from the Mission Briefing that we feel is of importance.
 * Oman authorities
 * There was one file however, that the Oman authorities were not able to convert to text
