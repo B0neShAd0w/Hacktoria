@@ -3,8 +3,10 @@
 # Contract: A Strange File
 ![a_strange_file_cover-600x600](https://user-images.githubusercontent.com/117080369/205494097-10a3e43c-4cba-4ff4-acf8-6226be5ed82e.png)
 
-#### Difficulty: Insane
+![Difficulty](https://user-images.githubusercontent.com/117080369/210139276-d08b4145-fcd6-499e-aafa-af3a4566fd5c.svg)
+${\color{gray}EASY\ |\ MEDIUM\ |\ HARD\ |\ \color{white}INSANE}$
 
+$~$
 ---
 
 ![Prologue](https://user-images.githubusercontent.com/117080369/210137127-877899e2-08af-4aa4-8aad-74e0580c1c6a.svg)
@@ -18,6 +20,8 @@ The hackers were taken by surprise, and they quickly raised their hands in surre
 
 As the suspects were taken away in handcuffs, the officers searched the apartment and discovered a wealth of evidence pointing to a widespread hacking operation. It was clear that these young men had been involved in a number of high-profile cybercrimes, and they were relieved to have finally brought them to justice.
 
+$~$
+
 ![Briefing](https://user-images.githubusercontent.com/117080369/210137133-d7be2766-ce5d-4f93-a141-156f4c40c82f.svg)
 Greetings Special Agent K. During a raid of our allies in the country of Oman, several computers and server equipment were confiscated.
 
@@ -30,6 +34,8 @@ A little more information about this file. It was found in a folder named “mee
 There was one file however, that the Oman authorities were not able to convert to text. This is the file you find below. Please make sense of it and report your findings Special Agent.
 
 As always, Special Agent K. The contract is yours, if you choose to accept.
+
+$~$
 
 ---
 
@@ -47,6 +53,8 @@ italy-veneto-verona-045-hot-pasta-sauce-paper-mill
 <a href="https://hacktoria.com/wp-content/contracts/items/strange-file.zip">Download the Strange File</a>
 
 <a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-a-strange-file.zip">Download Flagfile</a>
+
+$~$
 
 ---
 
@@ -338,6 +346,8 @@ Let's build up our password:
 * business-type: car-wash
 
 Extract the `flagfile-a-strange-file.zip` with the password from the information gained above to get your contract card.
+
+$~$
 
 BoΠeShΔdϴw³
 
