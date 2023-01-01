@@ -4,7 +4,7 @@
 ![a_strange_file_cover-600x600](https://user-images.githubusercontent.com/117080369/205494097-10a3e43c-4cba-4ff4-acf8-6226be5ed82e.png)
 
 ### $\color{magenta}{DIFFICULTY}$
-${\color{gray}EASY\ |\ MEDIUM\ |\ HARD\ |\ \color{white}INSANE}$
+${\color{gray}EASY\ |\ MEDIUM\ |\ HARD\ |\ \color{lime}INSANE}$
 
 $~$
 ---
@@ -348,5 +348,4 @@ Extract the `flagfile-a-strange-file.zip` with the password from the information
 
 $~$
 
-BoΠeShΔdϴw³
-
+📌 BoΠeShΔdϴw³
