@@ -1,15 +1,15 @@
 ![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: A Strange File
+# A Strange File
 ![a_strange_file_cover-600x600](https://user-images.githubusercontent.com/117080369/205494097-10a3e43c-4cba-4ff4-acf8-6226be5ed82e.png)
 
-![Difficulty](https://user-images.githubusercontent.com/117080369/210139276-d08b4145-fcd6-499e-aafa-af3a4566fd5c.svg)
+### $\color{magenta}{DIFFICULTY}$
 ${\color{gray}EASY\ |\ MEDIUM\ |\ HARD\ |\ \color{white}INSANE}$
 
 $~$
 ---
 
-![Prologue](https://user-images.githubusercontent.com/117080369/210137127-877899e2-08af-4aa4-8aad-74e0580c1c6a.svg)
+### $\color{magenta}{PROLOGUE}$
 It was a quiet night in the city of Muscat, Oman, when a team of police officers received an anonymous tip about a group of hackers operating out of an apartment building in the downtown area.
 
 The officers quickly mobilized, gathering their equipment and heading to the location in a fleet of patrol cars. As they arrived at the building, they saw that the lights were on in one of the upper-floor apartments.
@@ -22,7 +22,7 @@ As the suspects were taken away in handcuffs, the officers searched the apartmen
 
 $~$
 
-![Briefing](https://user-images.githubusercontent.com/117080369/210137133-d7be2766-ce5d-4f93-a141-156f4c40c82f.svg)
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. During a raid of our allies in the country of Oman, several computers and server equipment were confiscated.
 
 The authorities of Oman spent the past week analyzing the data that resides on this hardware. However, they were not able to make sense of all the data.
@@ -38,7 +38,7 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 $~$
 ---
 
-![Materials and Answer](https://user-images.githubusercontent.com/117080369/210138214-f98a7976-84b2-4f2e-aa30-fd0b6f923cf8.svg)
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 For this contract you will need to use the website https://what3words.com/
 
 The password to open the flagfile consists of (lowercase letters):
@@ -57,7 +57,7 @@ $~$
 
 ---
 
-![Methodology](https://user-images.githubusercontent.com/117080369/210137146-2f1f7abe-be75-400d-b4bc-4a1732eeea51.svg)
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out information from the Mission Briefing that we feel is of importance.
 * Oman authorities
 * There was one file however, that the Oman authorities were not able to convert to text
