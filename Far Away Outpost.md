@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Far Away Outpost
+# Far Away Outpost
 ![far-away-outpost-cover-600x600](https://user-images.githubusercontent.com/117080369/204478206-d9583b8b-4ddb-46cd-9528-6d54e72b47f4.png)
 
-#### Difficulty: Hard
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\color{white}\ HARD\ \color{gray}|\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 It was a hot and humid day in the Kenyan forest, and the team of forest rangers were on high alert. They had received a tip that a man named Zayed was attempting to smuggle illegal zebra hides out of the country, and they were determined to catch him in the act.
 
 As they patrolled the winding dirt roads, they spotted a Rangerover coming towards them. It was driven by a man who looked a lot like the one in the photo they had been given.
@@ -18,7 +22,9 @@ The man hesitated for a moment, and then slowly climbed out of the car. As he di
 
 Zayed was arrested on the spot and taken back to the ranger station, where he was booked and charged with illegal wildlife smuggling.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. I hope you’re in the mood for hunting down some poachers. We have a contract from the Kenyan government to track down an animal smuggling and poaching operation.
 
 This group uses various humanitarian organizations as fronts for their poaching operations. Often pretending to be building civilian infrastructure to obscure their activities.
@@ -31,9 +37,22 @@ You’ll find the information we have below. Your mission is simple, find the lo
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-far-away-outpost.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/09/far-away-outpost-1.jpg">Download Image One Full Size</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/09/far-away-outpost-2.jpg">Download Image Two Full Size</a>
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * Kenyan government
 * uses various humanitarian organizations as fronts for their poaching operations
@@ -98,5 +117,6 @@ Switching back to overpass turbo and zooming in, we are able to gather the requi
 
 Extract the `flagfile-far-away-outpost.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
