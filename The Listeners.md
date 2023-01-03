@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: The Listeners
+# The Listeners
 ![the-listeners-cover-image-600x600](https://user-images.githubusercontent.com/117080369/204564489-03244eb9-d8b4-4931-ad2f-487bac1f344a.png)
 
-#### Difficulty: Hard
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\color{white}\ HARD\ \color{gray}|\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Jaque was in the middle of a meeting at his office when he received a phone call that would change his life forever.
 
 The caller, a man with a rough voice, informed Jaque that his boat had been attacked while sailing off the coast of Spain. Jaque’s wife and daughter, who had been on board the yacht at the time, were nowhere to be found.
@@ -18,7 +22,9 @@ Days turned into weeks, and still there was no sign of Jaque’s wife and daught
 
 Finally, after nearly a month of searching, Jaque received the news he had been praying for. His wife and daughter had been found, alive and well, on a small island off the coast of Africa. They had been rescued by a group of fishermen and were now safe and sound.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Good day Special Agent K, glad you could make it. One of our oldest clients, a wealthy French businessman, is requesting we find a location where a conversation between two of his rivals will take place. These two have been after our clients’ fortune for a long time, endlessly scheming to end his business endeavors. After their recent attempt to sink one of our clients’ boats off the coast of Spain, while his wife and daughter were on board, our client has had enough.
 
 The plan is to uncover the location of their meeting and have one of our Field Agents plant a listening device. This will record the meeting and lead to the valuable information our client is looking for. Using this information our client plans to take down the businesses of both rivals.
@@ -31,9 +37,25 @@ Using this information and the intercepted image below, it is your task to figur
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+Use your findings to generate the password that will unlock the “flagfile”, which in turn leads to your Contract Card.
+
+The pattern will be as follows (make sure to add a dash between every word).:
+
+country-zipcode-fullstreet-name-number
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-the-listeners.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/08/the-listeners.jpg">Download Full Size Image</a>
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * French businessman
 * off the coast of Spain
@@ -106,5 +128,6 @@ With the information gathered above, let's compose the password.
 
 Extract the `flagfile-the-listeners.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
