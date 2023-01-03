@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Intergalactic Warfare
+# Intergalactic Warfare
 ![intergalactic-warfare-cover-600x600](https://user-images.githubusercontent.com/117080369/203950191-7a0edc81-a1d6-49c6-bd49-6415a94cb23a.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 The Krohndahkyr were an advanced alien species, known throughout the galaxy for their intelligence and technological prowess. As they sat in their spaceship control room, they were focused on one goal: infiltrating human society and taking over planet Earth.
 
 The Krohndahkyr had been studying Earth for years, learning about the various cultures and customs of its inhabitants. They had even gone so far as to create disguises and false identities, so that they could blend in seamlessly with the human population.
@@ -16,8 +20,9 @@ As they made their way towards the planet, the Krohndahkyr couldn’t help but f
 
 As they landed on Earth and made their way into human society, the Krohndahkyr were careful to keep their true identities hidden. They knew that they couldn’t afford to let their guard down, and they had to be constantly on the lookout for any sign of suspicion.
 
+$~$
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+### $\color{magenta}{BRIEFING}$
 Special Agent K. We have a serious matter on hand today. Klumgongyn has alerted us to the presence of an invasive alien species. Going by the name Krohndahkyr, these creatures are the stuff of nightmares. They lurk in the dark, staying motionless for days or stalking their prey using very heightened senses. Climbing, swimming and making vast leaps as they silently move through the dark.
 
 The Krohndahkyr have the ability to regulate their temperature to the point they become invisible to thermal imaging. Using their many arms and spiked tentacles, they have the ability to rip a human to shreds in seconds.
@@ -34,17 +39,23 @@ In the meantime, Klumgongyn is coordinating with the KSP Kerabella, deploying se
 
 As always, Special Agent K. The contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 Construct the password using the coordinates of the red-cross on the map and the following format, small letters (sample):
 
 country-state-county-161.2570-12.7212
 
 (note, the amount of numbers in front of the dots might vary from the example depending on location).
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-intergalactic-warfare.zip">Download Flagfile</a>
  
- ---
- 
-### Methodology:
+ $~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * near McKenzie National Park in Oregon
 * headed in southern direction
@@ -76,5 +87,6 @@ Let's get the coordinates.
 
 Extract the `flagfile-intergalactic-warfare.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
