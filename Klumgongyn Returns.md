@@ -41,7 +41,6 @@ $~$
 ---
 
 ### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
-[TEXT HERE]
 
 <a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-klumgongyn-returns.zip">Download Flagfile</a>
 
