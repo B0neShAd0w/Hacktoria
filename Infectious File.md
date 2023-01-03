@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Infectious File
+# Infectious File
 ![cover-infesctious-file-600x600](https://user-images.githubusercontent.com/117080369/208292208-429b0b61-b4ec-4033-a6e3-10c53017ec04.png)
 
-#### Difficulty: Medium
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
 
-### $\textcolor{Rhodamine}{Prologue:}$
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Jamal sat in the dimly lit basement of his parents’ house, hunched over his computer. He was a hacker, and he was writing some of the most advanced malware the world had ever seen.
 
 He had always been fascinated by computers and technology, and had spent years learning everything he could about hacking and coding. And now, finally, he was putting all of that knowledge to use.
@@ -26,7 +30,9 @@ Jamal couldn’t help but feel a sense of pride and accomplishment. He had done 
 
 From that day on, Jamal continued to work for the Shadow Syndicate, using his skills and knowledge to help them achieve their goals. And though he knew that it was dangerous work, he couldn’t help but feel a sense of excitement and purpose. This was where he belonged, and he knew that he would always be remembered as one of the greatest hackers of all time.
 
-### $\textcolor{Rhodamine}{Briefing:}$
+$~$
+
+### $\color{magenta}{BRIEFING}$
 
 Greetings Special Agent K. We have received intelligence that a hacker group known as the Shadow Syndicate has been developing very advanced malware. This group has been responsible for a number of high-profile cyber attacks in the past, and we believe they are planning to launch another one soon.
 
@@ -40,13 +46,23 @@ Pay extra attention on this one, as you are working with a live malware sample.
 
 As always, Special Agent K. The Contract is yours, if you choose to accept.
 
+$~$
 ---
 
-> __Warning__ The “infectious file” is a REAL MALWARE SAMPLE. Download at your own risk. Advice to use a Virtual Machine for interacting with the file. Hacktoria is not responsible for any consequences of your own actions.
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+[TEXT HERE]
+
+<a href="https://hacktoria.com/wp-content/contracts/items/infectious-file.zip">Download the Infectious File</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-infectious-file.zip">Download Flagfile</a>
+
+> __Warning__ The “Infectious file” is a REAL MALWARE SAMPLE. Download at your own risk. Advice to use a Virtual Machine for interacting with the file. Hacktoria is not responsible for any consequences of your own actions.
+
+$~$
 
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 First thing I will be doing is creating a `Sandbox VM` for this contract, to be honest I do not want to be playing around with live Malware samples (bad experience from days gone by - however that is another story!).
 
 > __Note__ Due to the dangers associated with this I will be breaking away from the norm and doing this entirely isolated within the VM, with no network access.
@@ -159,5 +175,6 @@ Read through the very long output and look for anything that really stands out, 
 
 Extract the `flagfile-infectious-file.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
