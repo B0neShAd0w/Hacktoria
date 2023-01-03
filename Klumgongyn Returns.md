@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Klumgongyn Returns
+# Klumgongyn Returns
 ![klumgongyn-returns-cover-600x600](https://user-images.githubusercontent.com/117080369/204011746-576f7582-5cc2-44cd-8352-0f619c5a5e43.png)
 
-#### Difficulty: Medium
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Klumgongyn sat on the edge of his bed, staring at his girlfriend with a mixture of excitement and anxiety. They had been together for a long time, and he knew that he loved her more than anything in the universe.
 
 But now, he had to make a decision that would change their lives forever.
@@ -22,7 +26,9 @@ Klumgongyn nodded. “I know it’s a big change, but I think it’s worth it. W
 
 His girlfriend considered this for a moment, then slowly nodded. “I trust you, Klumgongyn,” she said. “If you think it’s the right thing to do, then let’s do it. We’ll make a new life together on Earth.”
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. We have a very special assignment for you today. You might remember our old friend Klumgongyn. He’s recently turned up again and will be cooperating with us going forward. In what capacity that collaboration is, I cannot say right now.
 
 All I can tell you, that below you’ll find a text written in ancient Klumgon. It’s up to you to translate the text, which will help you uncover the password for your flagfile as well.
@@ -31,11 +37,23 @@ Everything else will become clear upon translating the text.
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
-![image](https://user-images.githubusercontent.com/117080369/204021634-fc0a10b3-5561-413a-9040-0f94d6d1fc02.png)
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+[TEXT HERE]
 
-### Methodology:
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-klumgongyn-returns.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/09/message-klumgongyn.png">Download Full size Image</a>
+
+![message-klumgongyn-600x600](https://user-images.githubusercontent.com/117080369/210348388-f842984a-0538-47d9-8aa3-2b0d101717e3.png)
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 The first step is to try and identify some low hanging fruit.
 * The most obvious characters are the a `dot` or `comma` or `apostrophe`
 * Three letter words with an `apostrophe` are most likely to be `It's` or `I've`
@@ -147,5 +165,6 @@ j!fqw'eu!itn!vx,cm'qw!re'ir,jl!d
 
 Extract the `flagfile-klumgongyn-returns.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
