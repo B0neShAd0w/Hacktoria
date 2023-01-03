@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Chasing Bigfoot
+# Chasing Bigfoot
 ![chasing-bigfoot-cover-600x600](https://user-images.githubusercontent.com/117080369/204265139-b78cd013-65c1-4cb4-9e01-79b484ddaaae.png)
 
-#### Difficulty: Hard
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\ \color{white}HARD\ \ \color{gray}|\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 It was a cold and foggy night as Sergeant John drove down the winding forest road. He had been on a long patrol and was looking forward to finally reaching the midnight diner, where he could get a hot meal and some much-needed rest.
 
 As he drove, John couldn’t shake the feeling that he was being watched. He kept glancing in his rearview mirror, but all he could see was the thick fog that seemed to follow him wherever he went.
@@ -20,7 +24,9 @@ John watched it go, a mixture of fear and wonder running through his veins. He k
 
 With a shaking hand, he climbed back into the car and continued on his way to the diner. As he pulled into the parking lot, he couldn’t help but wonder what other strange and mysterious creatures he might encounter on his patrols in the future.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. After starting our collaboration with Klumgongyn and his species, a lot of the earth’s mysteries have started to clear up. Not being able to share these with the rest of the world but, suffice to say, a lot of sci-fi movies aren’t that far off from reality.
 
 One of such interesting topics is the existence of Bigfoot, or Sasquatch as it the more formal term. These creatures roam the interiors of the American heartland and reach far up north. For several decades, people have had run-ins and sightings with these creatures.
@@ -39,11 +45,26 @@ So, I leave you with your assignment. Find the article where this particular sol
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+
+The password to unlock your flagfile is the full URL for the article.
+
+Example password:
+
+https://www.mynicewebsite555.it/my-nice-article.html
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-chasing-bigfoot.zip">Download Flagfile</a>
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 *First things first, this contract had me really frustrated for quite a while, as I didn't seem to be getting anywhere, just loads and loads of garbage web pages.*
 
-### Methodology:
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * During the 1970’s
 * Sasquatch
@@ -75,4 +96,6 @@ Make a note of the URL to extract the flagfile: `https://www.thecryptocrew.com/2
 
 Extract the `flagfile-chasing-bigfoot.zip` with the password from the information gained above to get your contract card.
 
-BoΠeShΔdϴw³
+$~$
+
+📌 BoΠeShΔdϴw³
