@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552138-61a92b48-c7b5-473e-9a58-c09ccb2dcef1.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: The Killer Clown
+# The Killer Clown
 ![the-killer-clown-cover-600x600](https://user-images.githubusercontent.com/117080369/203552615-167c8b70-28e8-4923-8b0c-b3a382e161e4.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 It was a dark and stormy night, and the only sound that could be heard in the park was the soft pattering of rain on the leaves. But among the bushes, there was something else lurking, something sinister and malevolent.
 
 It was a killer clown, with a painted face and razor-sharp teeth. He had been hiding in the bushes for hours, waiting and observing the joggers as they passed by.
@@ -18,7 +22,9 @@ The killer clown sprang from the bushes, his sharp claws glinting in the moonlig
 
 As the body lay at his feet, the killer clown cackled maniacally, relishing in the power and control he had over life and death. Next, came the most sinister part of his plan…
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings, Special Agent K. We have a very urgent case on our hands. The San Francisco Police Department is working on a true horror case this October. There is an actual killer clown roaming the `streets of the greater San Francisco area.`
 
 The killer is dressed as a clown and strikes at night, mostly targeting women and younger men. The victims are drugged and bound tightly with a long rope, stretching all the way around the body. After this, the killer attaches an oxygen tank to the victim and puts them inside a coffin sized box. Making it impossible to move, but just enough to breathe slowly.
@@ -31,9 +37,23 @@ Given the circumstances, we have no time to waste. Your assignment is simple, fi
 
 Special Agent K. The contract is yours, if you choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+Construct the password for the flagfile, using the name of the location and pathway where the victim is buried.
+
+Sample password, no caps: local-park-name-dirty-mud-path
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-the-killer-clown.zip">Download Flagfile</a>
+
+![the-killer-clown-body-location](https://user-images.githubusercontent.com/117080369/210356778-b28f4313-6e29-4a47-ad27-73f314378b11.jpg)
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * streets of the greater San Francisco area
 * from Northwest Berkeley
@@ -72,5 +92,6 @@ We now have all the imformation needed to create the password for the link file.
 
 Extract the `flagfile-the-killer-clown.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
