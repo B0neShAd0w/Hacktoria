@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Gas Attack
+# Gas Attack
 ![cover-gas-attack-600x600](https://user-images.githubusercontent.com/117080369/208049273-1cc9d3e2-2fea-474a-acae-d924025b54c6.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Louis sat in his basement, surrounded by pipes and chemicals. He was a man on a mission, determined to create a neurotoxic gas-bomb.
 
 He had been researching and gathering materials for months, and now it was finally time to put all of his hard work to the test. He carefully measured out the chemicals and mixed them together, following the instructions he had found online.
@@ -18,7 +22,9 @@ He knew that he had to be careful from here on out. He had to get the bomb to it
 
 As he left the house, Louis couldn’t help but feel a sense of pride and accomplishment. He had done something that few others would have the courage to do. And he knew that, no matter what happened, he would always be remembered for this moment.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings, Special Agent K. We have an urgent and very grim scenario on our hands. About 20 minutes ago, we received word from one of our red teams, that they’ve uncovered plans on the dark-web to test a new neuro-toxic gas on an undisclosed city.
 
 The group’s name has not yet been uncovered, but is believed to operate decentralized online, sharing the same ideal in the radical right spheres. Over the past months, we’ve observed talks and discussions, glorification of and finally concrete plans to build a dirty bomb.
@@ -33,13 +39,21 @@ Your task is to locate the city in the image below.
 
 As always, Special Agent K. The contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 Password sample for flagfile: country-city
 
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-gas-attack.zip">Download the Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/12/gas-attack.jpg">Download Full Size Image</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 A quick `Google Reverse Image search` gives us the answer straight away.
 
 ![Screenshot 2022-12-16 072750](https://user-images.githubusercontent.com/117080369/208049852-e58eed89-f383-424b-9d42-0838610babc5.png)
@@ -62,5 +76,6 @@ Confirm findings match that of the supplied image.
 
 Extract the `flagfile-gas-attack.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
