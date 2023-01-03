@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Dialogues from Atlantis
+# Dialogues from Atlantis
 ![dialogues-from-atlantis-cover-600x600](https://user-images.githubusercontent.com/117080369/203964216-1717baa0-b94f-4494-b535-aeb3cc2fa1fc.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Eveline was a researcher who was completely obsessed with the ancient city of Atlantis. She had dedicated her entire career to searching for any information or clues that might lead to the discovery of this long-lost civilization.
 
 One day, as she sat in her office pouring over old texts and documents, Eveline came across a piece of evidence that she believed could be the key to unlocking the mystery of Atlantis. It was a small, intricately carved stone tablet that had been discovered in an ancient ruin in Greece.
@@ -16,7 +20,9 @@ Despite her best efforts, however, Eveline was unable to make any sense of the t
 
 As the weeks turned into months, Eveline began to lose hope. She was exhausted and drained, and she feared that she would never be able to solve the mystery of Atlantis. It was at this point that Eveline knew she had to call in help.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings, Special Agent K. One of our clients, a wealthy art collector from Monaco, is requesting we help her find a recorded dialogue between Critias, Hermocrates, Timaeus and Soscrates.
 
 In her quest to unravel the mysteries regarding the ancient city of Atlantis, our client wishes to gather all evidence possible as to where the location of the lost city truly is. Getting stuck a fair bit into her endeavors, she has reached out to Hacktoria to decipher a piece of text.
@@ -27,13 +33,22 @@ I trust your ability to deal with ciphers and ancient dialogues in this matter. 
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
+
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 
 The link you find is the password for your flagfile (updated 23.11.2022)
 
+<a href="https://hacktoria.com/wp-content/contracts/items/text-file-dialogues-from-atlantis.zip">Download Textfile</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-dialogues-from-atlantis.zip">Download Flagfile</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 The mission briefing mentions trusting our ability to deal with ciphers and ancient dialogues, this is a big clue.
 
 Let's see if we can decode the text.
@@ -103,5 +118,6 @@ Putting this together gives us the password: `https://bit.ly/3Dq6rGW`
 
 Extract the `flagfile-dialogues-from-atlantis.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
