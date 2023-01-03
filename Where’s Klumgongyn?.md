@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Where’s Klumgongyn?
+# Where’s Klumgongyn?
 ![cover-wheres-klumgongyn-600x600](https://user-images.githubusercontent.com/117080369/205289219-1228086a-ec09-4faf-999f-d7f91a8cb26d.png)
 
-#### Difficulty: Medium
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Klumgongyn sat in his office, staring at his computer screen with frustration. He was an Alien, and he worked for a large intergalactic corporation. But today, he was having a particularly hard time focusing on his work.
 
 The reason for his distraction was the company chat on Discord. It seemed like every other message was a meme or a GIF, and Klumgongyn just couldn’t take it anymore. He found the constant stream of silly images and jokes to be incredibly annoying, and he wished that his coworkers would just focus on work.
@@ -20,7 +24,9 @@ There was a moment of silence, and then the chat erupted with responses. Some pe
 
 Klumgongyn sighed and sat back down at his desk. He knew that he wasn’t going to change everyone’s behavior, but at least he had tried. Having had absolutely enough of these hairless apes, he got up and left his office. A little vacation would do him well, he thought as he walked towards the elevator..
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. We have quite a strange case on our hands today. Our Lead Counsel Klumgongyn, has gone missing in action.
 
 Now don’t be alarmed, I don’t mean this in any dangerous way. Lately the company chat has been used as a dumpster for GIF wars and edgy memes. Klumgongyn was so fed up with this, that he took one of the spaceships and warped to an unknown location.
@@ -33,9 +39,23 @@ Whether we’ll actually find him once we’re there is another issue. Shapeshif
 
 Special Agent K, you have 24 hours to locate Klumgongyn. After that we’ll start refusing to reimburse his travel expenses.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+Password instruction. Use the Country and Streetname to form the password for opening the flagfile.
+
+Password example: turkey-street-name
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-wheres-klumgongyn.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/12/klumgongyn-surprise-vacation.jpg">Download Original Image</a>
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 
 Let's take a closer look at the supplied image, what information can we gather?:
 * Taxi company name and phone number(s)
@@ -96,4 +116,6 @@ Information for password:
 Extract the `flagfile-wheres-klumgongyn.zip` with the password from the information gained above to get your contract card.
 
 
-BoΠeShΔdϴw³
+$~$
+
+📌 BoΠeShΔdϴw³
