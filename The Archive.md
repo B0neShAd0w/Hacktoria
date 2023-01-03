@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: The Archive
+# The Archive
 ![cover-the-archive-600x600](https://user-images.githubusercontent.com/117080369/208250839-09efe280-cb3f-4d20-8057-fa16a9d518ba.png)
 
-#### Difficulty: Hard
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\color{white}\ HARD\ \color{gray}|\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 It was a dark and stormy night when the FBI agents arrived at the warehouse. They had received a tip that the building was being used as a hub for illegal hacking activities.
 
 As they approached the warehouse, they could see that the windows were covered and the door was guarded by a burly man with a stern expression.
@@ -22,7 +26,9 @@ As the arrests were made, the agents searched the servers and found evidence of 
 
 Finally, with all of the suspects in custody, the agents gathered up the evidence and prepared to leave. It had been a successful raid, and they knew that they had made a significant dent in the world of cybercrime.
 
-### $\textcolor{Rhodamine}{Briefing:}$
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. As you might know, the end of the year is always signified with a massive uptick in cyber attacks. Particularly DDoS and Ransomware attacks are commonplace during this time of the year. It’s also the time of the year for agencies worldwide, to crack down on the criminal enterprises destroying the downtime of IT personnel everywhere.
 
 Our good friends over at the FBI have done just that. Yesterday morning around 0400 UTC they were able to seize a warehouse full of C2 servers, crypto miners and an entire scam call-center rolled int one.
@@ -33,15 +39,23 @@ You might already feel this one coming. One of these archives was sent our way t
 
 As always, Special Agent K. The contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 The password starts with “flag-“
 
 MD5 Checksum for The Archive: 2625ae7c180080e580551347831362d7
 
+<a href="https://hacktoria.com/wp-content/contracts/items/data-the-archive.zip">Download the Archive</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-the-archive.zip">Download the Flagfile</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 On this occasion the mission briefing doesn't really contain any pearls of wisdom for us to go on.
 
 All we have is the downloaded `Archive zip file`
@@ -122,5 +136,6 @@ Within this downloaded zip is a file named `password-the-archive` containing the
 
 Extract the `flagfile-the-archive.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
