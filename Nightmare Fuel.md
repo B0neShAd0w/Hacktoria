@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Nightmare Fuel
+# Nightmare Fuel
 ![nightmare-fuel-cover-600x600](https://user-images.githubusercontent.com/117080369/203791844-fa61a564-8d86-4357-97d2-cd721a4c7503.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 For as long as she could remember, Mary had always been a light sleeper. So when she started hearing strange noises coming from the abandoned house next door every night, she knew that something was wrong.
 
 At first, the noises were just soft and subtle, like the creaking of old floorboards or the rustling of leaves in the wind. But as time went on, they became louder and more intense, until they were almost unbearable.
@@ -20,7 +24,9 @@ As she approached the front door, she could feel her heart racing in her chest. 
 
 Slowly, she pushed open the door and stepped inside, her eyes scanning the darkness for any sign of movement. The house was empty and quiet, but Mary could still feel a sense of dread hanging in the air.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. Yesterday evening around 2100 hours, two officers of the New York Police Department entered the premise of an abandoned building in Brownsville New York. Neighbors had complained about strange sightings. Supposedly a woman had been squatting inside the building.
 
 Reports also state that over the course of the two years the building has been abandoned, several residents of the surrounding houses had complained about junkies occupying the building. Often making terrible screeching like noises during the night.
@@ -37,9 +43,21 @@ We need you to take a look at the video and see what you can find.
 
 As always, Special Agent K, the contract is yours. If your choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+Find the password to open the flagfile, wherever or whatever that might be.
+
+<a href="https://hacktoria.com/wp-content/contracts/items/bodycam-officer-1.mp4">Download Officer 1 Bodycam Video</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-nightmare-fuel.zip">Download Flagfile</a>
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 Is there anything useful in the mission briefing? doesn't seem we have much to go on here.
 
 Watching the video clip doesn't give us anything useful, apart from nightmare's for a week...
@@ -48,5 +66,6 @@ Maybe there is something in the metadata of the video file? let's head over to <
 
 Extract the `flagfile-nightmare-fuel.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
