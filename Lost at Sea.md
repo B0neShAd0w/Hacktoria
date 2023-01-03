@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Lost at Sea
+# Lost at Sea
 ![lost_at_sea_cover-600x600](https://user-images.githubusercontent.com/117080369/203797664-e030da32-fa73-4201-927c-a2713e66f145.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 The Narwhal was a ship like no other. Outfitted with the most advanced electronic warfare equipment known to man, it was capable of intercepting and decoding even the most encrypted communications. But to the outside world, the Narwhal was just another ordinary fishing trawler, making its way through the choppy waters of the Black Sea.
 
 On this particular mission, the Narwhal was tasked with monitoring a Russian ship that was suspected of transporting illegal weapons. Captain Marcus and his crew were experts at blending in and going unnoticed, and they had spent the past week trailing the Russian ship at a safe distance.
@@ -20,7 +24,9 @@ As they read through the intercepted messages, the crew of the Narwhal couldn’
 
 The Narwhal quickly reported their findings back to headquarters, and within hours, the Russian ship was apprehended by authorities. It was a triumphant moment for Captain Marcus and his crew, who knew that their mission had made a real difference in the world.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. Yesterday at exactly 22:34 EET we lost contact with our surveillance ship “Narwhal”. A distress signal was sent out, right after this all communication was lost. The Narwhal was operating in the Black Sea, keeping an eye on Russian submarine and aerial activity.
 
 Although she looks like a regular fishing trawler, the Narwhal, built in 2018, was outfitted with state of the art equipment. Housing a crew of 10, including a 4 PAX intervention unit of our best and brightest from the H.M.I.U (Hacktoria Maritime Intervention Unit).
@@ -33,13 +39,19 @@ Somehow, the signal was lost right before the captain was able to relay the new 
 
 This will give us insight into how the Narwhal sunk and allow us to begin the recovery. Given the hostile situation, it’s imperative we find the exact location of the Narwhal.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 Instructions: Crack the password to open the ship logbook file (flagfile)
 
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-lost-at-sea.zip">Download Flagfile</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * 22:34
 * Narwhal
@@ -78,5 +90,6 @@ Doesn't take long for us to find our answer - `Narwhal2018`
 
 Extract the `flagfile-lost-at-sea.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
