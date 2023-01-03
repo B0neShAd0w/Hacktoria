@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: The Butcher
+# The Butcher
 ![the-butcher-cover-600x600](https://user-images.githubusercontent.com/117080369/203931080-d927f0e0-6968-4c04-8e74-0e353572798c.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 It was just another ordinary day in Berlin, until the German police received a tip about a suspicious apartment in the city. They had no idea what they were going to find, but they knew that they had to be prepared for the worst.
 
 As they arrived at the apartment building, the police noticed that the windows were all covered with black curtains, and there were no signs of life inside. They knew that this was a bad sign, and they braced themselves for what was to come.
@@ -20,7 +24,9 @@ As they began to go through the computer’s files, the police were shocked to d
 
 The police were elated at the discovery, knowing that they were one step closer to bringing the killer to justice. They poured over the evidence, piecing together the clues and trying to track down the killer’s whereabouts.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings, Special Agent K. As you might have heard in the news over the past few months. The city of Berlin in Germany is being plagued by a serial killer, nicknamed “The Butcher”.
 
 As the name implies, this individual butchers his victims and disposes their body parts all over the city. Autopsy reports conclude that the weapon for disposal is most likely a meat cleaver.
@@ -35,9 +41,21 @@ In the same location as the archive was stored, a file named “password” was 
 
 As always, Special Agent K. The contract is yours, if you choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+Find the password, for this contract, there is no password sample.
+
+<a href="https://hacktoria.com/wp-content/contracts/items/password-the-butcher">Download Password File</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-the-butcher.zip">Download Flagfile</a>
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 Reading through the mission briefing it mentions a file named "password", let's download the file and have a look at what we are dealing with.
 
 The beginning of the code looks like it is a file signature!, we can confirm this a number of ways, just have a look at <a href="https://en.wikipedia.org/wiki/List_of_file_signatures">List of file signatures - Wikipedia</a> for `49 44 33`
@@ -63,5 +81,6 @@ Play the file in a media player like VLC to hear the password.
 
 Extract the `flagfile-the-butcher.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
