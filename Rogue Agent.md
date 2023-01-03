@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203551900-f5000c88-af2e-48e6-9acc-7d845113269b.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Rogue Agent
+# Rogue Agent
 ![cover-rogue-agent-600x600](https://user-images.githubusercontent.com/117080369/203539156-ad62a2da-5bdd-4758-8856-e71cbc6e3adb.jpg)
 
-#### Difficulty: Medium
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Valentino Maggi was a secret agent working for the Italian government. He had been in the business for over a decade, and had seen and done it all. But this mission was unlike any other he had undertaken before.
 
 It was a hot summer day in Rome, and Valentino was making his way through the winding streets of the city. He had been given the task of exchanging stolen documents with a Russian operative, who was rumored to have information that could potentially bring down the Italian government.
@@ -20,7 +24,9 @@ Turning back, he saw Sergei still standing in the same spot, a sly smile on his 
 
 But Valentino was not one to back down from a challenge. He was a secret agent, after all, and he was ready for whatever came his way.
 
-### $\textcolor{Rhodamine}{Briefing:}$
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. We have a request on our hands from our friends over at the CIA. In September of 2021, one of their operatives went missing in action. Upon further investigation, it was discovered this operative went rogue and started a smuggling business for the Russians. Mostly dealing in complex electronics, which have become difficult to come by for Russians after sanctions began.
 
 The agent we’re looking for is named Valentino Maggi. Born in Brooklyn New York on 18.05.1987. Valentino is one of five sons of the Maggi family, who moved to the United States during World War II. Having grown up a middle class lifestyle, his father a car salesman and mother working as an elementary school teacher. Valentino was recruited into the CIA during his time as a student at Columbia University.
@@ -33,9 +39,27 @@ And that is where your task begins, Special Agent K. One of the files recovered 
 
 As always, Special Agent K. The contract is yours, if you choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+Find out the location and construct the password using the instructions below. This will allow you to open your flagfile and retrieve the Contract Card.
+
+Password Instruction: country-town-coordinate
+
+Password Example: spain-madrid-12.345678-12.345678
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-rogue-agent.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/items/safehouse-aerial-rogue-agent.jpg">Download Original Image</a>
+
+Text: The exact location is where you always find it.
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 Reading through the mission briefing doesn't really give us anything to go on, so the next step is to look at analyzing the image.
 
 Nothing specific in the image we can really use to identify the location.
@@ -63,5 +87,6 @@ REDACTED - no spoiler
 
 Extract the `flagfile-rogue-agent.zip` with the password from the `Rotate_right(1,false)` result to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
