@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Prisoner of War
+# Prisoner of War
 ![prisoner-of-war-cover-600x600](https://user-images.githubusercontent.com/117080369/203552724-a6ce6a0b-139e-483d-b076-39d2eb69e2ad.png)
 
-#### Difficulty: Easy
+### $\color{magenta}{DIFFICULTY}$
+${\color{white}EASY\ \color{gray}|\ MEDIUM\ |\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Raphaël Bernard had always dreamed of becoming a soldier. Growing up in the countryside of France, he had spent his days playing war games with his friends and practicing his marksmanship. So when he turned 18, he knew that there was only one path for him: the French Foreign Legion.
 
 After completing his training, Raphaël was assigned to a task force going into Mali. Where French forces were fighting against insurgent groups. It was a dangerous mission, but Raphaël was ready for the challenge.
@@ -28,7 +32,9 @@ Finally, after what felt like an eternity, Raphaël was rescued by a team of Fre
 
 As he was whisked away to safety, Raphaël couldn’t help but feel a sense of gratitude and pride. He had survived the worst that the enemy had to throw at him, and he knew that he had come out stronger and more determined than ever before.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. We have an urgent contract for the government of France. After their official departure from Mali during August 2022, only a few platoons of Special Operation Units remain in the country. Officially, these troops are not present. Unofficially, they are there to protect high ranking politicians and other French partisans.
 
 Two days ago, during a routine escort of a Malian VIP, the convoy was ambushed by unknown insurgent forces. The VIP and most of the convoy managed to return fire and make it out alive. One of the soldiers however, Raphaël Bernard, was hit in the right leg and taken prisoner by the insurgents.
@@ -43,9 +49,27 @@ It’s your job to locate the building where the French private is being held. O
 
 As always, Special Agent K. The contract is yours, if you choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+Construct the password for the flagfile using the full name of the location, as listed on Google Maps.
+
+Example password: habitat-d-azure-hotel-champagne
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-prisoner-of-war.zip">Download Flagfile</a>
+
+Picture given to the girl – <a href="https://hacktoria.com/wp-content/uploads/2022/10/start-image-prisoner-of-war.jpg">DOWNLOAD</a>
+
+AOR of the French detachement – <a href="https://hacktoria.com/wp-content/uploads/2022/10/aor-prisoner-of-war.jpg">DOWNLOAD</a>
+
+Location of the ambush, marked with yellow: 14.495703,-11.156166,17
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * childrens home
 * RN1 near “Posté de contrôle KAYES”
@@ -65,5 +89,6 @@ We now have all the imformation needed to create the password for the link file.
 
 Extract the `flagfile-prisoner-of-war.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
