@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Florida Snow
+# Florida Snow
 ![florida-snow-600x600](https://user-images.githubusercontent.com/117080369/209978608-7e4e9dc0-1d16-4b32-b223-7e57ed7f8990.png)
 
-#### Difficulty: Hard
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\color{white}\ HARD\ \color{gray}|\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 
 Thomas sat in the dimly lit room, his heart pounding in his chest as he watched the leader of Los Aztecas pace back and forth in front of him.
 
@@ -27,7 +31,9 @@ But he knew that he had to keep up the act, at least for a little while longer. 
 
 As he walked out of the room, covered in sweat and the blood of his enemy, Thomas couldn’t help but feel a sense of dread wash over him. He knew that this was only the beginning of his journey into the dark and dangerous world of Los Aztecas.
 
-### $\textcolor{Rhodamine}{Briefing:}$
+$~$
+
+### $\color{magenta}{BRIEFING}$
 
 Greetings, Special Agent K. We’re currently investigating a drug smuggling operation on behalf of the DEA. They are in the process of infiltrating a drug trafficking operation, backed by the Mexican cartels. Moving cocaine from Florida to whoever wants to buy it. Mostly towards Spain and France.
 
@@ -37,15 +43,24 @@ Two hours ago, our friends over at the DEA received the latest run information f
 
 As always, Special Agent K. The Contract is yours, if you choose to accept.
 
+$~$
 ---
+
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 
 Password sample for flagfile: country-city-streetname
 
 Sample password: chile-bananacity-street-la-plaza
 
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-florida-snow.zip">Download the Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/12/florida-snow-sat-image.jpg">Download Full Size Image</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 This contract ended up being more of a "brute-force" methodology.
 
 If we examine the supplied image for data points, we do find some points that could be of use to us.
@@ -85,5 +100,6 @@ Dropping our Street View "Pegman" in for a quick recon we can get all the inform
 
 Extract the `flagfile-florida-snow.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
