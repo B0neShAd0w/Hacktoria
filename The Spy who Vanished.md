@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: The Spy who Vanished
+# The Spy who Vanished
 ![the-spy-who-vanished-cover-600x600](https://user-images.githubusercontent.com/117080369/204003381-3a18cb6a-86fb-41cd-a156-8671ce87c076.png)
 
-#### Difficulty: Medium
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Deloris Frozenwood had always been a skilled spy, rising through the ranks of MI5 with ease and efficiency. But as she sat in the crowded coffee shop in Madrid, sipping her espresso and scrolling through her email, she couldn’t shake the feeling that she was being watched.
 
 As she turned to look around the room, her gaze landed on a familiar face across the way – Emile, the leader of a notorious terrorist organization she had been tracking for years. Her heart skipped a beat as he caught her eye and beckoned her over to his table.
@@ -16,7 +20,9 @@ Deloris’s mind raced as she listened to Emile’s offer. He wanted her to betr
 
 She knew that if she accepted Emile’s offer, there would be no going back. She would be a traitor, hunted by her former colleagues and living a life of constant danger. But the prospect of unlimited power and resources, not to mention the thrill of working on the wrong side of the law, was too tempting to resist.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings, Special Agent K. We have received information regarding the long lost spy from MI5, Deloris Frozenwood. She went missing in action a few years ago, never to be seen again. From what we understand, she went on to provide services to whoever the highest bidder might be.
 
 Before she went rogue, Deloris was a revered operative within MI5. Taking on some of the most dangerous assignments and quickly working her way through the ranks. Discontent with management, she took matters into her own hands. Often skirting the lines between rule of law and criminal behavior. She was eventually terminated from MI5.
@@ -27,13 +33,19 @@ Our colleagues at MI5 have asked us to obtain any information on Deloris Frozenw
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 If you find Deloris, her presence will lead you to the password to unlock your flagfile, containing the contract card for this contract.
 
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-thespy-who-vanished.zip">Download Flagfile</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * Deloris Frozenwood
 * D Frozenwood
@@ -65,5 +77,6 @@ Clicking on the `August 31 2022` Snapshot takes us to **Deloris Frozenwood's** a
 
 Extract the `flagfile-thespy-who-vanished.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
