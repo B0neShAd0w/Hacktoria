@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Road to Nowhere
+# Road to Nowhere
 ![road-to-nowhere-cover-600x600](https://user-images.githubusercontent.com/117080369/203995873-780825ca-a4ac-4a57-a611-769fa301d8fb.png)
 
-#### Difficulty: Medium
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Onada stood guard at the entrance to the small village, hidden deep in the jungle. He was a mercenary, working for a terrorist organization called the Meercats. The Meercats were known for their brutal tactics and their willingness to do whatever it took to achieve their goals.
 
 Onada had joined the Meercats for the money and the thrill of adventure, but as he stood watch over the village, he couldn’t help but feel a sense of unease. The villagers were poor and powerless, and Onada knew that his superiors would have no qualms about hurting them if it meant furthering their cause.
@@ -16,7 +20,9 @@ Onada hesitated for a moment, torn between his loyalty to the Meercats and his g
 
 As they moved into the village, Onada knew that he had made a risky move. The Meercats would surely come after him for his betrayal. But as he watched the rebels disappear into the jungle, Onada couldn’t help but feel a sense of relief and freedom. He had finally found the courage to stand up for what was right, and he knew that he would be able to sleep better at night as a result.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Special Agent K, we’ll be needing your assistance on a geolocation matter. One of our clients, a medium sized European goverment agency, has requested we find a needle in a haystack.
 
 Our client is involved in fighting terrorist groups in Asia and Africa. Recently, they gained access to a Dropbox account filled with map data. Most of these seem to be related to safe houses used by a terrorist organization called “The Meercats”. Indeed a strange name, but nontheless, they mean business.
@@ -27,13 +33,21 @@ Below you find an image of what appears to be a village, with a red marker to in
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 Use the coordinates you find as the password to open the ZIP archive. Inside, you find the flagfile to your Contract Card as always. Also, we heard the number 1920 is of importance in this case…
 
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-road-to-nowhere.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/08/road-to-nowhere-challenge.jpg">Download Original Image File</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * Asia and Africa
 
@@ -67,5 +81,6 @@ The file contains some co-ordinates.
 
 Extract the `flagfile-road-to-nowhere.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
