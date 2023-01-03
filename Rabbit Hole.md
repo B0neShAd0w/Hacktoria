@@ -1,9 +1,13 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Rabbit Hole
+# Rabbit Hole
 ![rabbit-hole-cover-600x600](https://user-images.githubusercontent.com/117080369/207818904-a312292c-011c-4027-8971-7f05e0321245.png)
 
-#### Difficulty: Insane
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\ HARD\ |\ \color{white}INSANE}$
+
+$~$
+---
 
 ![1-year](https://user-images.githubusercontent.com/117080369/208620141-94e28a73-f005-4526-b31e-2a7de0dee587.jpg)
 
@@ -17,8 +21,10 @@ With the first step for this Contract, I present you the first ever complete arc
 
 As always, Special Agent K. The Contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 Password instruction flagfile:
 
 Species from step 03
@@ -29,7 +35,15 @@ Example password:
 
 galeocerdo-cuvier-dodgy_malaka08-logmein-germany-hamburger-d-strasse
 
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-rabbit-hole.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/12/step-01-rabbit-hole.jpg">Download Original Image</a>
+
+$~$
+
 ---
+
+### $\color{magenta}{METHODOLOGY}$
 
 > __Note__ Due to the length of this writeup I am NOT including the dead ends and rabbit holes I encountered on my way to complete this contract, only the steps required to solve this incredibly fun and difficult contract.
 >
@@ -671,5 +685,6 @@ Make a note of the `Country` and `Street Name` as it is needed for the final pas
 
 Extract the `flagfile-rabbit-hole.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
