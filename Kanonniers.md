@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Kanonniers
+# Kanonniers
 ![kanonniers-cover-600x600](https://user-images.githubusercontent.com/117080369/205070112-88dbd378-7d7e-4af7-beb2-6632a30966a6.png)
 
-#### Difficulty: Insane
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\ HARD\ |\ \color{white}INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Maurice sat in the crowded hotel lobby, trying to blend in with the throngs of tourists and businesspeople milling about. He was a spy for the Order of the Golden Creed, a secret organization dedicated to protecting the world from harm.
 
 As he waited for his informant to arrive, Maurice couldn’t help but feel a sense of nervous excitement. He had been working on this case for weeks, trying to gather information about a group of thieves planning a major bank heist.
@@ -20,7 +24,9 @@ Maurice listened intently, taking notes as the informant revealed all the detail
 
 Maurice nodded, his mind already racing as he tried to figure out how to stop the heist from happening. He knew that he had very little time, but he was determined to succeed. He would do whatever it took to protect the people and the world he loved.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings, Special Agent K. We are on the hunt for operatives of a competing organization. We believe them to be the continuation of a rival Order “The Golden Creed”, who we eradicated mid 18th century. Somehow the family running the Order managed to reorganize and fund new endeavors. Flying under the radar for several years, they now have a foothold in many European countries.
 
 Unfortunately for them, they’ve chosen to cross paths with some of our bigger clients in several of these countries. Most recently, the Dutch intelligence agency AIVD, started investigating them after being linked to a human trafficking ring. All beginning with the Syrian refugee crisis a few years back.
@@ -35,13 +41,21 @@ Our client has asked us to locate the cannon. Use the image below to find the lo
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 Use your findings to generate the password that will unlock the “flagfile”, which in turn leads to your Contract Card. For this you will need the service: https://what3words.com/
 
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-kanonniers.zip">Download Flagfile</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/08/kannoniers.jpg">Download Image Full Size</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * Dutch intelligence agency
 * monument
@@ -99,5 +113,6 @@ Let's build up our password:
 
 Extract the `flagfile-kanonniers.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
