@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: Lost Down Under
+# Lost Down Under
 ![lost-down-under-cover-600x600](https://user-images.githubusercontent.com/117080369/204875717-bc98bf32-764a-4f0d-9bcf-96743e214ec6.png)
 
-#### Difficulty: Insane
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\ MEDIUM\ |\ HARD\ |\ \color{white}INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Dan and Kyle sat in a dimly lit tent deep in the Australian outback, their faces illuminated by the glow of a laptop screen. They were planning their next attack, and the stakes were high.
 
 The two terrorists had been living in the outback for weeks, building their camp and stockpiling explosives. Now, they were ready to put their plan into action.
@@ -26,7 +30,9 @@ Kyle nodded, a sly smile spreading across his face. “Brilliant. We’ll load t
 
 The two terrorists spent the next few days preparing for their attack, gathering supplies and training the camels to carry the explosives. And when the night finally came, they set off into the darkness, their deadly cargo hidden among the dunes.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. We need your assistance in an urgent matter. Our client, the Australian Secret Intelligence Agency, ASIS for short, has requested our help to uncover a terrorist organization.
 
 This group, who’s name is yet to be uncovered, has shown intent on bombing several locations around Australia. Their origins are confirmed to be domestic, with money coming in from Chinese non-government actors.
@@ -39,16 +45,39 @@ The answer from the text and images leads to the password for unlocking the flag
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
-### Methodology:
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-lost-down-under.zip">Download Flagfile</a>
+
+>GEYTMIBRGE2CAOJXEAYTCMBAGEYTKIBRGA4SAMJQGUQDCMJVEAYTCNJAGEYDKIBRGEYSAMJRGAQDGMRAGEYTAIBRGE3SAMJQHEQDSOBAGEYDCIBRGE2CAMZSEA2TEIBVGMQDKNRAGU3SANJUEA2TEIBVG4QDKNRAGUYSA>>MZSEAYTCMBAGEYDCIBRGAYSAMJQGAQDCMJVEAZTEIBRGA4SAMJRG4QDCMBYEAYTCNRAGEYDKIBRGEZCAMJQHAQDCMBVEA4TSIBZG4QDCMJWEAYTANJAGEYTCIBRGEYCAMZSEAYTCOJAGEYDKIBRGE3CAMJQGQQDGMRAGEY>TMIBRGA2CAMJQGEQDGMRAGEYDGIBRGAYSAMJRGEQDCMBYEAYTCMJAHE4SAOJXEAYTCNRAGEYDKIBRGEYSAMJRGAQDGMRAHE3SAMJRGAQDCMJVEAYTCOJAGEYDCIBRGE2CAMZSEAYTCNRAGEYTCIBTGIQDCMJXEAYTCMBAG>EYDQIBRGEYSAOJZEAYTANZAGMZCAMJRGYQDCMBUEAYTAMJAGMZCAMJQGIQDCMBVEAYTAOBAGEYDCIBUGYQDGMRAHE3SAMJQGAQDCMBQEAZTEIBRGE3CAMJQGQQDCMBREAZTEIBRGAZCAMJQGUQDCMJUEAYTCNJAGEYTMIB>TGIQDCMJWEAYTANBAGEYTIIBRGAYSAMJQGEQDGMRAGEYDQIBRGAYSAMJRGYQDCMJWEAYTAMJAGEYTIIBRGE2SAMZSEAYTCMJAGEYDEIBTGIQDSNZAGEYDQIBRGA4CAMZSEAYTCNJAGEYTMIBRGE2CAMJQGEQDCMBREAYTC>NRAGEYTAIBZG4QDCMBZEAYTAMJAGEYTKIBTGIQDCMBVEAYTCMBAGMZCAMJRGEQDCMJUEAYTAMBAGEYDCIBRGE2CAMZSEA4TOIBRGE3CAMZSEAYTCNRAGEYDIIBRGAYSAMZSEAYTAMJAGEYTAIBRGAYCAMZSEAYTCMJAGEY>DEIBTGIQDCMJWEAYTANBAGEYDCIBTGIQDCMJQEAYTCNZAGEYDSIBZHAQDCMBREAYTCNBAGEYTKIBUGYQDGMRAGEYTSIBRGAYSAMZSEAYTCOJAGEYDKIBRGA4CAMJQHAQDGMRAGEYTKIBRGE3CAOJXEAYTCNBAGEYTMIBTG>IQDCMJREAYTCMRAGEYDCIBRGE2CAOJXEAYTCNRAGEYDKIBRGEYSAMJRGAQDGMRAGEYDOIBZG4QDCMJQEAYTAMZAHE3SAMJRGQQDCMJREAYTCMJAGMZCAMJRGEQDCMJQEA4TSIBRGAYSAMZSEA4TOIBRGA4CAMJQHAQDGMR>AHE4CAMJRGEQDCMBZEA4TQIBRGE2SAMZSEA4TOIBRGE2CAMJQGEQDGMRAGEYDKIBRGEYCAMZSEAYTCMRAGEYDQIBZG4QDSOJAGEYDCIBUGY======
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/11/location-1-ldo.jpg">Location 1 – Download</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/09/ldo-location-2.jpg">Location 2 – Download</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/11/location-3-ldu.jpg">Location 3 – Download</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/09/ldo-location-4.jpg">Location 4 – Download</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/09/ldo-location-5.jpg">Location 5 – Download</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/09/ldo-location-6.jpg">Location 6 – Download</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/11/location-7-ldo.jpg">Location 7 – Download</a>
+
+<a href="https://hacktoria.com/wp-content/uploads/2022/11/location-8-ldo.jpg">Location 8 – Download</a>
+
+$~$
+
+---
+
+### $\color{magenta}{METHODOLOGY}$
 The first step is to pull out imformation from the Mission Briefing that we feel is of importance.
 * Australian Secret Intelligence Agency
 * cryptic looking text
-
-```
-GEYTMIBRGE2CAOJXEAYTCMBAGEYTKIBRGA4SAMJQGUQDCMJVEAYTCNJAGEYDKIBRGEYSAMJRGAQDGMRAGEYTAIBRGE3SAMJQHEQDSOBAGEYDCIBRGE2CAMZSEA2TEIBVGMQDKNRAGU3SANJUEA2TEIBVG4QDKNRAGUYSAMZSEAYTCMBAGEYDCIBRGAYSAMJQGAQDCMJVEAZTEIBRGA4SAMJRG4QDCMBYEAYTCNRAGEYDKIBRGEZCAMJQHAQDCMBVEA4TSIBZG4QDCMJWEAYTANJAGEYTCIBRGEYCAMZSEAYTCOJAGEYDKIBRGE3CAMJQGQQDGMRAGEYTMIBRGA2CAMJQGEQDGMRAGEYDGIBRGAYSAMJRGEQDCMBYEAYTCMJAHE4SAOJXEAYTCNRAGEYDKIBRGEYSAMJRGAQDGMRAHE3SAMJRGAQDCMJVEAYTCOJAGEYDCIBRGE2CAMZSEAYTCNRAGEYTCIBTGIQDCMJXEAYTCMBAGEYDQIBRGEYSAOJZEAYTANZAGMZCAMJRGYQDCMBUEAYTAMJAGMZCAMJQGIQDCMBVEAYTAOBAGEYDCIBUGYQDGMRAHE3SAMJQGAQDCMBQEAZTEIBRGE3CAMJQGQQDCMBREAZTEIBRGAZCAMJQGUQDCMJUEAYTCNJAGEYTMIBTGIQDCMJWEAYTANBAGEYTIIBRGAYSAMJQGEQDGMRAGEYDQIBRGAYSAMJRGYQDCMJWEAYTAMJAGEYTIIBRGE2SAMZSEAYTCMJAGEYDEIBTGIQDSNZAGEYDQIBRGA4CAMZSEAYTCNJAGEYTMIBRGE2CAMJQGEQDCMBREAYTCNRAGEYTAIBZG4QDCMBZEAYTAMJAGEYTKIBTGIQDCMBVEAYTCMBAGMZCAMJRGEQDCMJUEAYTAMBAGEYDCIBRGE2CAMZSEA4TOIBRGE3CAMZSEAYTCNRAGEYDIIBRGAYSAMZSEAYTAMJAGEYTAIBRGAYCAMZSEAYTCMJAGEYDEIBTGIQDCMJWEAYTANBAGEYDCIBTGIQDCMJQEAYTCNZAGEYDSIBZHAQDCMBREAYTCNBAGEYTKIBUGYQDGMRAGEYTSIBRGAYSAMZSEAYTCOJAGEYDKIBRGA4CAMJQHAQDGMRAGEYTKIBRGE3CAOJXEAYTCNBAGEYTMIBTGIQDCMJREAYTCMRAGEYDCIBRGE2CAOJXEAYTCNRAGEYDKIBRGEYSAMJRGAQDGMRAGEYDOIBZG4QDCMJQEAYTAMZAHE3SAMJRGQQDCMJREAYTCMJAGMZCAMJRGEQDCMJQEA4TSIBRGAYSAMZSEA4TOIBRGA4CAMJQHAQDGMRAHE4CAMJRGEQDCMBZEA4TQIBRGE2SAMZSEA4TOIBRGE2CAMJQGEQDGMRAGEYDKIBRGEYCAMZSEAYTCMRAGEYDQIBZG4QDSOJAGEYDCIBUGY======
-```
 
 Let's have a go at decoding the text, it looks like a `Base` sort of string...
 
@@ -63,9 +92,7 @@ We can see from the output that there are a few to try...
 
 Running `Base32` decoder on the text gives us a new coded output.
 
-```
-116 114 97 110 115 109 105 115 115 105 111 110 32 110 117 109 98 101 114 32 52 53 56 57 54 52 57 56 51 32 110 101 101 100 115 32 109 117 108 116 105 112 108 105 99 97 116 105 111 110 32 119 105 116 104 32 116 104 101 32 103 101 111 108 111 99 97 116 105 111 110 32 97 110 115 119 101 114 32 116 111 32 117 110 108 111 99 107 32 116 104 101 32 102 105 108 101 46 32 97 100 100 32 116 104 101 32 102 105 114 115 116 32 116 104 114 101 101 32 108 101 116 116 101 114 115 32 111 102 32 97 108 108 32 115 116 114 101 101 116 110 97 109 101 115 32 105 110 32 111 114 100 101 114 32 97 116 32 116 104 101 32 101 110 100 32 111 102 32 116 104 101 32 110 117 109 98 101 114 115 46 32 119 101 32 119 105 108 108 32 115 116 97 114 116 32 111 112 101 114 97 116 105 111 110 32 107 97 110 103 97 114 111 111 32 111 110 99 101 32 97 108 108 32 98 111 109 98 115 32 97 114 101 32 105 110 32 112 108 97 99 101 46
-```
+>116 114 97 110 115 109 105 115 115 105 111 110 32 110 117 109 98 101 114 32 52 53 56 57 54 52 57 56 51 32 110 101 101 100 115 32 109 117 108 116 105 112 108 105 99 97 >116 105 111 110 32 119 105 116 104 32 116 104 101 32 103 101 111 108 111 99 97 116 105 111 110 32 97 110 115 119 101 114 32 116 111 32 117 110 108 111 99 107 32 116 >104 101 32 102 105 108 101 46 32 97 100 100 32 116 104 101 32 102 105 114 115 116 32 116 104 114 101 101 32 108 101 116 116 101 114 115 32 111 102 32 97 108 108 32 >115 116 114 101 101 116 110 97 109 101 115 32 105 110 32 111 114 100 101 114 32 97 116 32 116 104 101 32 101 110 100 32 111 102 32 116 104 101 32 110 117 109 98 101 >114 115 46 32 119 101 32 119 105 108 108 32 115 116 97 114 116 32 111 112 101 114 97 116 105 111 110 32 107 97 110 103 97 114 111 111 32 111 110 99 101 32 97 108 108 >32 98 111 109 98 115 32 97 114 101 32 105 110 32 112 108 97 99 101 46
 
 Running through  <a href="https://www.dcode.fr/cipher-identifier">Cipher Identifier</a> again gives a new list of possibilities to try.
 * ASCII Code
@@ -86,9 +113,7 @@ Running through  <a href="https://www.dcode.fr/cipher-identifier">Cipher Identif
 
 Running `ASCII Code` decoder on the text gives us a result.
 
-```
-transmission number 458964983 needs multiplication with the geolocation answer to unlock the file. add the first three letters of all streetnames in order at the end of the numbers. we will start operation kangaroo once all bombs are in place.
-```
+>transmission number 458964983 needs multiplication with the geolocation answer to unlock the file. add the first three letters of all streetnames in order at the end >of the numbers. we will start operation kangaroo once all bombs are in place.
 
 Important information:
 * 458964983 needs multiplication with the geolocation answer
@@ -300,5 +325,6 @@ Let's build up our password:
 
 Extract the `flagfile-lost-down-under.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
