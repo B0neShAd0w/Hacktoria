@@ -1,11 +1,15 @@
-<img width="600" alt="hacktoria-llw" src="https://user-images.githubusercontent.com/117080369/203552008-2d0e0a07-1815-485b-8f3f-ae7ed7258af8.png">
+![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
-# Contract: On the Wire
+# On the Wire
 ![on-the-wire-cover-600x600](https://user-images.githubusercontent.com/117080369/204089579-690a2968-bd82-45b8-87b2-bc5093741877.png)
 
-#### Difficulty: Medium
+### $\color{magenta}{DIFFICULTY}$
+${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
 
-### **$\textcolor{Rhodamine}{Prologue:}$**
+$~$
+---
+
+### $\color{magenta}{PROLOGUE}$
 Special Agent J was a highly trained and skilled agent who had been on countless missions around the world. Her latest assignment was to infiltrate a Chinese crime syndicate operating in Malaysia.
 
 The crime syndicate was known for its ruthless tactics and extensive network of illegal activities, including human trafficking, drug trafficking, and money laundering. J knew that this mission would be dangerous, but she was determined to bring down the syndicate and bring justice to its victims.
@@ -22,7 +26,9 @@ So, one night, J snuck into the syndicate’s headquarters and carefully placed 
 
 Over the next few weeks, J worked tirelessly to gather as much information as possible through the wiretap. She recorded countless conversations and collected evidence that would be vital in building a case against the syndicate.
 
-### **$\textcolor{Rhodamine}{Briefing:}$**
+$~$
+
+### $\color{magenta}{BRIEFING}$
 Greetings Special Agent K. One of our field agents in Malaysia managed to physically breach the office of a corrupt politician. Doubling as a mole for a Chinese criminal enterprise, mostly smuggling endangered animals. In this case their evil business involves shark fin trade and other exotic food items.
 
 During the breach, our agent successfully obtained several pieces of information on the organization. Currently this does not include their name, as they only communicate using anonymous messages and codenames.
@@ -33,13 +39,21 @@ All data has been divided over several agents. Your segment for this contract is
 
 As always. Special Agent K, the contract is yours, if you choose to accept.
 
+$~$
 ---
 
+### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 The second link you are directed to via the packet capture, is the password for the flagfile. (updated at 23.11.2022)
 
+<a href="https://hacktoria.com/wp-content/contracts/items/on-the-wire.zip">Download Packet Capture</a>
+
+<a href="https://hacktoria.com/wp-content/contracts/flags/flagfile-on-the-wire.zip">Download Flagfile</a>
+
+$~$
+
 ---
 
-### Methodology:
+### $\color{magenta}{METHODOLOGY}$
 Our task as specified in the mission briefing is to analysis a packet capture file.
 
 We have a couple of options here, we could use an online tool like <a href="https://apackets.com/">A-Packets Online pcap file analyzer</a> or a tool like Wireshark.
@@ -78,5 +92,6 @@ Let's see where that **Pastebin URL** takes us...
 
 Extract the `flagfile-on-the-wire.zip` with the password from the information gained above to get your contract card.
 
+$~$
 
-BoΠeShΔdϴw³
+📌 BoΠeShΔdϴw³
