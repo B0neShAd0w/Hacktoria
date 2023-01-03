@@ -26,11 +26,11 @@ $~$
 
 ### $\color{magenta}{MATERIALS\ AND\ ANSWER\ INSTRUCTION}$
 Password instruction flagfile:
+* Species from step 03
+* Social handle from step 06
+* Username from step 08
+* Country and Streetname from step 10
 
-Species from step 03
-Social handle from step 06
-Username from step 08
-Country and Streetname from step 10
 Example password:
 
 galeocerdo-cuvier-dodgy_malaka08-logmein-germany-hamburger-d-strasse
