@@ -67,6 +67,108 @@ $~$
 ---
 
 ### $\color{magenta}{METHODOLOGY}$
+> __Note__ There are many rabbit holes in this challenge, I am only covering the steps required to solve the challenge.
+
+The first thing to do is extract the `start-information-black-rabbit-2.zip` file and run the `tree -a` command to see what we are dealing with.
+
+![Screenshot 2023-01-04 100701](https://user-images.githubusercontent.com/117080369/210543415-1d4b6567-1dc6-4a78-a90f-a0e71f489311.png)
+
+Let's start looking through the files for clues...
+
+The first clue is provided in the `Information/suspects/unknown-note` file.
+
+>PpppmmmfmmfmPppffpPfpmfmPppffpPfpmfmPppffpMmmmfmPppffpPpmmfmPpm2MppmfmPpmppmFfmmfmPpmppmFfmmfmPpppmmPfpmfmPppffpMffmfmPpppmmpmpmfmPppffpFfmmfmPpppmmFmfmfmPpmppmFmfmfm>PpppmmmmfmfmPppppmFfmmfmPppppmFfmmfmPpppmmmmfmfmPppppmPpmmfmPpppmmFmfmfmPpmppmFmfmfmPpppmmPpmmfmPppppmFfmmfmPppppmPfpmfmPpmppmFfmmfmPpppmmFfmmfmPpppmmpmpmfmPppppmPpmm>fmPpppmmFmfmfmPpmppmFfmmfmPpppmmPfpmfmPpmppmFfmmfmPpmffpMppmfmPppFmpmfmmfmPpmppmPfpmfmPppppmMppmfmPppMfmPfpmfmPppFmpmmfmfmPppffpmmfmfmPppFmpmmfmfmPppMpmMppmfmPppFmpPp>mmfmPpmffppmpmfmPppffpmmfmfmPppFmpPpmmfmPpmppmPfpmfmPppppmMffmfmPppMpmmmfmfmPpppmmFmfmfmPppMpmFfmmfmPppffpPfpmfmPpppmmmmfmfmPppffpPfpmfmPpmffpPfpmfmPpmffpPpmmfmPppFmp>MmmmfmPppMfmMffmfmPppppmFmfmfmPppMfmMffmfmPpp2MppmfmPpppmmMppmfmPppFmpPpmmfmPppFmpmfmmfmPppMpmMffmfmPppFmpPfpmfmPpmppmFfmmfmPppffpFfmmfmPpppmmpmpmfmPpppmmFmfmfmPppffp>mmfmfmPpm2FfmmfmPppffpFmfmfmPppffpPpmmfmPppffpMmmmfmPpm2PfpmfmPppffpPpmmfmPpppmmmfmmfmPpppmmMppmfmPppffpMffmfmPpppmmFmfmfmPppFppFfmmfmPppppmPpmmfmPpppmmpmpmfmPppppmFm>fmfmPppppmMff
+
+![7912ee50df9e7d9358b02a1acfe10c2d](https://user-images.githubusercontent.com/117080369/210548199-35d74462-7736-4d7f-a1a1-74d760890f38.gif)
+
+Let's use <a href="https://www.dcode.fr/cipher-identifier">dCode Cipher Identifier</a> to make some sense of this.
+* Decode from `Kenny Language (Southpark)`
+* Decode from `Base64 Encoding`
+* Decode from `Ascii Code`
+
+The decoded result is: https://drive.google.com/file/d/1X-jMWwWAS9wS-kGeFtgt43PKnKzaSXBT/view?usp=share_link
+
+Having a look at the Google Drive reveals information about a Job Application for `Jeff`:
+
+>FULL NAME: Jeff anderson\
+>DATE: 30.July.2022\
+>ADDRESS: 69th Bunny-lane UK\
+>EMAIL: Jeffaldersonthebunny@bunnymail.com\
+>POSTION APPLIED FOR: IT-security-manager\
+>SSN: 1421.3425.2348\
+>DESIRED PAY: 6900$ the month\
+>EMPLOYMENT DESIRE: FULL-TIME
+>\
+>\
+>HIGH SCHOOL: BUNNYHIGH-UK\
+>CITY/STATE: UK/BUNNY-LANE\
+>GRADUATE: YES\
+>\
+>COLLEGE: BUNNY-COL-UK\
+>CITY/STATE: UK/COLLEGE-STREET56\
+>GRATUATE: YES
+
+The second clue is provided in the `Information/unknown-backup/etc/P455WORD` file.
+
+>name-of-structure-contry-city\
+>\
+>use password for vault
+
+We can deduce from this information that we are looking for an image of a location, let's have a look around for one.
+
+The third clue is from the `Information/unknown-backup/root/password.png` image file.
+
+![password](https://user-images.githubusercontent.com/117080369/210553024-9102d70f-9952-4ea5-9e59-6d4673763f12.png)
+
+A quick Google Reverse Image search reveals that the location in the image is The Cologne Cathedral in Cologne, Germany.
+
+With this information we can extract the `Information/unknown-backup/home/UNTITLED/vault.zip` with the password `cologne-cathedral-germany-cologne`
+
+The extracted archive provides us with 2 files, 1 image containing an email address and a cryptic message.
+
+![black-bunny-organization-card](https://user-images.githubusercontent.com/117080369/210554727-53966de3-00ea-4c58-99ee-d7a3018e1227.jpeg)
+
+And a secret file, with a message:
+
+>Black rabbit, so sleek and so sly,\
+>With fur as dark as the starless night sky.\
+>Your long ears twitch and your nose twitches too,\
+>As you hop and bound through the dew-covered dew.\
+>\
+>Your eyes are bright and your paws are quick,\
+>You dart and you weave through the grass so thick.\
+>Your movements are graceful, your spirit is free,\
+>You are the embodiment of wild and carefree.\
+>\
+>You are the keeper of secrets and mystery,\
+>A creature of magic and history.\
+>You are a symbol of strength and resilience,\
+>A reminder to always embrace our difference.\
+>\
+>So here's to you, black rabbit, so wild and so true,\
+>May you always be free to roam and do what you do.\
+>\
+>\
+>\
+>secret: blackrabbits4life-operation-coffee
+
+Let's email `blackbunnyhideout@gmail.com` with the secret: `blackrabbits4life-operation-coffee` and see what happens!
+
+Almost instantly an email is received back with the following information and a satellite image.
+
+>G00d afternoon, to retrieve the coffe beans you have deposited, please proof that you are ****** by answering the following question:\
+>\
+>The-coordinates is the password for the beans in this vault: https://drive.google.com/file/d/158EIYAW1IJvYfNkFxUA92yeBGVN_jPbF/view?usp=sharing
+
+![gmail](https://user-images.githubusercontent.com/117080369/210557277-3ef997be-8bcc-4ff0-a996-897a85e6b99d.png)
+
+Let's download the vault from the Google Drive.
+
+The clue for the vault password mentions that `The-coordinates is the password for the beans in this vault`
+
+Reviewing the meatdata of the image will give us the coordinates for the image location.
+
+However this is NOT the password, we need to read the message literally, `The-coordinates is the password`
 
 Extract the `flagfile-follow-the-black-rabbit.zip` with the password from the information gained above to get your contract card.
 
