@@ -1,7 +1,7 @@
 ![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
 # The Sleeper Cell
-[CONTRACT IMAGE 600x600]
+![BoeShdw3_male_sleeper_agent_600x600](https://user-images.githubusercontent.com/117080369/210572067-f00bbc43-ddc5-4d17-bceb-5d608aa61742.png)
 
 ### $\color{magenta}{DIFFICULTY}$
 ${\color{gray}EASY\ |\color{white}\ MEDIUM\ \color{gray}|\ HARD\ |\ INSANE}$
@@ -60,15 +60,26 @@ $~$
 ---
 
 ### $\color{magenta}{METHODOLOGY}$
+After reading through the Briefing a piece of text sticks out as it is quoted, this so often means it is important!
+* “Androktasiai”
 
-[TEXT HERE]
+Let's head over to <a href="https://gchq.github.io/">CyberChef</a> and past the code into the `Input` pane.
 
-[TEXT HERE]
+The code looks suspiciously like a Base64 string as it only contains `A-Z`, `a-z` and `0-9` characters and is padded by 2 `=` signs.
 
-[TEXT HERE]
+From the Operations menu select `From Base64`
 
+![Screenshot 2023-01-04 140934](https://user-images.githubusercontent.com/117080369/210573090-2ca9367f-49cc-45aa-bd36-78bd2722a685.png)
 
-Extract the `[FLAG FILE]` with the password from the information gained above to get your contract card.
+The result now looks some sort of polyalphabetic substitution cipher.
+
+From the Operations menu select `Vigenere decode` and enter the key `Androktasiai`
+
+Reading through the output we can see the password for the flagfile.
+
+![Screenshot 2023-01-04 142047](https://user-images.githubusercontent.com/117080369/210575327-90c23a09-9a8c-4576-88ff-0c21af3bd509.png)
+
+Extract the `flagfile-the-sleeper-cell.zip` with the password from the information gained above to get your contract card.
 
 $~$
 
