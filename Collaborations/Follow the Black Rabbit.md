@@ -79,9 +79,10 @@ The first clue is provided in the `Information/suspects/unknown-note` file.
 
 >PpppmmmfmmfmPppffpPfpmfmPppffpPfpmfmPppffpMmmmfmPppffpPpmmfmPpm2MppmfmPpmppmFfmmfmPpmppmFfmmfmPpppmmPfpmfmPppffpMffmfmPpppmmpmpmfmPppffpFfmmfmPpppmmFmfmfmPpmppmFmfmfm>PpppmmmmfmfmPppppmFfmmfmPppppmFfmmfmPpppmmmmfmfmPppppmPpmmfmPpppmmFmfmfmPpmppmFmfmfmPpppmmPpmmfmPppppmFfmmfmPppppmPfpmfmPpmppmFfmmfmPpppmmFfmmfmPpppmmpmpmfmPppppmPpmm>fmPpppmmFmfmfmPpmppmFfmmfmPpppmmPfpmfmPpmppmFfmmfmPpmffpMppmfmPppFmpmfmmfmPpmppmPfpmfmPppppmMppmfmPppMfmPfpmfmPppFmpmmfmfmPppffpmmfmfmPppFmpmmfmfmPppMpmMppmfmPppFmpPp>mmfmPpmffppmpmfmPppffpmmfmfmPppFmpPpmmfmPpmppmPfpmfmPppppmMffmfmPppMpmmmfmfmPpppmmFmfmfmPppMpmFfmmfmPppffpPfpmfmPpppmmmmfmfmPppffpPfpmfmPpmffpPfpmfmPpmffpPpmmfmPppFmp>MmmmfmPppMfmMffmfmPppppmFmfmfmPppMfmMffmfmPpp2MppmfmPpppmmMppmfmPppFmpPpmmfmPppFmpmfmmfmPppMpmMffmfmPppFmpPfpmfmPpmppmFfmmfmPppffpFfmmfmPpppmmpmpmfmPpppmmFmfmfmPppffp>mmfmfmPpm2FfmmfmPppffpFmfmfmPppffpPpmmfmPppffpMmmmfmPpm2PfpmfmPppffpPpmmfmPpppmmmfmmfmPpppmmMppmfmPppffpMffmfmPpppmmFmfmfmPppFppFfmmfmPppppmPpmmfmPpppmmpmpmfmPppppmFm>fmfmPppppmMff
 
+Let's use <a href="https://www.dcode.fr/cipher-identifier">dCode Cipher Identifier</a> to make some sense of this.
+
 ![7912ee50df9e7d9358b02a1acfe10c2d](https://user-images.githubusercontent.com/117080369/210548199-35d74462-7736-4d7f-a1a1-74d760890f38.gif)
 
-Let's use <a href="https://www.dcode.fr/cipher-identifier">dCode Cipher Identifier</a> to make some sense of this.
 * Decode from `Kenny Language (Southpark)`
 * Decode from `Base64 Encoding`
 * Decode from `Ascii Code`
@@ -128,7 +129,7 @@ The extracted archive provides us with 2 files, 1 image containing an email addr
 
 ![black-bunny-organization-card](https://user-images.githubusercontent.com/117080369/210554727-53966de3-00ea-4c58-99ee-d7a3018e1227.jpeg)
 
-And a secret file, with a message:
+And a secret file, with the message:
 
 >Black rabbit, so sleek and so sly,\
 >With fur as dark as the starless night sky.\
@@ -168,7 +169,19 @@ The clue for the vault password mentions that `The-coordinates is the password f
 
 Reviewing the meatdata of the image will give us the coordinates for the image location.
 
-However this is NOT the password, we need to read the message literally, `The-coordinates is the password`
+However this is NOT the password, we need to read the message carefully and take it literally! `The-coordinates is the password`
+
+Extract the beans.zip with `The-coordinates` as the password.
+
+Reviewing the beans.bag file provides with another clue:
+
+>California Gold coffee-beans\
+>\
+>Best magic coffee beans in the world
+
+Now we have all the information required to unlock the flagfile (remember back to the job application we found?:
+* california-gold-coffee-beans
+* jeff
 
 Extract the `flagfile-follow-the-black-rabbit.zip` with the password from the information gained above to get your contract card.
 
