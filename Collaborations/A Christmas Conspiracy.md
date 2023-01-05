@@ -88,7 +88,7 @@ Paste the code into the Input pane and select `vigenere decode` from the Operati
 ![image](https://user-images.githubusercontent.com/117080369/210737562-c86a5413-b8bc-433b-a2c1-cc0b06180f40.png)
 
 Currently we do not have the required `Key` and there is no hint of what this could be from the Briefing etc. however not all is lost!\
-As we can see from the format os the string it looks very much like a URL.
+As we can see from the format of the string it looks very much like a URL.
 
 So let's try `https` as the key, as we can see this now gives us the actual key - `SANTA`.
 
@@ -184,7 +184,7 @@ Visiting each of those locations reveals the answer.
 
 ![image](https://user-images.githubusercontent.com/117080369/210746920-62b51ef3-7a8b-4f3b-a4e6-a40b4083f7d6.png)
 
-All that is left to do is Submit our answer to the <a href="https://twitter.com/infosecunited"> account via Direct Message.
+All that is left to do is Submit our answer to the <a href="https://twitter.com/infosecunited">Infosec United Twitter</a> account via Direct Message.
 
 $~$
 
