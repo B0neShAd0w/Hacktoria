@@ -1,7 +1,7 @@
 ![hacktorie-pixel-cyberpunk](https://user-images.githubusercontent.com/117080369/210135718-2b467f21-bc81-438c-b856-2ceb3f8b4375.png)
 
 # Follow the Black Rabbit
-![cyberpunk-bunny-v0-dobipu21oyx91](https://user-images.githubusercontent.com/117080369/210542918-9bb4c23b-ef1f-4460-8231-a1e300b67b9c.png)
+![BoeShdw3_Follow_the_black_rabbit_through_the_internet_600x600](https://user-images.githubusercontent.com/117080369/210749514-0ace8f3d-f6af-41b1-96d0-7c843aafaa33.png)
 
 $~$
 ---
