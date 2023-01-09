@@ -563,7 +563,7 @@ $~$
 ### $\color{magenta}{THE\ GAME\ IS\ AFOOT}$
 Now that we have `root` access we can go "virtual dumpster diving" and try to figure out the root cause of the breach.
 
-After looking through the users `.bash_history` we find that user `x170508` has been up to no good, tut tut!
+After looking through various users `.bash_history` we find a user `x170508` has been running some "out of the norm" commands, tut tut!
 * zip -r exfiltrate.zip Files/
 * python3 -m http.server
 
