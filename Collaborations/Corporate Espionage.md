@@ -335,7 +335,7 @@ Whether you're an artist or just want to try out some doodles, Paint 3D makes it
 M1cr0s0ft (Easter Egg: 3 of 5)
 c199999@velocity9-bastion:~$ 
 ```
-No credentials found, but a clue to a possible "easter egg" has been found!
+No credentials found, but a "easter egg" has been found!
 
 * x122488/passwords.txt\
 Just a list of well-known passwords, not really much use
@@ -360,7 +360,7 @@ QVQ<.`c:X8d[6Uy
 c199999@velocity9-bastion:~$
 ```
 Some interesting passwords, no clue what they pertain to though.\
-However, there is another "easter egg" clue.
+However, there is another "easter egg".
 
 * x162310/service-accounts.txt\
 About as much use as a chocolate teapot!
@@ -459,13 +459,13 @@ root@velocity9-bastion:/home/c199999#
 $~$
 
 ### $\color{magenta}{BONUS\ -\ EASTER\ EGG}$
-For a bit of fun I thought it would be cool to hide an `easter egg` within the contract but not mention it.
+For a bit of fun I thought it would be cool to hide `easter eggs` within the contract but not mention anything about it.
 
-If you remember back we already stumbled across 2 of the hints.
+If you remember back we already stumbled across 2 of the "easter eggs".
 * M1cr0s0ft (Easter Egg: 3 of 5)
 * r3mUV8y5 (Easter Egg: 2 of 5)
 
-We know there are 5 hints in total to find, now that we have root access this should be a trivial task locating the remaining 3 using a simple `find` command.
+We know there are 5 easter eggs in total to find, now that we have root access this should be a trivial task locating the remaining 3 using a simple `find` command.
 
 ```
 root@velocity9-bastion:/home/c199999# find /home -type f -exec grep -l -i "(Easter Egg:" {} \; 2>/dev/null
@@ -476,7 +476,7 @@ root@velocity9-bastion:/home/c199999# find /home -type f -exec grep -l -i "(East
 root@velocity9-bastion:/home/c199999#
 ```
 
-Hint 5:
+Egg 5:
 ```
 root@velocity9-bastion:/home/c199999# cat /home/x196954/.Branding/.Ai7/.New-Branding-Ai7
  __   __   _         _ _        ___ 
@@ -493,7 +493,7 @@ Example: egg1-Egg2-eGg3-egg4-EGG5
 root@velocity9-bastion:/home/c199999#
 ```
 
-Hint 1:
+Egg 1:
 ```
 root@velocity9-bastion:/home/c199999# cat /home/x160727/outstanding-task-list
 1. Decom old Bastion server
@@ -514,13 +514,13 @@ root@velocity9-bastion:/home/c199999#
 
 ```
 
-We have now found 4 of the 5 hints.\
-Hint 1: C0ffee\
-Hint 2: r3mUV8y5\
-Hint 3: M1cr0s0ft\
-Hint 5: Velocity9
+We have now found 4 of the 5 "easter eggs".\
+Egg 1: C0ffee\
+Egg 2: r3mUV8y5\
+Egg 3: M1cr0s0ft\
+Egg 5: Velocity9
 
-We also found a hint as to where the easter egg is located, however this is pretty useless without hint number 4.
+We also found a hint as to how to claim your "Easter Egg", however this is pretty useless without egg number 4.
 
 Let's run the find command again, but this time against our own home directory.
 
@@ -531,7 +531,7 @@ root@velocity9-bastion:/home/c199999#
 ```
 
 Haha, very sneaky.\
-Hint 4: obfu5cation
+Egg 4: obfu5cation
 
 Let's copy the Corporate-Espionage-Easter-Egg.zip file off the host.\
 Change to the /opt/.contract/.B0neShad0w directory.
@@ -552,7 +552,7 @@ From our own machine run the following command to get a copy of the Corporate-Es
 wget http://<IP-ADDRESS>:8000/Corporate-Espionage-Easter-Egg.zip
 ```
 
-Extract the `Corporate-Espionage-Easter-Egg.zip` with the password to get your easter egg.
+Extract the `Corporate-Espionage-Easter-Egg.zip` with the password to claim your "Easter egg".
 
 ```
 unzip -P C0ffee-r3mUV8y5-M1cr0s0ft-obfu5cation-Velocity9 Corporate-Espionage-Easter-Egg.zip
