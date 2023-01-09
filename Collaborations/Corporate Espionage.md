@@ -632,9 +632,9 @@ nslookup google.com
 exit
 root@velocity9-bastion:/home/c199999# 
 ```
-Armed with the Employee ID (x170508) we can find the name of the individual from the Employee-directory-dec-2022.pdf file located in the <a href="https://drive.google.com/drive/folders/1Bz2DgtzkcMr8mZXNSaDfOwbUNOBUY2DS">starter-pack-corporate-espionage.zip</a>
+Armed with the Employee ID (x170508) we can find the name of the individual from the `Employee-directory-dec-2022.pdf` file located in the <a href="https://drive.google.com/drive/folders/1Bz2DgtzkcMr8mZXNSaDfOwbUNOBUY2DS">starter-pack-corporate-espionage.zip</a>
 
-Now we can run a search for `AlexandrieAudibert` using an awesome web tool called <a href="https://blackbird-osint.herokuapp.com/">Blackbird</a>
+Now we can run a username search for `AlexandrieAudibert` using an awesome web tool called <a href="https://blackbird-osint.herokuapp.com/">Blackbird</a>
 
 It's not long before we get a hit for a GitHub page, having a quick look at their <a href="https://github.com/AlexandrieAudibert">GitHub</a> page reveals they have a profile picture that matches the picture in the `Employee-directory-dec-2022.pdf` file, and also a link to their <a href="https://twitter.com/AlexAudibert_">Twitter</a> account.
 
@@ -717,6 +717,9 @@ Browsing through the `Photos` of the cafe does confirm that this is indeed the m
 ![Screenshot 2023-01-08 132848](https://user-images.githubusercontent.com/117080369/211198619-b5237f9f-9e5f-4d28-848c-28fd5a06ecab.png)
 
 All that is left to do is get confirmation of the name and address of the cafe.
+
+![Screenshot 2023-01-08 133200](https://user-images.githubusercontent.com/117080369/211277879-bd49d090-7afb-4991-9958-68fe679e299e.png)
+
 * columbus-cafe
 * serris
 * france
