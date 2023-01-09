@@ -326,7 +326,7 @@ c199999@velocity9-bastion:~$
 ```
 
 ### Low hanging fruit 
-We have located some interesting files to have a look through, there could be passwords stored in some of these files.
+We have located some interesting files to have a look through, maybe we get lucky and find passwords stored in some of these files.
 * x113931/Paint3D/.configuration
 ```
 c199999@velocity9-bastion:~$ cat /home/x113931/Paint3D/.configuration
@@ -335,7 +335,7 @@ Whether you're an artist or just want to try out some doodles, Paint 3D makes it
 M1cr0s0ft (Easter Egg: 3 of 5)
 c199999@velocity9-bastion:~$ 
 ```
-No credentials found, but a "easter egg" has been found!
+No credentials found, but an "easter egg" has been found!
 
 * x122488/passwords.txt\
 Just a list of well-known passwords, not really much use
@@ -428,7 +428,7 @@ x195184 ALL = NOPASSWD: /bin/find
 @includedir /etc/sudoers.d
 c199999@velocity9-bastion:~$
 ```
-A possible point of priv esc is by x195184, remember it was this user that had the `old_creds` file in their home directory.\
+A possible of point horizontal privilege escalation is via x195184, remember it was this user that had the `old_creds` file in their home directory.\
 No harm is trying...
 
 ```
